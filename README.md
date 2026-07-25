@@ -10,6 +10,7 @@ version lives here instead, and the viewer fetches it at request time.
 ```
 csv/<slug>/<table>.csv     # exported game data, one directory per version
 featModifier/<slug>.json   # feat modifiers extracted from the decompiled source
+ids/<slug>.json            # chara ids and element aliases, for 404s on unknown URLs
 derived/                   # computed data (version diffs); not populated yet
 index.json                 # catalog of every archived version
 ```
@@ -26,7 +27,9 @@ index.json                 # catalog of every archived version
   "tables": ["charas", "elements", "jobs", "races", "tactics"],
   "contentHash": "...",           // identical hashes mean identical data
   "source": "git",                // "git" or "depot"
-  "featModifier": true
+  "featModifier": true,
+  "featModifierSource": "EA 23.306" // the decompiled build it was taken from,
+                                    // which is not always the same version
 }
 ```
 
@@ -54,8 +57,13 @@ $ ruby script/extract_feat.rb --archive ../elin-chara-viewer-data
 ## Delivery
 
 Pushing to `main` syncs the archive to Cloudflare R2, which is what the viewer
-reads. CSV and featModifier files are immutable once published; `index.json` is
-the only file that changes on every release.
+reads. Only the files that the push changed are uploaded, so a correction that
+happens to keep a file's size is published too.
+
+The viewer reads these files from the browser, so the bucket needs the CORS
+policy in `cors.json`; the sync workflow applies it on every run. The `range`
+header has to be allowed and `content-range` exposed because the viewer's SQL
+page reads the CSVs with DuckDB-wasm, which requests them in ranges.
 
 ## License
 

@@ -13,7 +13,8 @@
     ],
     "contentHash": "ea08c7e06af1dabcadd1eb8ce877b6c8f1d8d1540d6380f7b3930a3c4ba3bd4e",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.173 Stable Patch 1"
   },
   {
     "version": "EA 23.187",
@@ -29,7 +30,8 @@
     ],
     "contentHash": "b61ef018ba0ae29f27786c79ec7495da3f3a81a03ecce176f40a1ea1f70ca313",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.187 Stable"
   },
   {
     "version": "EA 23.188",
@@ -45,7 +47,8 @@
     ],
     "contentHash": "b61ef018ba0ae29f27786c79ec7495da3f3a81a03ecce176f40a1ea1f70ca313",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.188 Stable"
   },
   {
     "version": "EA 23.188 Patch 1",
@@ -61,7 +64,8 @@
     ],
     "contentHash": "bd0797bc763557603aac9e07c6e0cfc4f532792cab85fde0e225c7c670d2d180",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.188 Stable"
   },
   {
     "version": "EA 23.188 Patch 2",
@@ -77,7 +81,8 @@
     ],
     "contentHash": "bd0797bc763557603aac9e07c6e0cfc4f532792cab85fde0e225c7c670d2d180",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.188 Stable Patch 2 - Plugin.BaseCore"
   },
   {
     "version": "EA 23.200 Patch 2",
@@ -93,7 +98,8 @@
     ],
     "contentHash": "5a68991b9a23da02bdedf2bd5215e758b03b592bfa555b55f98ee2e9ca8881b7",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.200 Stable"
   },
   {
     "version": "EA 23.209 Patch 1",
@@ -109,7 +115,8 @@
     ],
     "contentHash": "7edfe25056b6f6465d8ba09db36bbade0b025a1371b1b13d436bd9237433dca6",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.209 Stable"
   },
   {
     "version": "EA 23.212",
@@ -125,7 +132,8 @@
     ],
     "contentHash": "97907d8b1c11c5eef77e2a684ef5a04112e42e26e2a72c45e4c2432a1339f135",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.211 Nightly Patch 1"
   },
   {
     "version": "EA 23.213",
@@ -141,7 +149,8 @@
     ],
     "contentHash": "97907d8b1c11c5eef77e2a684ef5a04112e42e26e2a72c45e4c2432a1339f135",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.211 Nightly Patch 1"
   },
   {
     "version": "EA 23.222",
@@ -157,7 +166,8 @@
     ],
     "contentHash": "9c65c3d672595a3d4b901e2864735fadd0de5db1342e2c9fcdaa077f7ea214d2",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.222 Stable nyan"
   },
   {
     "version": "EA 23.222 Patch 1",
@@ -173,7 +183,8 @@
     ],
     "contentHash": "9c65c3d672595a3d4b901e2864735fadd0de5db1342e2c9fcdaa077f7ea214d2",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.222 Stable nyan"
   },
   {
     "version": "EA 23.229 Patch 3",
@@ -189,7 +200,8 @@
     ],
     "contentHash": "a025d6dff69e98a8c8a7387050a81afbf903444b929a36ab353fafb2b8ee1d89",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.229 Stable 1st Anniversary Patch 2"
   },
   {
     "version": "EA 23.229 Patch 4",
@@ -205,7 +217,8 @@
     ],
     "contentHash": "a025d6dff69e98a8c8a7387050a81afbf903444b929a36ab353fafb2b8ee1d89",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.229 Stable 1st Anniversary Patch 2"
   },
   {
     "version": "EA 23.237",
@@ -221,7 +234,8 @@
     ],
     "contentHash": "178c923e0bfbdd4f05e476fdf63a488103cd79c0fdc5c8d319009427621b9d07",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.237 Stable"
   },
   {
     "version": "EA 23.237 Patch 1",
@@ -237,7 +251,8 @@
     ],
     "contentHash": "add1c5b5741d0d03fcd63ce777b8d9013e94899977e3e90f1e3c122a28ab6c3b",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.237 Stable"
   },
   {
     "version": "EA 23.242",
@@ -253,7 +268,8 @@
     ],
     "contentHash": "33234b11573937df1ddb68b1290cccff989281ae4433f56444265ef14a98f744",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.242 Nightly"
   },
   {
     "version": "EA 23.243",
@@ -269,7 +285,8 @@
     ],
     "contentHash": "4597b1bf599aeab7958e14d6f6aec021edf7a2cadeacb58803af8e62f72d302d",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.242 Nightly"
   },
   {
     "version": "EA 23.243 Patch 4",
@@ -285,7 +302,8 @@
     ],
     "contentHash": "dbde00fc3a6073a49bb68c95133db27545187f47e882963b182d0d8b7a4db43e",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.243 Nightly Patch 3"
   },
   {
     "version": "EA 23.244",
@@ -301,7 +319,8 @@
     ],
     "contentHash": "3eb798ed33800e2f0d6f1bec25d518c1eb9edb7ce45c4ad693063b61db4e8967",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.244 Nightly"
   },
   {
     "version": "EA 23.244 Patch 2",
@@ -317,7 +336,8 @@
     ],
     "contentHash": "3eb798ed33800e2f0d6f1bec25d518c1eb9edb7ce45c4ad693063b61db4e8967",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.244 Nightly"
   },
   {
     "version": "EA 23.245",
@@ -333,7 +353,8 @@
     ],
     "contentHash": "46d0d8230c9d5824e8c48c2891e892fd168a0bc8f37ca2e4cf3910b92a102b12",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.245 Nightly"
   },
   {
     "version": "EA 23.246",
@@ -349,7 +370,8 @@
     ],
     "contentHash": "89c2a68e896f04eff00e67f654c555c81c09f461fc8deb1ad6a9572bcb05c9a3",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.246 Nightly"
   },
   {
     "version": "EA 23.246 Patch 1",
@@ -365,7 +387,8 @@
     ],
     "contentHash": "c732961b6eb9b5810962aaf3f7925a039b8b465d639d00d5b996932c4fc57876",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.246 Nightly"
   },
   {
     "version": "EA 23.247",
@@ -381,7 +404,8 @@
     ],
     "contentHash": "973b9fad71fcc9f581737e98f787b21255580b888ae9fab14dbe6306dfa4680c",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.247 Stable"
   },
   {
     "version": "EA 23.247 Patch 1",
@@ -397,7 +421,8 @@
     ],
     "contentHash": "b386a99407f7981d909889e626fa5302516d72c9eba8442ddb9437891808f851",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.247 Stable Patch 1"
   },
   {
     "version": "EA 23.248",
@@ -413,7 +438,8 @@
     ],
     "contentHash": "1bdbe3c34aed9a09bf5791d26d3790484a8e85761021ac30cf1f091157ecfa37",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.248 Nightly"
   },
   {
     "version": "EA 23.249",
@@ -429,7 +455,8 @@
     ],
     "contentHash": "65d7493580668fafd90c83633686bc93014b6cfafe2b54254053d038ad98dc6c",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.249 Nightly"
   },
   {
     "version": "EA 23.250 Patch 1",
@@ -445,7 +472,8 @@
     ],
     "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.250 Nightly Patch 1 - Plugin.UI"
   },
   {
     "version": "EA 23.250 Patch 2",
@@ -461,7 +489,8 @@
     ],
     "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.250 Nightly Patch 1 - Plugin.UI"
   },
   {
     "version": "EA 23.252",
@@ -477,7 +506,8 @@
     ],
     "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.251 Nightly"
   },
   {
     "version": "EA 23.252 Patch 1",
@@ -493,7 +523,8 @@
     ],
     "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.251 Nightly"
   },
   {
     "version": "EA 23.252 Patch 2",
@@ -509,7 +540,8 @@
     ],
     "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.252 Stable Patch 2"
   },
   {
     "version": "EA 23.253",
@@ -525,7 +557,8 @@
     ],
     "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.253 Nightly - Plugin.UI"
   },
   {
     "version": "EA 23.254",
@@ -541,7 +574,8 @@
     ],
     "contentHash": "50394ea67281cf1c54a4c3d2d65b3c9552cb0150c7ef4ab7fc9bf966742530a3",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.253 Nightly - Plugin.UI"
   },
   {
     "version": "EA 23.254 Patch 1",
@@ -557,7 +591,8 @@
     ],
     "contentHash": "01b38604106a00337d3a8fcf60f2100d359318bd1df4811fa3ed3eb410af6935",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.254 Nightly Patch 1"
   },
   {
     "version": "EA 23.255 Patch 2",
@@ -573,7 +608,8 @@
     ],
     "contentHash": "ae2653a69bbe8b5bd6b38dc2739c3bd7c00ebc35dc946db01c3d0cbad1ee27f2",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.254 Nightly Patch 1"
   },
   {
     "version": "EA 23.255 Patch 3",
@@ -589,7 +625,8 @@
     ],
     "contentHash": "ae2653a69bbe8b5bd6b38dc2739c3bd7c00ebc35dc946db01c3d0cbad1ee27f2",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.255 Nightly Patch 3"
   },
   {
     "version": "EA 23.256",
@@ -605,7 +642,8 @@
     ],
     "contentHash": "ede2a861bdf2971765a9841e4ebae22bb8cb3ecd1c53c68a99f82b42622b9cda",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.255 Nightly Patch 3"
   },
   {
     "version": "EA 23.256 Patch 1",
@@ -621,7 +659,8 @@
     ],
     "contentHash": "84819f8bae1764793aeabddfb7e790eb4c9612869c6515b5eac0a651610c2fdb",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.256 Nightly Patch 1"
   },
   {
     "version": "EA 23.258",
@@ -637,7 +676,8 @@
     ],
     "contentHash": "b554c24dd9036c5d73e5fc4216239b80a82b96451fac4c4c41fe0f16bcb98941",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.258 Nightly"
   },
   {
     "version": "EA 23.259",
@@ -653,7 +693,8 @@
     ],
     "contentHash": "b2162b3097ee359896d70802128b4eb89fa465f824df3df919d4bb151a13ecbe",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.259 Nightly"
   },
   {
     "version": "EA 23.260",
@@ -703,7 +744,8 @@
     ],
     "contentHash": "b927bc6d98033428cd945deae3f190f587ec66d792b353d896ddc1012efac94e",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.259 Nightly"
   },
   {
     "version": "EA 23.260 Patch 1",
@@ -753,7 +795,8 @@
     ],
     "contentHash": "edff901f96982994d536972408cf8938b4f27b761059c9e0a5c389a26beed846",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.260 Stable Patch 1"
   },
   {
     "version": "EA 23.261 Patch 2",
@@ -803,7 +846,8 @@
     ],
     "contentHash": "f46e55dfc8e5d31f0ce966cf5e6b8fa7e9b3098edf7ed7e23d059e8838255f1e",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.260 Stable Patch 1"
   },
   {
     "version": "EA 23.261 Patch 3",
@@ -853,7 +897,8 @@
     ],
     "contentHash": "80a4037d2930ef421bc30c82c924c44808a82faf1207c51f1ec23a22b4bdbddd",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.261 Nightly Patch 3"
   },
   {
     "version": "EA 23.262",
@@ -903,7 +948,8 @@
     ],
     "contentHash": "90d911c45c067639bc2a5309519c1709cf3320d26c7ea90dcfbfd18fc6724f70",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.261 Nightly Patch 3"
   },
   {
     "version": "EA 23.262 Patch 3",
@@ -953,7 +999,8 @@
     ],
     "contentHash": "a7f64dd274a3606a809c21fb2b54184f37796003eb0fa64b603b31692a0452e0",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.262 Nightly Patch 1 - Plugin.BaseCore"
   },
   {
     "version": "EA 23.263",
@@ -1003,7 +1050,8 @@
     ],
     "contentHash": "35ba6b7ffd27d24648fe94c4e02f3ee3e8885b13c2675f42062ddebb1ebbbc21",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.262 Nightly Patch 1 - Plugin.BaseCore"
   },
   {
     "version": "EA 23.263 Patch 2",
@@ -1053,7 +1101,8 @@
     ],
     "contentHash": "543346fb6fab317c53fc8e799029e029365e278d80638b7af644ec01e84d39cc",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.262 Nightly Patch 1 - Plugin.BaseCore"
   },
   {
     "version": "EA 23.263 Patch 3",
@@ -1103,7 +1152,8 @@
     ],
     "contentHash": "dde579b0326baffe6679265497126d6485e2723c7d9fccf90e684cfb8dd90c1d",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.262 Nightly Patch 1 - Plugin.BaseCore"
   },
   {
     "version": "EA 23.264",
@@ -1153,7 +1203,8 @@
     ],
     "contentHash": "3f72dbc2c176a23550b2c85f55b187e735c675dcfe0696512de45aa038d28be5",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.264 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.264 Patch 1",
@@ -1203,7 +1254,8 @@
     ],
     "contentHash": "f6a9cf2c0ef2c0dbfbb0001ab6be187f7f14e4cf4787400953dbe5677bef6185",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.264 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.265 Patch 1",
@@ -1253,7 +1305,8 @@
     ],
     "contentHash": "34d0aff46ddf1133acce1ebce46e98baa30a2192d38d1408951f91bf6395cd15",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.264 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.265 Patch 2",
@@ -1303,7 +1356,8 @@
     ],
     "contentHash": "6231c0db922a8e7d48f5785b0f69368449f90cc24e03422bf19259b64cfaf057",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.265 Nightly Patch 2"
   },
   {
     "version": "EA 23.267",
@@ -1353,7 +1407,8 @@
     ],
     "contentHash": "d5045ba7640ae08b6a48a2615bfa34cab49a8ab8857adacdbc08c8ea1ef4b034",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.265 Nightly Patch 2"
   },
   {
     "version": "EA 23.267 Patch 1",
@@ -1403,7 +1458,8 @@
     ],
     "contentHash": "d5045ba7640ae08b6a48a2615bfa34cab49a8ab8857adacdbc08c8ea1ef4b034",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.267 Stable Patch 1"
   },
   {
     "version": "EA 23.268",
@@ -1453,7 +1509,8 @@
     ],
     "contentHash": "10d20736e7b3a2d64c15b91233a32e6233915194be983b06bc53bf34811a7592",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.268 Nightly - Plugin.UI"
   },
   {
     "version": "EA 23.269",
@@ -1503,7 +1560,8 @@
     ],
     "contentHash": "4d51311923c2c0ecdc7d9c42374af5bab1519264e908e8c577421e65f297e867",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.268 Nightly - Plugin.UI"
   },
   {
     "version": "EA 23.269 Patch 3",
@@ -1553,7 +1611,8 @@
     ],
     "contentHash": "5fd73612366a384c438f8cc81b24458fced932260e2b5e3bb70db88195a71a1f",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.269 Nightly Patch 3"
   },
   {
     "version": "EA 23.271 Patch 2",
@@ -1603,7 +1662,8 @@
     ],
     "contentHash": "eb4eb102618234ed44e67844e0a53665970fe35444f690702d838da0c671bc70",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.271 Nightly Patch 1"
   },
   {
     "version": "EA 23.272",
@@ -1653,7 +1713,8 @@
     ],
     "contentHash": "46f696ebf788baaaf83b3361757c5c4de9f4d4e2f8fd92c431c8e19897966028",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.272 Nightly"
   },
   {
     "version": "EA 23.273 Patch 2",
@@ -1703,7 +1764,8 @@
     ],
     "contentHash": "ae841aca6294220cb413e599a4d47e6f8891c2887c31bcc29c8c612965bd8537",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.273 Nyaightly Patch 1"
   },
   {
     "version": "EA 23.275",
@@ -1753,7 +1815,8 @@
     ],
     "contentHash": "32a0969e4a3370521aa82c3aa1e0011e8ca91085cc0d604475f346806cbf3504",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.275 Nightly"
   },
   {
     "version": "EA 23.276 Patch 2",
@@ -1803,7 +1866,8 @@
     ],
     "contentHash": "11ee1edc70e8c384539f3f773d4c559305ea350156e08c3f62d1f505391f4dec",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.276 Nightly Patch 2"
   },
   {
     "version": "EA 23.277",
@@ -1853,7 +1917,8 @@
     ],
     "contentHash": "f8db79629605143ab09e06d9116cc6e05e34c579c1ddce2cd8496f705348dd85",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.276 Nightly Patch 2"
   },
   {
     "version": "EA 23.277 Patch 1",
@@ -1903,7 +1968,8 @@
     ],
     "contentHash": "f8db79629605143ab09e06d9116cc6e05e34c579c1ddce2cd8496f705348dd85",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.277 Nightly Patch 1 - Plugin.UI"
   },
   {
     "version": "EA 23.277 Patch 2",
@@ -1953,7 +2019,8 @@
     ],
     "contentHash": "46c7e02554cdf8255a0d7428972477a0b05210ad3e8f344a98de51e2baf9038f",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.277 Nightly Patch 1 - Plugin.UI"
   },
   {
     "version": "EA 23.278",
@@ -2003,7 +2070,8 @@
     ],
     "contentHash": "5576635daac67b0b55b2b475d1d54e5d99e84f4f3c1e22d6f92cdeb97c7ec350",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.278 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.280",
@@ -2053,7 +2121,8 @@
     ],
     "contentHash": "705e3a7da89396de69edc8a0d8b633bcfe6f0cf982c0008865e59fe722d215cf",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.279 Nightly Patch 1"
   },
   {
     "version": "EA 23.281",
@@ -2103,7 +2172,8 @@
     ],
     "contentHash": "705e3a7da89396de69edc8a0d8b633bcfe6f0cf982c0008865e59fe722d215cf",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.279 Nightly Patch 1"
   },
   {
     "version": "EA 23.282 Patch 3",
@@ -2153,7 +2223,8 @@
     ],
     "contentHash": "4bc93e4441e110bb5f804621e17dd519fefbb816c5ee5535d6e92d4cd30e28c6",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.282 Stable Patch 3"
   },
   {
     "version": "EA 23.283 Patch 1",
@@ -2203,7 +2274,8 @@
     ],
     "contentHash": "c6c8d6a87b54f7cbc26745f3b281bad5ba43d44013b064c04542c2146ea221d7",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.283 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.283 Patch 2",
@@ -2253,7 +2325,8 @@
     ],
     "contentHash": "1607fe256ba538d8831f9046c1253922d7bb845dd5252ce7041426af0e94aaf9",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.283 Nightly Patch 2 - Plugin.BaseCore"
   },
   {
     "version": "EA 23.284",
@@ -2303,7 +2376,8 @@
     ],
     "contentHash": "8b940fac2274b70e8504a60f0ff11eb630bb9eff9fc30458ce19909ed6010061",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.283 Nightly Patch 2 - Plugin.BaseCore"
   },
   {
     "version": "EA 23.285",
@@ -2353,7 +2427,8 @@
     ],
     "contentHash": "0d7f1e5172c922fb326b48f56833bc49c5b646c96816ca9ce56506e9a5c16475",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.285 Nightly - Plugin.UI"
   },
   {
     "version": "EA 23.286 Patch 1",
@@ -2403,7 +2478,8 @@
     ],
     "contentHash": "e56e1705f2841abe8804d13fb630c7d48c20ffe6d31fd48b8f8d78de3eac1f5b",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.286 Nightly Patch 1"
   },
   {
     "version": "EA 23.287 Patch 4",
@@ -2453,7 +2529,8 @@
     ],
     "contentHash": "e56e1705f2841abe8804d13fb630c7d48c20ffe6d31fd48b8f8d78de3eac1f5b",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.287 Stable Patch 3 - Plugin.BaseCore"
   },
   {
     "version": "EA 23.288",
@@ -2503,7 +2580,8 @@
     ],
     "contentHash": "bad7b3a53d9982f5d71a26cafddb41dec07cfaebf4847af491d2bf006993bfb5",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.288 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.288 Patch 1",
@@ -2553,7 +2631,8 @@
     ],
     "contentHash": "6498e5438fdd8f42ff927414b499dc84682f600cd3759e1f6da19e95628fc794",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.288 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.289",
@@ -2603,7 +2682,8 @@
     ],
     "contentHash": "05af33be14bdf53b8d9267b5706553e5cd63fe4a818f69d002ca49aa1f01078f",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.289 Nightly"
   },
   {
     "version": "EA 23.290",
@@ -2653,7 +2733,8 @@
     ],
     "contentHash": "9b554d2d66d6a46d0c771f90e5f9398f7c3209fd227e0842871af3d9758ef367",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.290 Nightly"
   },
   {
     "version": "EA 23.290 Patch 1",
@@ -2703,7 +2784,8 @@
     ],
     "contentHash": "407f2a608762e9b17785324d2e9044af449705ff32b422cde06842b71ef0150b",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.290 Nightly"
   },
   {
     "version": "EA 23.291 Patch 1",
@@ -2753,7 +2835,8 @@
     ],
     "contentHash": "54dc140fae4cc207b3aed609295222dbc41f34f5157ff04958d5cb9a88303a78",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.291 Nightly Patch 1"
   },
   {
     "version": "EA 23.292",
@@ -2803,7 +2886,8 @@
     ],
     "contentHash": "8c2c6e9dbc8f27f0597e861f700e3e7060ddacbf345e37e400af511b84a33889",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.292 Nightly"
   },
   {
     "version": "EA 23.293",
@@ -2853,7 +2937,8 @@
     ],
     "contentHash": "a956511e41e9567cff47fb01970abaa361cfdebd910967590c934c7a89dd3ce5",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.293 Nightly"
   },
   {
     "version": "EA 23.293 Patch 1",
@@ -2903,7 +2988,8 @@
     ],
     "contentHash": "5b93bcbcdba3421e9be35d3d8ee8a90a6cc220024d4bc731eec695508d87f760",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.293 Nightly Patch 1"
   },
   {
     "version": "EA 23.294",
@@ -2953,7 +3039,8 @@
     ],
     "contentHash": "4debe15bdb5c6cd19cf653b9733d6ec2bafd2d229dd27c553be269008426a6c9",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.294 Nightly"
   },
   {
     "version": "EA 23.295",
@@ -3003,7 +3090,8 @@
     ],
     "contentHash": "4debe15bdb5c6cd19cf653b9733d6ec2bafd2d229dd27c553be269008426a6c9",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.295 Stable - Plugin.UI"
   },
   {
     "version": "EA 23.295 Patch 2",
@@ -3053,7 +3141,8 @@
     ],
     "contentHash": "fffc13b1d600a5319e7c55f8d5d78e29c1ad07c4e89ba60de04a9f786483e289",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.295 Stable Patch 2 - Plugin.BaseCore"
   },
   {
     "version": "EA 23.296",
@@ -3103,7 +3192,8 @@
     ],
     "contentHash": "61632a9ef7088fb00c7ba709b91f2f01e6a629d1407b6ea701fd271050feac8f",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.296 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.300",
@@ -3153,7 +3243,8 @@
     ],
     "contentHash": "cfc1811af75415f482f3747a5fc36f164bab22453489dd21f3b712bed700fd0b",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.300 Nightly - Plugin.UI"
   },
   {
     "version": "EA 23.301",
@@ -3203,7 +3294,8 @@
     ],
     "contentHash": "32d7c82cc5b07cfe265eb1a7ff6daf184b72c53fb16d0921f985743d5e6d45b8",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.301 Nightly"
   },
   {
     "version": "EA 23.302",
@@ -3253,7 +3345,8 @@
     ],
     "contentHash": "a8d07c7416d9bff8ae822c24a26a79c5817b18b5e1705e1c15648a46fa472a9c",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.302 Nightly"
   },
   {
     "version": "EA 23.303",
@@ -3303,7 +3396,8 @@
     ],
     "contentHash": "362b6708295c8c1932c4ba0d1e78eb667c13e81073d931b11fbcbd5359a8ffa4",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.303 Nightly"
   },
   {
     "version": "EA 23.304",
@@ -3353,7 +3447,8 @@
     ],
     "contentHash": "8514a9534cb1f11d36945ebbb376f3ede510cbfd7968e6d157901c19934e4f37",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.304 Nightly"
   },
   {
     "version": "EA 23.305",
@@ -3403,7 +3498,8 @@
     ],
     "contentHash": "7fd4d888b926db411eda20e53f663acc86906dc56e2a8e8e1217740ed0940b47",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.305 Nightly"
   },
   {
     "version": "EA 23.306",
@@ -3452,7 +3548,8 @@
     ],
     "contentHash": "12e43d2d0c72cbe069bafef85c183de3afd3d800b4edfdbb15206da85e607f7f",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.306 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.306 Patch 1",
@@ -3501,7 +3598,8 @@
     ],
     "contentHash": "ac852f607891560ea91f707c2fa4be9d200c34d3d9b560a603c8e0f2a1a7c336",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.306 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.306 Patch 2",
@@ -3550,7 +3648,8 @@
     ],
     "contentHash": "f4dbf885bc8cf013060a9addcbb8eda3f874bbecceb1c8de58107984ba833cc7",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.306 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.306 Patch 3",
@@ -3599,7 +3698,8 @@
     ],
     "contentHash": "bf3a47866df3940f2f19e99fc3a2b8f701c99d42396ad8c2d04e25f9bad2d021",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.306 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.307",
@@ -3648,7 +3748,8 @@
     ],
     "contentHash": "d2efe50b49d9e1b620d5487f18b3da1575b41659b2270c3c5ab539043edfb463",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.307 Stable"
   },
   {
     "version": "EA 23.308",
@@ -3697,7 +3798,8 @@
     ],
     "contentHash": "ac4ae7e556b69cd0a21bf47d4d28f1b49b4b7701489599f01947608ed38ef30e",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.308 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.309 Patch 1",
@@ -3746,7 +3848,8 @@
     ],
     "contentHash": "3b58608ad112b590d0b5c2a19ea96b4b49c1de8638246083d40158622e285feb",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.309 Nightly Patch 1"
   },
   {
     "version": "EA 23.310 Patch 2",
@@ -3795,7 +3898,8 @@
     ],
     "contentHash": "9ea6d18b49a82958e6a6928ee0d2cbaf15b768199d26e9a2f9bafaffc68569ad",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.310 Nightly Patch 1"
   },
   {
     "version": "EA 23.311 Patch 1",
@@ -3844,7 +3948,8 @@
     ],
     "contentHash": "9ea6d18b49a82958e6a6928ee0d2cbaf15b768199d26e9a2f9bafaffc68569ad",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.310 Nightly Patch 1"
   },
   {
     "version": "EA 23.312 Patch 2",
@@ -3893,7 +3998,8 @@
     ],
     "contentHash": "2a8a8612cad77ee6a6a9769bc782bfa518950bdb7c8455bd81f02e44943af108",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.310 Nightly Patch 1"
   },
   {
     "version": "EA 23.312 Patch 3",
@@ -3942,7 +4048,8 @@
     ],
     "contentHash": "9d43915965f243c1ad78bd3b370e38cbc5b5eb5fc64b06d247ce32086c6fbfbf",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.310 Nightly Patch 1"
   },
   {
     "version": "EA 23.313",
@@ -3991,7 +4098,8 @@
     ],
     "contentHash": "9d43915965f243c1ad78bd3b370e38cbc5b5eb5fc64b06d247ce32086c6fbfbf",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.312 Nightly Patch 4 - Plugin.UI"
   },
   {
     "version": "EA 23.313 Patch 1",
@@ -4040,7 +4148,8 @@
     ],
     "contentHash": "9d43915965f243c1ad78bd3b370e38cbc5b5eb5fc64b06d247ce32086c6fbfbf",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.312 Nightly Patch 4 - Plugin.UI"
   },
   {
     "version": "EA 23.315",
@@ -4089,7 +4198,8 @@
     ],
     "contentHash": "56b0940cc444d479f2f5322367eb80a8dd06d83db5e636ae72f307f31748b357",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.315 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.316",
@@ -4138,7 +4248,8 @@
     ],
     "contentHash": "2eb034b75c2737b3726d451620b1e999c1f7e2a070412783e60ef9e9d9bf074a",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.316 Nightly - Plugin.UI"
   },
   {
     "version": "EA 23.318",
@@ -4187,7 +4298,8 @@
     ],
     "contentHash": "2be70182053693f34294f63b391fe42ba04893c8ee9534c3ab0888ba941216f3",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.318 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.319 Patch 1",
@@ -4236,7 +4348,8 @@
     ],
     "contentHash": "1b9dd3336bf1457bea346fc2ad1e137445bab521bddad3b23ba2d728a10a8e66",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.319 Nightly Patch 1"
   },
   {
     "version": "EA 23.321 Patch 1",
@@ -4285,7 +4398,8 @@
     ],
     "contentHash": "e2b00ff7ee0baf6f0dfc42c0b12b1429036c27a661374229156cc918c98b4d33",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.321 Nightly Patch 1"
   },
   {
     "version": "EA 23.322",
@@ -4334,7 +4448,8 @@
     ],
     "contentHash": "13375b3ee43c59d125648ce80833e615f97133e8142be89dc3a9f097a65ea09e",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.321 Nightly Patch 1"
   },
   {
     "version": "EA 23.323 Patch 2",
@@ -4383,7 +4498,8 @@
     ],
     "contentHash": "0bf283ffb6211adf560ce817ca078418571888fb38915d0e3038435cdeca0467",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.321 Nightly Patch 1"
   },
   {
     "version": "EA 23.324",
@@ -4432,7 +4548,8 @@
     ],
     "contentHash": "3145e62ed74bd4ad79135fdae523d117b57b14bd1f8ffe1b62ce4a57e5d7d3fa",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.324 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.325",
@@ -4481,7 +4598,8 @@
     ],
     "contentHash": "d1669d220c232cb84dd50fec59039cc32838aec690663f620f1d9ebdd5de08fb",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.324 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.325 Patch 1",
@@ -4530,7 +4648,8 @@
     ],
     "contentHash": "027375d96e3a84602e679f072547cd04483702948d47b72ea4c57c49545068c2",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.324 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.325 Patch 2",
@@ -4579,7 +4698,8 @@
     ],
     "contentHash": "6445c152c776ad178ea947526b042a5dbe2f79d47e94465bc5e5604b4b588581",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "+EA 23.324 Nightly - Plugin.BaseCore"
   },
   {
     "version": "EA 23.326",
@@ -4628,7 +4748,8 @@
     ],
     "contentHash": "c92d094674e64c44c3a92571e4345d7399dbec74198174286e0e5b9c610b7b6b",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.326 Nightly"
   },
   {
     "version": "EA 23.327",
@@ -4677,7 +4798,8 @@
     ],
     "contentHash": "1cbfbd9c2a67c90e6ad033aa17b0c5e4e3cc3975b63d6de7f8c8e4c80a780dc1",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.327 Nightly"
   },
   {
     "version": "EA 23.328",
@@ -4726,7 +4848,8 @@
     ],
     "contentHash": "63abd7096fe794dbf6c7c55d0d14565c7f4ae3ceee8b0b51877883cc45b6f101",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.328 Nightly"
   },
   {
     "version": "EA 23.329",
@@ -4775,7 +4898,8 @@
     ],
     "contentHash": "c6eca2b715f8cfbc52343e8958c50cddb136a03838fbb7e430bd0b5ece5900d9",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.329 Nightly"
   },
   {
     "version": "EA 23.329 Patch 2",
@@ -4824,6 +4948,7 @@
     ],
     "contentHash": "27f2ccfd79e67f897af29ce2578f47e18f03c4711787028abb1cf10fc4f49238",
     "source": "git",
-    "featModifier": true
+    "featModifier": true,
+    "featModifierSource": "EA 23.329 Nightly"
   }
 ]

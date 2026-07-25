@@ -9,37 +9,78 @@ concurrency:
   group: sync-r2
   cancel-in-progress: false
 
+permissions:
+  contents: read
+
 jobs:
   sync:
     name: Sync archive to R2
     runs-on: ubuntu-latest
 
-    env:
-      AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-      AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-      AWS_DEFAULT_REGION: auto
-      AWS_REQUEST_CHECKSUM_CALCULATION: when_required
-      AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
-      ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
-      BUCKET: ${{ secrets.R2_BUCKET }}
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # The upload is driven by the diff of the pushed range.
+          fetch-depth: 0
 
-      - name: Sync data files
+      - name: Upload
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+          AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
+          ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          BUCKET: ${{ secrets.R2_BUCKET }}
+          BEFORE: ${{ github.event.before }}
         run: |
-          for dir in csv featModifier derived; do
-            aws s3 sync "$dir" "s3://$BUCKET/$dir" \
+          set -euo pipefail
+
+          # aws s3 sync compares size and mtime. A checkout gives every file a
+          # fresh mtime, so it would re-upload the whole archive every run;
+          # --size-only would instead skip a correction that happens to keep the
+          # file size. The pushed range says exactly what changed.
+          if [ "${BEFORE:-}" = '0000000000000000000000000000000000000000' ] ||
+             ! git cat-file -e "${BEFORE:-missing}^{commit}" 2>/dev/null; then
+            changed="$(git ls-files)"
+            deleted=''
+          else
+            changed="$(git diff --diff-filter=d --name-only "$BEFORE" HEAD)"
+            deleted="$(git diff --diff-filter=D --name-only "$BEFORE" HEAD)"
+          fi
+
+          upload() {
+            aws s3 cp "$1" "s3://$BUCKET/$1" \
               --endpoint-url "$ENDPOINT" \
-              --cache-control 'public, max-age=31536000, immutable' \
-              --size-only
-          done
+              --cache-control "$2"
+          }
 
-      # index.json changes on every release, so it must not be cached immutably.
-      - name: Upload index
+          while IFS= read -r file; do
+            case "$file" in
+              csv/*|featModifier/*|ids/*|derived/*)
+                # Corrections are published by rewriting the archive, so a day
+                # of caching bounds how long a stale copy can be served.
+                upload "$file" 'public, max-age=86400, stale-while-revalidate=604800' ;;
+              index.json)
+                upload "$file" 'public, max-age=300' ;;
+            esac
+          done <<< "$changed"
+
+          while IFS= read -r file; do
+            [ -n "$file" ] || continue
+            aws s3 rm "s3://$BUCKET/$file" --endpoint-url "$ENDPOINT"
+          done <<< "$deleted"
+
+      - name: Apply the CORS policy
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          BUCKET: ${{ secrets.R2_BUCKET }}
         run: |
-          aws s3 cp index.json "s3://$BUCKET/index.json" \
+          aws s3api put-bucket-cors \
+            --bucket "$BUCKET" \
             --endpoint-url "$ENDPOINT" \
-            --content-type application/json \
-            --cache-control 'public, max-age=300'
+            --cors-configuration file://cors.json
