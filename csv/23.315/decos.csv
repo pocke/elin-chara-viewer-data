@@ -1,0 +1,10 @@
+id,alias,name_JP,name,sort,idBiome,reqHarvest,hp,_tileType,_idRenderData,tiles,anime,colorMod,value,LV,recipeKey,factory,components,defMat,category,edge,autotile,autotilePriority,autotileBrightness,soundFoot,tag,detail_JP,detail
+0,,,,0,,"digging,1",100,None,floor,6,,100,0,1,,x,-,oak,floor_deco,0,0,0,0,,,,
+1,deco_frame,石の囲い,stone border,1,,"digging,1",100,FloorDeco,floor,216,,100,0,25,*,factory_floor,dye,granite,floor_deco,0,0,0,0,,,,
+2,deco_frame_at,縁石,stone curb,2,,"digging,1",100,FloorDeco,floor,3015,,100,0,9,*,factory_floor,dye,granite,floor_deco,0,8,0,0,,,,
+3,deco_frame_at2,縁石,stone curb,3,,"digging,1",100,FloorDeco,floor,2915,,100,0,9,*,factory_floor,dye,granite,floor_deco,0,6,0,0,,,,
+4,deco_frame_at3,縁石,stone curb,4,,"digging,1",100,FloorDeco,floor,3115,,100,0,9,*,factory_floor,dye,granite,floor_deco,0,10,0,0,,,,
+5,deco_frame_at4,建設の縁石,construction curb,5,,"digging,1",100,FloorDeco,floor,3215,,100,0,25,*,factory_floor,dye,straw,floor_deco,0,12,0,0,,,,
+6,deco_frame_at5,丸太の縁石,log curb,6,,"digging,1",100,FloorDeco,floor,3131,,100,0,25,*,factory_floor,dye,oak,floor_deco,0,11,0,0,,,,
+7,deco_frame_at6,丸太の縁石,log curb,7,,"digging,1",100,FloorDeco,floor,3231,,100,0,25,*,factory_floor,dye,oak,floor_deco,0,13,0,0,,,,
+8,deco_frame_at7,煉瓦の縁石,brick curb,8,,"digging,1",100,FloorDeco,floor,3315,,100,0,9,*,factory_floor,dye,soil,floor_deco,0,14,0,0,,,,

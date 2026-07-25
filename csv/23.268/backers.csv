@@ -1,0 +1,648 @@
+id,***,***,valid,***,***,***,lang,name,text,type,skin,gender,tree,deity,chara,loot,isStatic,done,loc,original
+1962,,,False,,,,,,,0,0,0,,,,,0,False,,
+4982,,,False,,,,,,,0,0,0,,,,,0,False,,
+5532,,,True,,,,,Lmm,,1,4,0,,,,fail_drink,0,False,,
+5637,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+5604,,,True,,,,JP,黒いネコ「DOSDOSDOS」,,4,0,2,,,cat,,0,False,,
+2942,,,True,,,,,1ettuce,,6,0,1,,Healing,,,0,False,,
+725,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+5539,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+3196,,,True,,,,JP,図書館からの来訪者「電源なの」,,6,0,1,,Oblivion,,,0,False,,
+3273,,,False,,,,,,,0,0,0,,,,,0,False,,
+4048,,,True,,,,,oats,,4,0,1,,,cat,,0,False,,
+5697,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+5205,,,True,,,,JP,水晶の刃「ニヴィ」,,3,0,0,,,,,1,True,mifu,
+1994,,,False,,,,,,,0,0,0,,,,,0,False,,
+3552,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+5318,,,True,,,,JP,終われえぬ死人「削られていて読めない」,「時間が来たら起こしてくれ」,2,0,0,,,,,1,True,cursed manor,
+874,,,True,,,,JP,折り重なる祈り「neigee」,,6,0,0,,Healing,,,0,False,,
+5723,,,False,,,,JP,灰色のスクエア「コンニャク」,,0,0,0,,,,,0,False,,
+547,,,True,,,,,子羊「部位」,,6,0,2,,Harvest,,,0,False,,
+10000,,,True,,,,,"""Talgron"" The Slothful Founder","""He did very little, but pick wise advisors to administer his nation, before abdicating the throne to a more worthy ruler""",1,4,0,,,,bed,1,True,fox town,
+4321,,,True,,,,JP,噛まずに言える？「おにょにょいみょこ」,,5,5,0,,,,,1,True,cursed manor,
+4659,,,True,,,,JP,Happeach,「かわいい雑貨屋さん」,2,0,0,,,,,0,False,,
+4810,,,False,,,,,,,0,0,0,,,,,0,False,,
+2872,,,True,,,,JP,笑い兎「ピョンジル」,,4,0,2,,,rabbit,,0,False,,兎
+862,,,True,,,,JP,あえぐメイジ「タマ」,,6,0,1,,Luck,,,0,False,,
+1228,,,True,,,,JP,音と光クラブ,「いあ！いあ！よぐ・そとおす！」,2,0,0,,,,,0,False,,
+3551,,,True,,,,JP,かつて人だったランタン「took」,「眩しすぎる…」,2,0,0,,,,,0,False,,
+3587,,,False,,,,,,,1,0,0,,,,,0,False,,
+4148,,,True,,,,JP,久遠なる剣帝「メタマス」,,2,0,0,,,,,0,False,,
+4302,,,True,,,,JP,ワンダフル駄犬「キャロレン」,,4,0,1,,,dog,,0,False,,犬
+4662,,,True,,,,JP,召喚された鮭「ドマ」,「み、水......」,1,0,0,,,,75,0,False,,"鮎,魚"
+4956,,,True,,,,JP,狂いし者「mg」,,7,0,0,,,,,1,True,casino,
+5448,,,True,,,,JP,不滅の犬「シャルパン」,,4,0,0,,,dog,,1,True,yowyn,
+5481,,,True,,,,JP,崇拝者「ヨルクモ」,,6,0,1,,Earth,,,0,False,,
+5521,,,True,,,,JP,酒菜,,6,0,1,,Earth,,,0,False,,
+5636,,,True,,,,,"""Mist"" Felheim",,5,2,0,,,,,1,True,cursed manor,
+5650,,,True,,,,JP,さなべえ,,6,0,2,,Oblivion,,,1,True,noyel,
+5869,,,True,,,,JP,名無しの「ナイスガイ」,「犯人はヤツ」,1,2,0,,,,dagger,0,False,,ナイフ
+5876,,,True,,,,,"""Zingot"" The Sneaky","""I used to be Zingot the Sneaky until I was made a little leaky, now I'm just Zingot the Corpse.""",1,3,0,,,,dagger,0,False,,Dagger
+5997,,,True,,,,JP,イツキ,,6,0,0,,Harvest,,,0,False,,
+47,,,True,,,,JP,エギー,,7,5,0,,,,,0,False,,
+105,,,True,,,,JP,酒仙の錬金術師「マサミツ」,「夢心地 浮き世の日陰隠れいて 浮かびし影に見ゆ真理」,1,0,0,,,,crimAle,0,False,,酒
+269,,,False,,,,,,,0,0,0,,,,,0,False,,
+285,,,True,,,,JP,猫のようなうめき「ユキ」,次はもっと上手に・・・」,1,3,0,,,,lute,0,False,,軽い楽器
+295,,,True,,,,JP,永遠なる妹「クレマ・ティオーナ」,,5,3,0,,,,,0,False,,
+570,,,True,,,,JP,エセル,,7,5,0,,,,,0,False,,
+615,,,True,,,,JP,寄生された兄狐「ゴン」,,4,0,0,,,twintail,,0,False,,狐
+715,,,True,,,,,Aekx,"""I thought it was going to be a knife fight...""",1,0,0,,,,gun,1,True,derphy,Gun
+1235,,,True,,,,JP,暗黒魔獣「ケルちゃん」,,4,0,1,,,dog,,0,False,,犬
+1325,,,True,,,,JP,猫と戯れる者「カズキ」,,3,0,0,cherry,,,,0,False,,
+1384,,,True,,,,JP,継がれしランタン「ウイッシュ」,「人々がその冒険の歩みを止めるとき。その最後の一歩が幸せであることを」,2,0,0,,,,,0,False,,
+1456,,,True,,,,JP,伝説の勇者「ああああ」,「おお ああああ！ しんでしまうとは なにごとだ！」,1,2,0,,,,staff_long,0,False,,武器ひのき棒
+1612,,,True,,,,,"""Trinity"" The Tree Hater",,3,0,0,random,,,,0,False,,
+1768,,,True,,,,JP,ツインテを愛する「はぴ」,「ツインテール万歳！」,2,0,0,,,,,0,False,,
+1888,,,True,,,,,"""Uika"" The dold bilocation",,5,3,0,,,,,0,False,,
+2343,,,True,,,,JP,言葉なき探究者「セワート」,,2,0,0,,,,,0,False,,
+2357,,,True,,,,JP,何も知らない「リミナ」,,5,0,0,,,,,0,False,,
+2821,,,True,,,,JP,愛を追い求める狂人「ヒィロ」,「君がボクを拒んだのが悪いんだよ・・・」,1,3,0,,,,meatbag,0,False,,包丁と人肉
+2986,,,True,,,,JP,嘲り踊る「ラビュリンス」,,5,4,0,,,,,1,True,cursed manor,
+3256,,,True,,,,JP,絶対的な失墜「薫葉」,「進めば二つ、逃げれば一つ、決断は突然やってくる」,2,0,0,,,,,0,False,,
+3320,,,True,,,,JP,終わらない仮面「ＱＹ」,「本当に…？」,1,0,0,,,,671,0,False,,"ふかふかパン,食品"
+3482,,,True,,,,,“Flint” The Stout,,3,0,0,oak,,,,0,False,,
+3567,,,True,,,,JP,氷河の狙撃手「シヴァ」,「あなたの生は輝いていますよ。いつか等しく終わりが来るもの。精一杯楽しみましょう」,2,0,0,,,,,0,False,,
+3850,,,False,,,,JP,少女を追う者「キャロル」,「アリスはどこだ？」,1,2,0,,,,274,0,False,,"絵画「貴婦人」,女性の書かれた写真"
+4063,,,True,,,,JP,音に願う旅人「ジュラ」,「このひと時に」,2,0,0,,,,,0,False,,
+4282,,,True,,,,JP,パラサイト,,7,1,0,,,,,0,False,,
+4416,,,True,,,,JP,水屋の精霊「buun」,「この先、苦難があるぞ。だから音楽が必要だ。」,1,0,0,,,,cello,1,True,windrest,楽器(コントラバス)
+4436,,,True,,,,CN,柚寧,,5,0,0,,,,,0,False,,
+4472,,,True,,,,,"""Rudeman"" The Unyielding Pig",,4,0,2,,,pig,,0,False,,Pig
+4552,,,False,,,,JP,,,0,0,0,,,,,1,False,,
+4690,,,True,,,,JP,アンデッドの至宝「エステル」,「…っ、どこをまさぐってるのよ！ 魔力が戻ったら覚えてなさいよ……！ 後悔させてやるんだから！」,1,0,0,,,,panty,0,False,,パンティー
+4971,,,True,,,,JP,ミス・ユースケ,「酒はだいたい全部うまい」,2,0,0,,,,,1,True,kapul,
+5089,,,True,,,,JP,ひねくれもの「ウェジー」,,4,0,1,,,dog,,0,False,,狐（犬）
+5140,,,True,,,,JP,ハロウィンの夜「ルミナ」,「とりっくおあとりっく！」,2,0,0,,,,,0,False,,
+5237,,,True,,,,JP,ふぇざーちゃま,,7,4,0,,,,,0,False,,
+5370,,,True,,,,CN,幻想时间,「好想变成美少女啊......」,1,3,0,,,,336,0,False,,"ホルモン薬,Potion"
+5506,,,True,,,,,uokun,,4,0,0,,,chicken,,0,False,,蛙（チキン）
+5530,,,True,,,,JP,ホクホクの「ポテイト」,,4,0,1,,,sister,,0,False,,妹（少女、馬）
+5664,,,True,,,,JP,願いのひとかけら「クリムローゼ」,「負けられないのっ！」,2,0,0,,,,,1,True,kapul,
+5750,,,True,,,,JP,賢者の星屑「しむら」,「この灯りがあなたの旅路を照らしますように」,2,0,0,,,,,0,False,,
+5768,,,True,,,,,"""Lucien"" The Guardian","""I can't seem to escape this place, but at least I'm not lonely. I have a friend with me.""",1,0,0,,,,helm,1,True,cursed manor,
+5774,,,True,,,,,"""Eidolon"" The Ether-Cursed",,7,4,0,,,,,0,False,,
+5780,,,True,,,,JP,「生ける屍おじさん（36さい）」,「死にたい。死にたい。殺してくれ。死ねたら異世界美少女転生して私TUEEEするんだ・・・」,1,3,0,,,,staff,1,True,manor,穢れた魔法少女のステッキ
+5904,,,True,,,,JP,致命的な災厄「ジャム」,「この世界のエレアという種族は耳がとがっておらず、瞳や髪の色で判別されるようだ…」,1,1,0,,,,crossbow,0,False,,
+91,,,True,,,,JP,知者の記憶「なぎ」,,6,0,2,,Harvest,,,0,False,,
+466,,,True,,,,JP,忘れっぽい「けにー」,,6,0,2,,Oblivion,,,0,False,,
+676,,,False,,,,JP,夜明けのあばずれ「アイリース」,「串刺しの骸を斜陽が照らす。明けぬ夜が無いように」,1,2,0,,,,沈まぬ陽もまた無いのである。,0,False,,
+788,,,True,,,,JP,月を砕くダイヤモンド「エイラク」,「もはやこれまで･･･」,1,0,0,,,,sword,0,False,,武器
+902,,,True,,,,JP,夢綴の語り部「ゆき」,「夢見語り紡ぎ謡い、ついに私は神のゆめに辿り着いた」,1,3,0,,,,altar,0,False,,祭壇
+986,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+1027,,,True,,,,JP,呪われし竜姫「エリ」,「穢れた魂の現身、憎むべき私の生きた証。それでも答えを探すなら血河の果てまで共に往くわ」,1,3,0,,,,sword,1,True,manor,長剣（☆付き、呪い付き、竜鱗素材固定でお願いします。もし、システム的に”呪い”状態に強弱の概念があるのであれば、この長剣には必ず強固な呪いが付与されており、簡単に解除できないようお願いします）
+1241,,,True,,,,JP,おぱんちゅ大天使「モモロウ」,,4,0,1,,,pig,,1,True,mysilia,豚
+1961,,,True,,,,,Sky Top,"""Burn in the everlasting ambyssion!""",2,0,0,,,,,0,False,,
+2182,,,True,,,,JP,兄が先か妹が先か「セロリー」,,5,2,0,,,,,0,False,,
+2458,,,True,,,,JP,人生と書いて妹と読む,,3,0,0,random,,,,0,False,,
+2961,,,True,,,,JP,永遠に続く精神「とっとこ」,「名前を刻むために木を傷つけることはしたくないし、冒険者として死ぬのはもっと嫌だ。私の最後の願いはただこれを灯すだけ」,2,0,0,,,,,0,False,,
+3186,,,True,,,,JP,夢見る骸「骨玉」,「元々が最弱だったんだ。後は這い上がるだけだろ？」,2,0,0,,,,,0,False,,
+3306,,,True,,,,,"""Nefertari"" Eclipsed Sun",,5,1,0,,,,,0,False,,
+3450,,,True,,,,JP,星の血痕「ユキ」,,5,5,0,,,,,0,False,,
+3633,,,True,,,,JP,夜の守り手「ミゼル」,,4,0,1,,,cat,,0,False,,仔猫
+4554,,,True,,,,JP,迷犬「ハチ」,,4,0,2,,,dog,,0,False,,犬
+4565,,,True,,,,JP,泣き叫ぶ妹「アテルナ」,「黄金見つけた！」,1,0,0,,,,spellbook,1,True,thives,ランダムな魔法書（可能であればさらに、杖＋オレン）
+4731,,,True,,,,,"""Isabelle"" Studious Egg",,5,2,0,,,,,0,False,,
+4800,,,True,,,,JP,森を拓く者「ドルやま」,「私が落とした斧は…」,1,0,0,,,,axe_hand,0,False,,斧
+4947,,,True,,,,JP,淀んだ流体の妹「トーフ」,,5,2,0,,,,,0,False,,
+4965,,,True,,,,JP,闇の魔女「アマフィス」,,3,0,0,random,,,,0,False,,
+5053,,,True,,,,,“Lichta” Sleep in Universe,,4,0,0,,,cat,,0,False,,Any weapon as a pet or Flying cat (Cat)
+5252,,,True,,,,JP,ルナタの友達「トロ」,,4,0,2,,,dog,,1,True,mysilia,犬（ヨークシャー・テリア）
+5489,,,False,,,,,枢機に記録す光,,0,0,0,,,,,0,False,,
+5593,,,True,,,,JP,光を求める終焉「レン」,,6,0,2,,Harvest,,,1,True,kapul,
+5756,,,True,,,,JP,霧をまとう螺旋「凃際」,「小さくも重く冷ややかだ。」,1,5,0,,,,742,0,False,,"ほうき,破れた傘"
+5849,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+5971,,,True,,,,JP,月歩きの玉兎「バニイ」,「光るよ！」,2,0,0,,,,,0,False,,
+543,,,True,,,,JP,妖精型終末警備自動人形「アカネコ」,「ネジを巻いてください。」,1,3,0,,,,535,0,False,,"花,きれいな花"
+1105,,,True,,,,JP,月明かりの機工兵「コスモス」,,6,0,1,,Machine,,,0,False,,
+2170,,,True,,,,JP,小さな白銀「URAL」,「もっとLuckが欲しい...」,2,0,0,,,,,0,False,,
+2871,,,True,,,,JP,白の「オヌー」,,4,0,2,,,putty,,0,False,,銀眼の斬殺者(プチ)
+3656,,,True,,,,,“cola” The silent cat,,4,0,2,,,cat,,0,False,,cat
+3848,,,True,,,,,“Pigiron” the rat king,” Rat-a-tat-tatted and all the rats scattered”,1,1,0,,,,869,0,False,,"rubber duck,“Rat tail or rabbit tail”"
+4862,,,True,,,,JP,ごろごろすり寄る「アス」,,4,1,2,,,cat,,1,True,yowyn cat cafe,シルバーキャット(猫)
+5292,,,True,,,,JP,破壊の悦楽「石田 アマノ」,,3,0,0,random,,,,0,False,,
+5470,,,True,,,,JP,侍魂のリッジ「ヤスカ」,,3,0,0,cedar,,,,0,False,,
+5765,,,True,,,,JP,酒好き「タナカ」,「今日も酒がうまい！」,1,0,0,,,,58,0,False,,"ビア,呪われた酒"
+5993,,,True,,,,JP,根の上の猫「ルートン」,,4,0,2,,,cat,,0,False,,cat
+182,,,True,,,,JP,死霊と眠る者「ネムイ」,「諦めないぞ！」,1,0,0,,,,dagger,0,False,,細剣
+726,,,True,,,,JP,立派な尻尾の「エルヴィス」,「最高の猫には最高の灯りを」,2,0,0,,,,,1,True,olvina,
+901,,,True,,,,,"""Tanaka""The Red Wizard","""Workers of Vernis unite!""",1,2,0,,,,blunt_hammer,0,False,,Hammer and sickle
+5076,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+5160,,,True,,,,,lu,"""Happy birthday to you.You can make a wish!!!""",1,3,0,,,,rod_wish,0,False,,
+1328,,,True,,,,JP,えいえんのはどう「みずか」,「・・・えいえそは、あるよ」,2,0,0,,,,,0,False,,
+1339,,,True,,,,JP,叫べ幸運「片桐」,,6,0,2,,Luck,,,0,False,,
+2110,,,True,,,,JP,希望のきらめき,「光より速く！」,2,0,0,,,,,0,False,,
+2240,,,True,,,,JP,TweetBot「Elica」,,4,0,0,,,dog_mine,,1,True,miral,アンドロイド
+4124,,,True,,,,JP,世界は二人のために,,5,0,0,,,,,1,True,cursed manor,
+4151,,,True,,,,JP,寄り添う者「ルウ」,,4,0,1,,,dog,,0,False,,犬
+4694,,,True,,,,JP,あえげ不運「片桐」,「これを食べれば俺にも幸運の女神様が…んぐっ！」,1,4,0,,,,kagamimochi,1,True,graveyard,米、鏡もち
+336,,,True,,,,,"""Zheng"" The Dehydrated Snaily",,7,0,0,,,,,0,False,,
+1253,,,False,,,,JP,,,2,0,0,,,,,1,False,,
+2066,,,True,,,,JP,納屋に潜むもの「ホレウム」,,6,0,0,,Healing,,,1,True,kapul,
+2968,,,True,,,,,"""Yuyi and Eva""","""Mai, if you're reading this, don't forget to do your homework!""",2,0,0,,,,,0,False,,
+4223,,,True,,,,JP,トカゲアザラゴン,,3,0,0,random,,,,0,False,,
+4628,,,True,,,,JP,alcoholhigh,「イルヴァに祝福を」,2,0,0,,,,,1,True,noyel,
+5181,,,True,,,,JP,朝寝坊の斥候「ギノート」,「追放者が好きなんだ…」,2,0,0,,,,,0,False,,
+5551,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+5678,,,True,,,,JP,光と共にある「なおたろう」,「全ての人に光あれ！」,2,0,0,,,,,0,False,,
+5772,,,True,,,,JP,鬼の紫「サムス」,,3,0,0,random,,,,0,False,,
+2320,,,True,,,,JP,均衡の果て「ラグナ」,,4,0,0,,,rabbit,,1,True,noyel,兎
+2590,,,True,,,,,Eloria was here!,,3,0,0,birch,,,,0,False,,
+4852,,,True,,,,JP,"""TAKIO"" The Trapper",（全身が焼けた死体が転がっている。傍らに転がっているのは彼の仕事道具だろうか、どうやら道具の整備中に事故があったようだ。）,1,0,0,,,,184,0,False,,骨くず、Burnt Bone Meat
+5167,,,True,,,,JP,ファイアボール大好き「Radian」,,6,0,2,,Element,,,0,False,,
+5550,,,True,,,,JP,知恵のある兎「ふたよ」,,4,0,2,,,rabbit,,0,False,,兎
+5635,,,True,,,,JP,食べ歩き「ケン」,「美味しい麻婆豆腐食べたい！あと蕎麦…かピッツァとパスタ！」,2,0,0,,,,,0,False,,
+138,,,True,,,,,"""Grey"" The Runner","""Are you the next Grim Reaper?""",1,0,0,,,,scythe,0,False,,Scythe
+699,,,True,,,,JP,「名もなき博徒」,「骰の目は神のつぶやき……フリダシとアガリの狭間で」,1,2,0,,,,map_treasure,1,True,manor,宝の地図（不可能なら地図）
+826,,,True,,,,JP,季節のランタン,「それは光と闇を作り出す」,2,0,0,,,,,0,False,,
+930,,,True,,,,JP,こぼれおちた「メモリア」,,5,2,0,,,,,0,False,,
+958,,,True,,,,JP,星霜の魔女「ウィニ」,「星の光をランタンに灯し、星屑の想いと共に…」,2,0,0,,,,,0,False,,
+2758,,,True,,,,JP,収穫の歌「アルフレート」,「厳しい客だぜ」,1,0,0,,,,lute,1,True,lumiest,楽器
+4794,,,True,,,,JP,壊された死者「クルソスアンソス」,「何度数えても12枚...あの1枚が足りない...誰かが持って行ってしまったのか。もう一度数えなくては。」,1,0,0,,,,shield,1,True,graveyard,盾
+5000,,,False,,,,,,,0,0,0,,,,,0,False,,
+5132,,,True,,,,JP,兄を求めて彷徨う「チハヤ」,,5,2,0,,,,,0,False,,
+5207,,,True,,,,,"""SeungKyun"" The OrigamiMaster",,6,0,2,,Luck,,,0,False,,
+5261,,,True,,,,JP,最後の猟犬「サーロス」,「君達の歩みに幸運を」,2,0,0,,,,,1,True,yowyn,
+5299,,,True,,,,JP,三角コーンを被る者「竹ダ」,「ご安全に！」,2,0,0,,,,,1,True,yowyn,
+60,,,True,,,,JP,蒼褪めた「メイセン」,,6,0,2,,Luck,,,0,False,,
+193,,,True,,,,JP,海の幸「えびとろ」,「ぴちぴちだよ」,2,0,0,,,,,0,False,,
+633,,,True,,,,JP,統星の後星「マルジロウ」,,4,0,2,,,cat,,0,False,,猫
+1745,,,True,,,,JP,追憶の書架「リズリー」,「この光が、貴方が忘れてしまった大切な思い出を照らし出しますように」,2,0,0,,,,,1,True,noyel,
+2971,,,True,,,,JP,神のための下僕「遺伝子」,,6,0,1,,Element,,,0,False,,
+3578,,,True,,,,,"""Enkidu"" The Son of God","""The stairs in this place are killer...""",1,5,0,,,,731,1,True,manor,"vomit,shit or vomit or urine"
+3603,,,True,,,,JP,カタスケ,,7,5,0,,,,,0,False,,
+4147,,,True,,,,JP,暗号の世界「ルナタ」,,4,0,1,,,cat,,0,False,,猫(ソマリ)
+4185,,,True,,,,JP,災いを呼びし猫「クルツ」,,6,0,1,,Luck,,,0,False,,
+4553,,,True,,,,JP,羽ばたく少女「ルデア」,「皆が笑顔になりますように♪」,2,0,0,,,,,1,True,noyel,
+4779,,,True,,,,JP,世界で一つだけのランタン「TKTK」,「今後の人生の中で今日が一番若い日」,2,0,0,,,,,0,False,,
+5500,,,True,,,,JP,笑えよ泣く(拷問中),,1,4,0,,,,torture_horse,0,False,,
+5573,,,True,,,,JP,灰光る残り火「ササハ」,「あと少しだけ燃えていたい...」,2,0,0,,,,,0,False,,
+1270,,,True,,,,JP,コークロアの召し使い「マルティム」,「黒く泡立つあの飲み物、お嬢様のためにはやく見つけなくては……」,1,3,0,,,,505,0,False,,"缶ジュース,飲料"
+2980,,,True,,,,JP,お天気屋「アヤ」,,4,0,1,,,cat,,0,False,,猫
+3205,,,True,,,,JP,危険な肉体「ツインテール顎鬚」,,6,0,0,,Wind,,,0,False,,
+3359,,,True,,,,JP,血の魔女「ブラッドベリー」,「ブラッドベリーはプチを喉に詰まらせて死んだ」,1,0,0,,,,spellbook,0,False,,魔法書
+4162,,,True,,,,JP,いつも寝ている猫「ハナ」,,4,0,1,,,cat,,0,False,,猫
+4735,,,True,,,,JP,罪を崩せない「hal8KURAGE」,,4,0,1,,,cat,,0,False,,猫
+5164,,,True,,,,JP,薄幸の「むよこぬよこ」,,6,0,1,,Wind,,,0,False,,
+508,,,True,,,,,Snokoi,,7,3,0,,,,,1,True,casino,
+692,,,True,,,,JP,イスの偉大なる種族の狂信者「イチトゼロ」,「こちらを睨みつける琥珀色の瞳、しなやかで器用な触手達、臓物と見紛うような肉の胴体… ああ、私は魅入られてしまったようだ！」,1,2,0,,,,tool_art,1,True,manor,イーゼル
+812,,,True,,,,JP,ジュアの狂信者「Onasu」,,6,0,0,,Healing,,,0,False,,
+1022,,,True,,,,JP,兄を忘れた「リタ」,,5,2,0,,,,,0,False,,
+1163,,,True,,,,JP,残忍なるお告げ「サティ」,「こんな死に方なんて！」,1,4,0,,,,dagger,0,False,,短剣
+1887,,,False,,,,JP,,,0,0,0,,,,,1,False,,
+1892,,,True,,,,JP,「ハトムギ」,,3,0,0,random,,,,1,True,specwing,
+2181,,,True,,,,JP,甘ったれな小心者「てこすけ」,,4,0,1,,,cat,,0,False,,猫
+4521,,,True,,,,,"""Fluffy"" White Toy Maltese",,4,0,1,,,dog,,0,False,,dog
+4973,,,False,,,,,,,0,0,0,,,,,0,False,,
+490,,,True,,,,JP,青いナスの妖精「青井ナスコ」,「諦めなければ…また願いは叶うはずだナス！」,1,2,0,,,,rod_wish,0,False,,願いの杖（使用済み）
+3912,,,True,,,,,"""Flippy"" The Shocked Frog",,4,0,2,,,putty,,1,True,yowyn,Frog (Putit)
+4590,,,True,,,,JP,子うさぎ「ロロ」,,6,0,0,,Luck,,,0,False,,
+879,,,True,,,,JP,狸顔の「メイ」,,4,0,1,,,dog,,0,False,,犬
+2531,,,True,,,,JP,魂呑み異形に恋する卵「みるっぱい」,「痺れるような『運命の出会い』を……」,1,3,0,,,,meat_marble,0,False,,ハーブ（無ければ『冷蔵庫』or『卵』or『乳』or『プチの肉』）
+3351,,,True,,,,JP,酒場の守り人「コウ」,「飲みすぎ注意！意識があるうちにお家に帰るんだな！」,2,0,0,,,,,1,True,yowyn,
+4722,,,True,,,,,"""Wyrm"" Little Brother",,3,0,0,cedar,,,,0,False,,
+5495,,,True,,,,JP,遺墨の君「ボク」,,4,2,2,,,cat,,1,True,kapul,黒猫
+5912,,,True,,,,JP,らんらん,,4,0,0,,,pig,,0,False,,豚
+3758,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+3815,,,True,,,,,"""Simin Lei"" Blade of the Darkmoon","""Now only embers remain… Prepare yourself once more and Embrace The Darkness!""(Chinese: 2,“雷斯敏”暗月之剑, ""如今仅剩余火尚存……做好准备、再次拥抱黑暗!"")",2,0,0,,,,,0,False,,
+5367,,,True,,,,JP,「うつけと呼ばれた男」,「是非に及ばず」,1,5,0,,,,armor_ring,0,False,,漆黒の鎧
+2378,,,True,,,,JP,無双なる伴侶「アルネコ」,,3,0,0,cherry,,,,1,True,olvina,
+4523,,,False,,,,JP,,,0,0,0,,,,,1,False,,
+4609,,,True,,,,JP,腕を増やしたかった外科医,「増えた足を切り売りして資金を‥」,1,2,0,,,,192,1,True,derphy,工具、スカルペル
+1460,,,True,,,,JP,テツオニ,,3,0,0,cherry,,,,0,False,,
+3622,,,True,,,,JP,絶対中庸「イイダ」,「鎧を着ていなければ即死だった。。。」,1,0,0,,,,armor_light,0,False,,鎧系統の防具
+4778,,,True,,,,JP,けやきの森「トモ」,,3,0,0,cherry,,,,0,False,,
+5274,,,True,,,,,"""Iris""",,5,0,0,,,,,0,False,,
+5283,,,True,,,,JP,炎の崇拝者「メフル」,,6,0,1,,Element,,,1,True,kapul,
+5513,,,True,,,,JP,ミッドナズル,,6,0,2,,Harvest,,,0,False,,
+913,,,True,,,,JP,メイドインデス「ひえだ」,,4,0,0,,,putty_snow,,0,False,,雪プチ
+1475,,,True,,,,JP,妻を恐れる者「Yuki」,「最高の瞬間のためにこの一本を隠しておかなくては…！」,1,2,0,,,,crimAle,0,False,,クリムエール
+2296,,,True,,,,JP,一文不通の「カズヒサ」,「勉強しておけばよかった」,1,3,0,,,,scroll,0,False,,巻物
+2688,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+3517,,,True,,,,JP,お兄ちゃんは永遠に「エルリーナ」,,5,1,0,,,,,1,True,cursed manor,
+4410,,,True,,,,,"""Clear"" The In-loved Warmage","""Lily...Pael...I'm sorry... """,1,3,0,,,,potion,1,True,noyel,Potion of Cure Corruption
+4599,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+4826,,,True,,,,JP,復讐を誓った者「ドフィ」,「何をされても生き延びて… おまえらを一人残らず 殺しに行く」,1,0,0,,,,212,0,False,,"タオル,絆創膏"
+559,,,True,,,,JP,白い靴下の猫「りむ」,,4,0,1,,,cat,,0,False,,仔猫
+894,,,True,,,,JP,妖精追跡者「遊馬使」,「採掘はすべてを解決する！」,1,0,0,,,,pickaxe,0,False,,つるはし
+2707,,,True,,,,JP,黄金の心臓「コータ」,,4,0,2,,,cat,,0,False,,猫
+5514,,,True,,,,JP,鬼を狩る漆黒「シシト」,「これを、残しておこう…後に続く者の為に」,1,2,0,,,,scythe,1,True,graveyard,大鎌
+1085,,,True,,,,JP,孤独の押し売り「mujintou」,,3,0,0,random,,,,0,False,,
+1485,,,True,,,,JP,石割り「シンクマン」,,1,0,0,,,,,0,False,,
+3114,,,True,,,,JP,帰還せし妹「ナーシャ」,,5,4,0,,,,,0,False,,
+587,,,True,,,,JP,あっつぁん,「冒険者へひと時の安らぎの灯を…」,2,0,0,,,,,0,False,,
+897,,,False,,,,CN,,,0,0,0,,,,,0,False,,
+2710,,,True,,,,JP,間っ子の「ドリダクシャトラ」,,6,0,2,,Earth,,,0,False,,
+2969,,,True,,,,JP,もつむり,,7,3,0,,,,,0,False,,
+3133,,,True,,,,JP,少女らしい跳躍「リア」,「あなたを立派に育てる上げる事が私の全て、あなたの力になれた事が私の誇りでした」,1,5,0,,,,string,1,True,derphy,紐
+4819,,,False,,,,,"""Breakfast"" The Stray Bitch",,4,0,1,,,dog,,1,False,,Puppy (please leave this uncredited or anonymously credited)
+5862,,,True,,,,,"""Reinks"" Seeker of Paradise","""My body broken, eyes heavy, my time has come…I return to the soul stream, so she may guide me back to the promised land.""",1,0,0,,,,spellbook,0,False,,Ice Magic Spellbook
+65,,,True,,,,JP,雲海を渡る旅鳥「雲猫」,,4,0,1,,,chicken,,0,False,,鳥(鶏)
+447,,,True,,,,JP,彼氏が別れた「ギャル」,「っょぃ。勝てなぃ」,1,3,0,,,,sword_katana,1,True,sewer,火炎属性の刀
+581,,,True,,,,JP,罪人「ゲス」,,6,0,2,,Harvest,,,0,False,,
+3031,,,True,,,,JP,エウダーナの射手「イルラナ」,「ティリスではこの光景が普通なのか？」,2,0,0,,,,,0,False,,
+4143,,,True,,,,JP,惰眠を貪る「ミース」,「睡眠を大切にね！」,1,2,0,,,,460,0,False,,"簡易ベッド,抱き枕（ダメそうなら寝具類でお願いします）"
+4750,,,True,,,,JP,沈黙の小姫「リリィ」,,4,0,1,,,putty_snow,,1,True,noyel,雪プチ（ドラゴン）
+5628,,,True,,,,JP,縺繧もやし,,3,0,0,random,,,,0,False,,
+594,,,True,,,,JP,銀の微熱,「まるで熱に浮かされたように、ただ星を目指して進み続けてきた」,2,0,0,,,,,1,True,olvina,
+4894,,,True,,,,JP,絞首公「りいねあ」,「次のそなたはいますこし上手く死ぬだろう」,2,0,0,,,,,1,True,kapul,
+351,,,True,,,,JP,プラマイ,,7,3,0,,,,,1,True,casino,
+3318,,,True,,,,JP,かわいすぎる妖精「セイレア」,,3,0,0,random,,,,1,True,specwing,
+4891,,,True,,,,JP,淫乱たまたま娘,,6,0,0,,Harmony,,,0,False,,
+8,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+794,,,True,,,,JP,壊れた人形「フラジール」,「わたしのからだ…これだけしか残ってないけれど、どこかの誰かの灯火になれますように」,2,0,0,,,,,0,False,,
+4198,,,True,,,,JP,deepmoon,「街の階段を窃盗して自宅に設置すると、その街にワープできるようになるぞ！」,2,0,0,,,,,1,True,kapul,
+4743,,,True,,,,JP,誰かの傍にいたい「月の欠片」,,4,0,0,,,rabbit,,0,False,,兎
+5471,,,True,,,,JP,聡明な愚者「うちゅー」,「最後に必要なのは知識ではない、食べ物だ！」,1,2,0,,,,book,0,False,,本（ランダム希望）
+77,,,True,,,,JP,御稲荷派「狐玉」,,6,0,2,,Luck,,,0,False,,
+2035,,,True,,,,JP,哀れな探索者「クロハコ」,「ここに宝物が埋まってる筈なんだ！！*チョドーン*」,1,5,0,,,,map_treasure,0,False,,宝の地図
+1060,,,True,,,,JP,風の旅人「風来人1号」,「さて今日も旅に出ようか」,1,0,0,,,,shoes,1,True,god,履物
+4906,,,True,,,,JP,ウートフおじさん「yesu」,「イルヴァの大地にこの灯りが輝く限り、私の目にも光が差し込むでしょう」,2,0,0,,,,,0,False,,
+6002,,,True,,,,JP,荒川を走りぬける「イニ子」,,4,0,1,,,dog,,0,False,,犬
+471,,,True,,,,JP,うっかり冒険者「パラド」,「どうして誰も助けてくれないんだ…」,1,5,0,,,,crimAle,0,False,,呪い酒
+639,,,True,,,,JP,帝国特異技術被検体「改良型：プロトみーちゃん」,,5,2,0,,,,,0,False,,
+1882,,,True,,,,JP,MURAKUMO,,7,3,0,,,,,0,False,,
+4774,,,True,,,,JP,暗き者「ハーティ」,,5,4,0,,,,,0,False,,
+5985,,,True,,,,JP,もちもち「おもち」,,4,0,0,,,putty,,0,False,,白いスライム（プチ）
+5987,,,True,,,,JP,言葉の崇拝者「コト」,「我、学窓を訪う蛍火とならん」,2,0,0,,,,,0,False,,
+81,,,True,,,,JP,歴史の歌い手「クレイグ」,「人から人へ、受け継がれる光」,2,0,0,,,,,0,False,,
+324,,,True,,,,JP,ぽりー,,4,0,1,,,llama,,0,False,,ラマ
+536,,,True,,,,,"""Lulu"" The Drunk Dog",,4,0,2,,,dog,,0,False,,Dog
+909,,,True,,,,JP,猫のような無限「モナカ」,「祈りは必要ない。我が魂は転生し、次の生を謳歌しているだろう。遺品がまだ残っているのなら、持っていくがいい」,1,1,0,,,,chest3,1,True,god,宝石で飾られた宝箱
+1042,,,True,,,,JP,妹にされた「みよかわ」,,5,3,0,,,,,1,True,cursed manor,
+1523,,,True,,,,JP,虹の泣き声「ミツキ」,「空のむこうにもわたしの演奏を届けたくなりました」,1,3,0,,,,lute,0,False,,楽器
+2927,,,True,,,,JP,鉢植えの「さぼてん」,「どこにだって行けるし、なんだってできるはず！...はず！」,2,0,0,,,,,1,True,yowyn,
+3120,,,True,,,,JP,エイスに忘れ去られし者「セイヤ」,,3,0,0,random,,,,1,True,olvina,
+3199,,,True,,,,JP,研究者「ラック」,,6,0,2,,Machine,,,1,True,noyel,
+4220,,,True,,,,,"""Clara"" The Safe",,6,0,1,,Wind,,,0,False,,
+5102,,,True,,,,JP,鉄塔住まいの「シナタ」,,4,0,2,,,cancer,,0,False,,蟹（犬） *Elinに火蟹がいればそれでお願いします
+5498,,,False,,,,,,,0,0,0,,,,,0,False,,
+5631,,,True,,,,JP,残骸の足元に落ちていた本「私たちのバイブル」,「主と私たちは尊重の真心によって一体となる。あなたの存在は私たちが証明する。私たちの言葉があなたの味方になる。」,1,1,0,,,,204,0,False,,散らかった本
+243,,,True,,,,JP,FishmanHorizon,「釣りは生活を豊かにする。釣りをしたまえ」,1,0,0,,,,fishingRod,0,False,,
+2329,,,True,,,,JP,ろみ,「――日常にほんの少し、狂気を」,1,5,0,,,,234,0,False,,ゲームブック
+4624,,,True,,,,,"""Danikuh"" Hopeless Necromantic",,5,2,0,,,,,1,True,cursed manor,
+5378,,,True,,,,JP,紡がれし音色の奏者「クロコ」,「私が倒れてもきっと誰かがこの音色を紡いでいってくれるから」,1,0,0,,,,instrument_violin,0,False,,武器
+440,,,True,,,,JP,マッシュ,「吊れば無敵になれると聞いたのに」,1,0,0,,,,862,0,False,,"渓流ロープ,頑丈なロープ"
+929,,,True,,,,JP,幻想の元素「イツパトラー」,,6,0,0,,Element,,,1,True,kapul,
+1373,,,True,,,,,Oak,,3,0,0,mahogany,,,,0,False,,
+1705,,,True,,,,JP,闇が大好き「リュウヘイ」,,4,0,2,,,mandrake,,0,False,,ドラゴン系
+2606,,,True,,,,,Stella Irae,"""Scut! What the nyou talk funny... Did my bag just kill me?""",1,5,0,,,,spellbook,0,False,,"Spellbook of 4-Dimensional Pocket (if that doesn't exist in Elin, an equivalent spell or, alternatively, any random spellbook)"
+3030,,,True,,,,JP,風のオーケストラ「タクロー」,,3,0,0,random,,,,0,False,,
+3152,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+3680,,,True,,,,JP,ネットミーム「なんて事だ、もう助からないゾ、ハート」,,6,0,0,,Machine,,,0,False,,
+5422,,,True,,,,JP,ace job,（死因は餓死のようだ）,1,2,0,,,,ring,0,False,,刀
+5504,,,True,,,,,"""Coco"" The Cocoa Bean",,4,0,2,,,rabbit,,0,False,,Rabbit
+5715,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+1958,,,True,,,,JP,永遠の赤「AKARI」,,5,4,0,,,,,0,False,,
+2567,,,True,,,,JP,哲学猫「ぽに」,,4,0,0,,,cat,,1,True,kapul,猫
+3067,,,True,,,,,"""Pete""",,4,0,0,,,dog,,0,False,,
+3230,,,True,,,,JP,仏心鬼手の治癒師「Yukkie」,「一つでも多く...!」,1,5,0,,,,potion,0,False,,重症治癒のポーション
+4125,,,True,,,,,"""Gorbage"" The Filthy",,4,0,1,,,putty,,0,False,,Putit
+4176,,,True,,,,JP,血まみれ「ヨドラ」,「一杯の井戸水を求めて、数多の冒険者が魂だけになった。あぁ、すばしっこい奴らめ！！」,1,0,0,,,,water,0,False,,水
+4179,,,True,,,,JP,狐の魂｢ミケ｣,,4,0,2,,,dog,,0,False,,狐(仔犬)
+5064,,,False,,,,JP,「星光の導きを！」,,0,0,0,,,,,0,False,,
+5915,,,True,,,,JP,温かなひかり「ネオンクロシバ」,,5,0,0,,,,,0,False,,
+390,,,True,,,,JP,歴史を見る「ヒストリオ」,「本は明るい場所で読もう」,2,0,0,,,,,0,False,,
+805,,,True,,,,,"""Penta"" The Disloyal Dog",,4,0,1,,,dog,,0,False,,Dog
+866,,,True,,,,JP,腹を切るもの「ボーン伯爵」,「腹切っても腹切ってもただの骨」,1,0,0,,,,dagger,0,False,,包丁
+873,,,True,,,,,"""Zoomerman"" Last Witness","""May we witness the moment of final victory together.""",2,0,0,,,,,0,False,,
+936,,,True,,,,,Adria,,5,3,0,,,,,0,False,,
+1589,,,True,,,,JP,腐っても妹「エミリー」,,5,3,0,,,,,1,True,cursed manor,
+2406,,,False,,,,,,,0,0,0,,,,,0,False,,
+3016,,,True,,,,JP,太すぎた者「でぶ」,「んぎもち」,1,2,0,,,,681,1,True,graveyard,アップルパイ
+3022,,,False,,,,,,,0,0,0,,,,,0,False,,
+3064,,,True,,,,JP,「優美な女性」,,3,0,0,cherry,,,,0,False,,
+3964,,,True,,,,JP,愛されし奴隷「みぃ」,,7,3,0,,,,,1,True,casino,
+4167,,,True,,,,JP,よしののさと,,5,0,0,,,,,0,False,,
+4545,,,True,,,,JP,不快な笑顔「カザリ」,「ボクを信じて…」,2,0,0,,,,,0,False,,
+4574,,,True,,,,JP,Halycoma00,,7,2,0,,,,,1,True,casino,
+5325,,,True,,,,,Angelica,,5,0,0,,,,,0,False,,
+5480,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+5672,,,False,,,,,,,0,0,0,,,,,0,False,,
+5882,,,True,,,,JP,夜明けを待つ者「真耶」,「一つの時代、一つの灯火、その足跡をここに」,2,0,0,,,,,0,False,,
+5917,,,True,,,,,"""Snowy"" the Battle Scarred Cat",,4,1,2,,,cat,,0,False,,Silver Cat (Cat)
+53,,,True,,,,JP,料理に命をささげた「オウエ」,「生きて、喰って、死ぬ、最高だぜ」,1,2,0,,,,dagger,0,False,,包丁
+538,,,True,,,,JP,さすらいの釣り人「Lua」,「良い一日を！」,2,0,0,,,,,0,False,,
+706,,,True,,,,JP,冷静沈着の男「デイ」,「「懐に一切れのパンさえあればどこまでだって歩いていける」って、誰が言った言葉だったか……」,1,1,0,,,,jerky,1,True,graveyard,干し肉
+1478,,,True,,,,JP,異端の冒険者「ナナシノ」,,3,0,0,random,,,,0,False,,
+1548,,,True,,,,JP,井戸水を求め彷徨うプチ「鋼缶」,,4,0,0,,,putty,,0,False,,機械っぽいプチ
+2645,,,True,,,,JP,月に踊る者「ルナティリス」,「信じて、前へ」,2,0,0,,,,,0,False,,
+2979,,,True,,,,JP,寵愛の祭壇「ミズ」,,6,0,1,,Healing,,,1,True,kapul,
+3002,,,True,,,,,A Wandering Minstrel,"""Always look toward brighter days!""",2,0,0,,,,,0,False,,
+3047,,,True,,,,JP,お散歩日和「さんぽどき」,,3,0,0,cherry,,,,1,True,olvina,
+3124,,,True,,,,CN,「一般冒险者U」,「啊？」,1,3,0,,,,cloak,0,False,,可以缓减以太病的披风
+3127,,,True,,,,JP,蝸牛先輩,,5,5,0,,,,,1,True,cursed manor,
+3169,,,True,,,,,"""Spencer"" The Eternal Choice",,6,0,0,,Harvest,,,0,False,,
+3190,,,True,,,,,"""Darien"" the Gastropodly",,7,3,0,,,,,0,False,,
+2,,,True,,,,,Senko san,,4,0,0,,,twintail,,0,False,,fox
+3634,,,True,,,,JP,癒し系戦車「きうななしき」,,6,0,2,,Machine,,,0,False,,
+3880,,,False,,,,,"""Richard"" A Fool",,0,0,0,,,,,0,False,,
+4145,,,True,,,,JP,モグラを追う者「チャカ」,「また騙されたな」,1,4,0,,,,dagger_ninto,0,False,,刀
+4182,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+4380,,,False,,,,,,,0,0,0,,,,,1,False,,
+4473,,,True,,,,JP,18歳JD「シイタケ」,「シイタケお兄ちゃんだよぉ」,1,0,0,,,,panty,1,True,graveyard,ギャルのパンティ
+4508,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+4566,,,True,,,,JP,「射手座の守護者」ミューズ,「非モテだけどクッキー焼いたよ～」,1,4,0,,,,695,0,False,,クッキー
+4869,,,False,,,,,,,0,0,0,,,,,0,False,,
+5025,,,True,,,,JP,揺蕩う者「ナンサン」,「今日もいい天気だな」,1,2,0,,,,blunt_club,0,False,,武器
+5177,,,True,,,,JP,meyan,「今日からまた日記をつけることにしよう」,1,0,0,,,,book,0,False,,本
+5206,,,True,,,,JP,忠プチ「たた」,,4,0,0,,,putty,,0,False,,
+5225,,,True,,,,CN,"""Rusterday"" True genius","""3C Jian Da Lao Ba Laugh""",1,2,0,,,,58,0,False,,beer.
+5263,,,False,,,,,as long as you give it this name. If you can make it a special weapon,,0,0,0,,,,,0,False,,
+5454,,,False,,,,JP,,,0,0,0,,,,,1,False,,
+5468,,,True,,,,JP,放浪する機械「ジャンバー」,「ガチャガチャ……カチｯ……ピーピーピー！エラーエラー！！」,2,0,0,,,,,0,False,,
+5515,,,True,,,,JP,悠久の旅人「七空」,「蘇生中…蘇生中…」,1,2,0,,,,boots_,0,False,,足装備
+5818,,,True,,,,JP,楽天的な「ソルナレク」,,4,0,2,,,silverwolf,,0,False,,銀狼(狼もしくは仔犬)
+202,,,True,,,,JP,「コボルトスレイヤー」名無し,「両手持ちには気をつけろ」,1,2,0,,,,blunt_hammer,0,False,,大槌
+545,,,True,,,,JP,破壊の天使「ウィローサ」,,3,0,0,random,,,,0,False,,
+1201,,,True,,,,JP,Yoshi,,6,0,2,,Healing,,,0,False,,
+1595,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+1685,,,True,,,,,"""Sasha"" The Clueless Cat",,4,0,1,,,cat,,0,False,,Cat
+2368,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+2737,,,True,,,,,Ruka,,4,0,1,,,dog,,0,False,,Dog
+2919,,,True,,,,JP,イッツ・マイ・カレー「トモヒロ」,,6,0,2,,Oblivion,,,0,False,,
+3179,,,True,,,,JP,働く鼠「ナメタケ」,「労働はやはり身体に悪い……」,1,3,0,,,,axe_hand,0,False,,武器
+3243,,,False,,,,,,,0,0,0,,,,,0,False,,
+3328,,,True,,,,JP,たれみみの「まり」,,4,0,1,,,rabbit,,0,False,,青兎
+3613,,,True,,,,JP,慈悲の手「ゆき」,「さて、行こうぜ。相棒」,2,0,0,,,,,1,True,kapul,
+4584,,,True,,,,JP,何者かになりたかった「マナフォ」,「失う前に、大切なんだって気づけるといいな」,1,0,0,,,,casino_coin,0,False,,コイン
+4585,,,True,,,,JP,子羊「御神酒」,,6,0,1,,Luck,,,0,False,,
+4795,,,True,,,,JP,夢の世界に漂う者「Ryo」,「羊が一匹、羊が二匹……」,2,0,0,,,,,0,False,,
+5219,,,True,,,,JP,傷付いた「イナバ」,,4,0,1,,,rabbit,,0,False,,兎
+5326,,,True,,,,,"""Raquesis"" Loving Righteousness","""I'll find the cursed halberd that stops time, or die trying! After that, I'll go home and eat a nice apple parfait...""",1,5,0,,,,dagger_ninto,1,True,graveyard,wakizashi
+5478,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+5488,,,True,,,,JP,テン,,7,0,0,,,,,0,False,,
+5529,,,True,,,,JP,竜を求めし風「ツヅラ」,「わたしが りゅうきしだ！！ りゅうきしと ひりゅうがぜつめつだ？ でたらめを いうな！」,1,3,0,,,,texture,0,False,,竜鱗素材のアイテム
+43,,,True,,,,,mameta,,7,0,0,,,,,0,False,,
+121,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+128,,,True,,,,JP,ガチャに勝てない「aoxola」,,6,0,1,,Luck,,,0,False,,
+183,,,True,,,,JP,隻腕の白狼「ガリバス」,「イキりカボチャ撲滅活動実施中！君も一緒に害悪カボチャ共を駆除しよう！」,2,0,0,,,,,0,False,,
+197,,,True,,,,JP,黒猫亭の猫「ちろあこ」,,4,0,1,,,cat,,0,False,,猫
+287,,,True,,,,JP,明日を信じる者,「これさえ実れば」,1,0,0,,,,seed,1,True,specwing,種
+345,,,True,,,,JP,銀をまといし微笑み「ヨル」,「お前も目的を持って、この地を訪れたんだな。まあ、お互い頑張ろうぜ」,2,0,0,,,,,0,False,,
+382,,,True,,,,JP,迷走する期待のホープ「ミッタン＝カーズゥイ」,「俺このフィールドワークが終わったら学位論文書くんだ……」,1,5,0,,,,book_ancient,0,False,,古書物
+592,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+658,,,True,,,,JP,お野菜大好き「にんじんのすけ」,,5,2,0,,,,,0,False,,
+800,,,True,,,,JP,キキエイ,,7,0,0,,,,,0,False,,
+865,,,True,,,,JP,旅する妖精「カヤ」,「未だ見ぬ世界へ導いて！」,2,0,0,,,,,0,False,,
+932,,,True,,,,,Silica Aruass,,5,1,0,,,,,0,False,,
+962,,,True,,,,JP,とろっぴ,,6,0,1,,Luck,,,0,False,,
+1074,,,True,,,,JP,よつばちゃん,,4,0,1,,,cow,,0,False,,牛
+1227,,,True,,,,JP,休暇を満喫する「トム」,「短い休暇だったな……」,1,3,0,,,,fail_dish,1,True,graveyard,ダメージを受ける料理
+1320,,,True,,,,JP,幸運な愚か者「イーロイ」,「今日はツイてるな！！」,1,5,0,,,,671,1,True,derphy,パン
+1509,,,True,,,,JP,終わりなき雪月花「しゃっきょう」,,6,0,1,,Healing,,,0,False,,
+1511,,,True,,,,JP,妄想に呑まれたトナカイ「つぇる」,,4,0,2,,,reindeer,,0,False,,トナカイ
+1545,,,True,,,,JP,ペリドットを狩る吟遊詩人「ツベロサ」,「ワンちゃんが群れている！あの中にうちの子がいるかも……」,1,2,0,,,,amulet_jewel,0,False,,首輪（犬を連想させるもの）
+1557,,,True,,,,JP,爛れを喰らう者「ジョン・レオパルド」,「儚い光が暗く不安定で曖昧で暗い道の足元を照らしてくれる…」,2,0,0,,,,,1,True,olvina,
+1630,,,True,,,,JP,なとりさん,,3,0,0,cherry,,,,0,False,,
+1778,,,True,,,,JP,黄昏の戦士「ケルヴァン」,「それでもあなたの道を行け」,2,0,0,,,,,0,False,,
+1989,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+2032,,,True,,,,JP,集める者「baron」,「ま、まだインベントリが破裂する程のアイテムを集めてないのに…」,1,5,0,,,,815,1,True,thive guild,木彫りの人形
+2573,,,True,,,,JP,人になりたいはじけ魚「nsBeee」,,4,0,0,,,test16,,0,False,,はじけ魚(ドラゴン)
+2580,,,True,,,,JP,釣りまくる研究者「Okazu」,「女神様…せめて最期にこの身を捧げま…しまった、まだ死体じゃないから…無念」,1,2,0,,,,deadbody,0,False,,釣りまくる研究者のOkazuの死体
+2610,,,False,,,,,,,0,0,0,,,,,0,False,,
+2876,,,True,,,,JP,ボロボロな「T2023」,,6,0,0,,Machine,,,0,False,,
+2916,,,True,,,,JP,人見知りな愛猫「ティガ」,,4,0,2,,,cat,,0,False,,
+2957,,,True,,,,JP,ふたばの支配者「としんか」,「あうぅ・・・限定ガチャでピックアップキャラが天井まで出なかった・・・」,1,0,0,,,,casino_coin,0,False,,コイン
+3098,,,True,,,,JP,殺したいほど愛したい「オバケ」,,5,5,0,,,,,0,False,,
+3370,,,True,,,,JP,独身貴族「ひげ」,「ここが私の旅の終着点、この世界は楽しかった、唯一の心残りは…」,1,0,0,,,,ring_engagement,0,False,,結婚指輪
+3498,,,True,,,,,"""Yuri"" The Yuricon",,6,0,1,,Harmony,,,0,False,,
+3778,,,False,,,,JP,,,0,0,0,,,,,1,False,,
+3948,,,True,,,,JP,虚無主義の代表「チェルベス」,「目的を思い出せ」,2,0,0,,,,,0,False,,
+3952,,,False,,,,,,,0,0,0,,,,,1,False,,
+4109,,,False,,,,,,,0,0,0,,,,,0,False,,
+4487,,,True,,,,JP,彼方者の「エタンセル」,「かんちゅんかんちゅんかんまんしょぉ！（訳：良い冒険の旅を！）」,1,0,0,,,,amulet_talisman,0,False,,タリスマン（お守り）
+4603,,,True,,,,JP,ただの妹「toroge」,,5,5,0,,,,,0,False,,
+4611,,,False,,,,JP,3,,0,0,0,,,,,0,False,,
+4623,,,True,,,,JP,美しい緋色の目「みどりむし」,,6,0,0,,Harvest,,,0,False,,
+4638,,,True,,,,JP,神のための瞳「スイレン」,「あんなに祈ったのに……」,1,3,0,,,,altar,0,False,,ランダムな神の祭壇
+4721,,,False,,,,,,,0,0,0,,,,,0,False,,
+4756,,,True,,,,JP,時を溶かす灰刃「アナザー」,,7,0,0,,,,,1,True,casino,
+5072,,,True,,,,JP,車輪の獣狩り「シオン」,「この先、光が必要だ」,2,0,0,,,,,0,False,,
+5222,,,True,,,,JP,ランタウロス「acht-aale」,「今日は目出度い！乾杯だ！」,2,0,0,,,,,0,False,,
+5277,,,True,,,,,"""Leythn"" Lunatic Tactician",,6,0,2,,Healing,,,1,True,kapul,
+5351,,,False,,,,,,,0,0,0,,,,,0,False,,
+5414,,,True,,,,JP,エーテル病の末路「サノ」,,4,0,1,,,dog,,0,False,,"ケルベロス(コボルト,犬)"
+5516,,,True,,,,JP,可愛すぎる腐肉「べるた」,,5,3,0,,,,,0,False,,
+5520,,,True,,,,JP,微笑まぬ久遠「ニポポ」,,6,0,1,,Oblivion,,,0,False,,
+5581,,,True,,,,JP,在る白兎「メヴィエ」,,4,0,0,,,rabbit,,0,False,,兎
+5625,,,True,,,,JP,バトルスクール出身の「づえ」,「覚えておけ、敵のゲートは「下」だ」,1,2,0,,,,gun,0,False,,銃
+5696,,,True,,,,,“Straw” The Cursed One,,4,0,2,,,bearCub,,0,False,,Penguin (Bear)
+5820,,,True,,,,JP,星の娘「あん箱」,「各地の祭りの記憶と共に、このランタンがあなたの暖かな夜を照らします」,2,0,0,,,,,0,False,,
+6027,,,True,,,,JP,とてもかわいい犬「チョコ」,,4,0,1,,,dog,,0,False,,犬
+230,,,True,,,,JP,竹輪大明神「コロロ」,「ちくわすら持ってねぇ」,1,0,0,,,,93,0,False,,魚(白身魚。可能ならスケトウダラまたはサメ)
+264,,,True,,,,JP,どうしようもない僕「だったん」,「旅する者の灯火に」,2,0,0,,,,,0,False,,
+304,,,True,,,,,"""Starborn"" The Mushy Putit",,4,0,1,,,putty_snow,,0,False,,Snow Putit
+424,,,True,,,,,"Sage of the Moonlight Blade ""Hachimitsu""","""It is our duty to witness the final moments of these myriad worlds.""",1,0,0,,,,tool_talisman,0,False,,
+455,,,True,,,,JP,長靴を履いた霊猫「リドル」,,4,0,2,,,cat,,0,False,,猫
+519,,,True,,,,JP,無を追いし旅人「テチ」,「そのランタンの灯は火ではなく、ランタンに閉じ込められた冒険者の魂が蠢いている姿である」,2,0,0,,,,,0,False,,
+577,,,True,,,,JP,野生の餅「アンビン」,,4,0,2,,,putty,,0,False,,プチ
+753,,,True,,,,JP,ギャンブル・オブ・ホープ「レジ」,「何が出るかな？」,1,1,0,,,,potion,1,True,derphy,突然変異のポーション
+974,,,True,,,,JP,罰に苦しむ幻影「あさのま」,,6,0,2,,Harvest,,,0,False,,
+1005,,,True,,,,JP,白き花一華「アネモネ」,「こっちじゃ！」,1,3,0,,,,537,0,False,,アネモネの花
+1153,,,True,,,,JP,経穴を突くもの「つぼりん」,「良き指圧師になりたかった……」,1,0,0,,,,cheese,0,False,,食品
+1161,,,False,,,,,,,0,0,0,,,,,0,False,,
+1296,,,False,,,,,"""Natsugu""",,0,0,0,,,,,0,False,,
+1409,,,True,,,,,"Stardust Snail ""reblank""",,5,0,0,,,,,0,False,,
+1468,,,True,,,,JP,嫁猫「ちひろ」,,4,0,1,,,cat,,0,False,,仔猫
+1492,,,True,,,,,"""Shadow"" Barkface Fluffybutt",,4,0,2,,,dog,,0,False,,Grey Wolf (Dog)
+1828,,,True,,,,JP,可能性の狩り人「トモ」,「可能性はあった・・・」,1,0,0,,,,blunt_club,0,False,,
+2502,,,True,,,,,"""Nelson""",,4,0,0,,,cat,,0,False,,
+3280,,,True,,,,,Rest here for as long as you like,,3,0,0,random,,,,0,False,,
+3375,,,True,,,,,"""Rena"" Yandere Doll",,5,3,0,,,,,1,True,cursed manor,
+3481,,,True,,,,JP,心ある放浪者「ウード」,「ああ、自由よ。私の代わりに、これを。」,1,3,0,,,,bow,1,True,derphy,弓
+4186,,,True,,,,JP,幸せを集める旅「ハワワ」,「ハッピーになりたい」,2,0,0,,,,,0,False,,
+4437,,,True,,,,,"""Lyan"" The Bondsmith","""The ancient words shall be spoken again... Life before death, strength before weakness and journey before destination.""",1,3,0,,,,spellbook,0,False,,Book/Magic Book
+4445,,,True,,,,,"""Idola"" the Cute Wacko","""I'm so so SO excited for today's concert! It's gonna be my first time performing in front of everybody! I hope they all like it.""",1,5,0,,,,mic,0,False,,Instrument (Lute preferred unless there's a Microphone or other singing-focused instrument)
+4527,,,True,,,,JP,虎の威を借る「キツネ」,,4,0,1,,,cat,,0,False,,猫（犬）
+4556,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+4570,,,True,,,,JP,"""肉""",,4,0,0,,,cat,,0,False,,Cursed Raven (Heavenly Kitten)
+4588,,,False,,,,,,,0,0,0,,,,,0,False,,
+4589,,,False,,,,JP,イレギュラーハンター「エックス」,「どうしてイレギュラーは発生するんだろう」,0,0,0,,,,,0,False,,
+4591,,,True,,,,JP,血染めの紅葉「モミジ」,,5,4,0,,,,,0,False,,
+4615,,,True,,,,JP,打ち揚げられた海老「reet」,「こんな所で君に会えるなんて、嬉しいねぇ…。私を食べていくかい？とても美味しいよ…」,1,0,0,,,,skin,0,False,,海老
+4746,,,False,,,,,,,0,0,0,,,,,0,False,,
+4926,,,True,,,,JP,緑の髪の少年「らっち」,「穏やかに とこしえに 幸せを願う」,2,0,0,,,,,0,False,,
+4961,,,True,,,,,"""mUiUm"" The Radiant Smile",,4,0,1,,,alpaca,,0,False,,Alpaca
+4977,,,True,,,,JP,シズク,,5,5,0,,,,,0,False,,
+5030,,,True,,,,,Crayll,,6,0,2,,Harvest,,,0,False,,
+5067,,,True,,,,JP,大地に染み渡る「あーびん」,,5,4,0,,,,,1,True,cursed manor,
+5158,,,True,,,,JP,砂糖まみれの「サキ」,,4,0,1,,,sister,,0,False,,妹
+5284,,,True,,,,JP,星月の欠片「九月。」,,4,0,1,,,rabbit,,1,True,noyel,兎
+5653,,,True,,,,,Em Laeser,"""Let the flame burn and remember me. Dust to Ash, go forth and have fun.""",2,0,0,,,,,0,False,,
+5655,,,False,,,,JP,,,0,0,0,,,,,1,False,,
+5822,,,True,,,,,"""Yang""",,4,0,0,,,putty,,0,False,,Black Putit
+6042,,,True,,,,JP,天城総司,「生きたかったが、生き絶えた。」,1,3,0,,,,sword_claymore,0,False,,骸剣（大剣）
+1,,,True,,,,,Asagiri Otomo,,6,0,1,,Element,,,0,False,,
+14,,,True,,,,JP,のいあー,「この時を長年待っていたんだ」,2,0,0,,,,,0,False,,
+25,,,True,,,,JP,緩やかな時間「パティシア」,,3,0,0,cherry,,,,0,False,,
+27,,,False,,,,,,,0,0,0,,,,,0,False,,
+33,,,True,,,,JP,クッキー,,4,0,2,,,dog,,0,False,,犬
+41,,,True,,,,JP,Gazelle,,7,3,0,,,,,1,True,casino,
+58,,,True,,,,,"""Tsubasa"" The Fennec Fox","""I will find you my love, if it is the last thing I do""",1,5,0,,,,axe_battle,0,False,,weapon
+85,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+102,,,True,,,,JP,永遠の孤独「クドコ」,「やっと見つけた巻物なのにもう読む力も残っていないの、この巻物を読んだ人は大切に…仲良くしてあげてね…」,1,3,0,,,,1174,0,False,,★妹の日記または援軍の巻物
+103,,,True,,,,JP,非常食,,4,0,2,,,cancer,,0,False,,蟹（羊）
+141,,,True,,,,JP,レーシャ,,6,0,1,,Luck,,,0,False,,
+164,,,True,,,,JP,迷い猫「ニペ」,,4,0,1,,,cat,,0,False,,猫
+179,,,True,,,,JP,不吉な頭の「ハゲ」,,6,0,2,,Harvest,,,1,True,kapul,
+196,,,True,,,,JP,紛い物の読書家「蓬」,「この明りは実に読書のおともに最適だ。気に食わなかったらくべてしまえるもの」,2,0,0,,,,,0,False,,
+212,,,True,,,,JP,蒸留されし雲「オーリオル」,,6,0,2,,Luck,,,0,False,,
+241,,,True,,,,,"""LifeFF"" The White Rat",,3,0,0,birch,,,,0,False,,
+273,,,True,,,,JP,竟天の妹「ベル」,,5,4,0,,,,,1,True,cursed manor,
+296,,,True,,,,JP,深淵より覗きし双眸「クロ」,,4,0,1,,,cat,,0,False,,少女（猫）
+357,,,True,,,,JP,やっぱり弟「kokoax」,「お姉ちゃんっていいよね」,1,1,0,,,,pole_trident,0,False,,武器
+373,,,True,,,,JP,脳を機械に接ぐ者「エマ」,「脳デバイスの過負荷を検知、で、デバッグしててててて…ｶﾞｯﾋﾟｯ」,1,0,0,,,,571,0,False,,"テレビ,機械類"
+419,,,True,,,,JP,性戦士「らみたろう」,,6,0,2,,Wind,,,0,False,,
+429,,,True,,,,JP,なまこを煮込んだうどん「リッキー」,,6,0,1,,Machine,,,0,False,,
+436,,,True,,,,JP,Kyo,「………！」,1,0,0,,,,rod,1,True,lumiest,杖
+486,,,True,,,,JP,種馬「エスロック」,,4,0,2,,,horse,,0,False,,馬
+499,,,True,,,,JP,来世は室内飼い「たなかす」,,4,0,0,,,cat,,0,False,,
+503,,,True,,,,JP,RHA5mm,「ジュア様のエロ本が欲しかった……」,1,4,0,,,,234,1,True,derphy,エロ本
+540,,,True,,,,JP,路端の虹色「アコタ」,「死ぬほど飲みたい気分だったんだ」,1,5,0,,,,crimAle,0,False,,酒系の飲み物
+542,,,False,,,,,3,,0,0,0,,,,,0,False,,
+602,,,True,,,,JP,翌桧の杖「テオドール」,,3,0,0,random,,,,0,False,,
+605,,,True,,,,JP,SabaTea,,5,2,0,,,,,0,False,,
+623,,,True,,,,,"""Kupfernickel"" The Copper Demon","""Melt it, EVERYTHING!""",2,0,0,,,,,0,False,,
+644,,,False,,,,,,,0,0,0,,,,,0,False,,
+647,,,False,,,,,,,0,0,0,,,,,0,False,,
+655,,,True,,,,,"""Fresky"" The Lost Popoto",,6,0,1,,Oblivion,,,0,False,,
+736,,,True,,,,JP,犬を追いかける狂人「イヌオ」,「夢でみたんだ…どこかにあるはずなんだ…犬の…犬だけの楽園…妹犬の館が…どこかに…」,1,5,0,,,,rottenFood,0,False,,腐った犬の肉
+738,,,True,,,,JP,スライムマイマイ,,7,3,0,,,,,0,False,,
+740,,,True,,,,JP,古き星「ニルサ」,「さあ、目覚めの時だ！」,2,0,0,,,,,0,False,,
+741,,,True,,,,JP,Master†Z†,,5,3,0,,,,,0,False,,
+774,,,True,,,,JP,山の神「ふじさん」,「山登り日和だ！」,2,0,0,,,,,0,False,,
+777,,,True,,,,JP,外道「カヤノ」,,4,0,0,,,slime,,1,True,sewer,スライム
+807,,,True,,,,JP,野菜好き「海森」,,6,0,2,,Harvest,,,0,False,,
+847,,,True,,,,,"""Clara""","""I'll always be here for you.""",2,0,0,,,,,0,False,,
+867,,,True,,,,JP,狐好きの夢想家「フィクス」,「どうか次はミフかネフに…」,1,3,0,,,,rod_wish,0,False,,装備可能なアクセサリーや装飾品の類(無ければ頭部の防具)
+922,,,True,,,,JP,ひりつく妹「シズマ」,,5,5,0,,,,,0,False,,
+937,,,True,,,,JP,青緑のあいつ「プルパー」,「’双盾で弓使い’しようとしたら盾が呪われてて外せないまま餓死。皿に頭突っ込んで食べるなど紳士のなすべきじゃなかろう！」,1,0,0,,,,shield,0,False,,盾
+1000,,,True,,,,,"""Stabby"" The Assassin",,4,0,2,,,reindeer,,1,True,noyel,Quickling
+1034,,,True,,,,JP,混沌の放浪者「バクルド」,「まあ、ぼちぼちいい放浪だった」,1,4,0,,,,gun,0,False,,拳銃
+1097,,,True,,,,,Roroky Lalaoky,"""Rider? I barely even know her!""",1,0,0,,,,blunt_mace,0,False,,weapon
+1102,,,True,,,,,"""Putittoro"" The Devoted Putit",,4,0,0,,,putty,,0,False,,Putit
+1141,,,True,,,,,"""Malaath"" the happy",,7,0,0,,,,,0,False,,
+1182,,,True,,,,,Bermuda Muda,,7,3,0,,,,,0,False,,
+1217,,,True,,,,JP,「プリン」怪鳥,,4,0,1,,,chicken,,0,False,,鶏
+1239,,,True,,,,JP,刹那「シュヴェルト」,「鏡……ともしび……とらわれ……天使……。 ……」,1,3,0,,,,,0,False,,
+1298,,,True,,,,JP,煙鏡に捧ぐ短剣「シュトカルト」,,6,0,2,,Luck,,,0,False,,
+1310,,,True,,,,,"""Martin"" The Sleepy One","""I love to tinker at night!""",2,0,0,,,,,0,False,,
+1330,,,True,,,,,"""MegaNightshark"" the wishing well taster",,3,0,0,mahogany,,,,0,False,,
+1333,,,True,,,,,"Adams ""Mesherada"" Trinh",,6,0,2,,Wind,,,0,False,,
+1431,,,True,,,,,"""Drifter"" The Lord Harvester","""Yeeks aren't the only risk down here...""",1,5,0,,,,fishingRod,0,False,,Fishing Rod
+1435,,,True,,,,,"""Leah"" The Once Beloved",,6,0,1,,Harmony,,,0,False,,
+1520,,,True,,,,JP,女神の抱き枕を抱えた「赤鳥ヴィズ」,,6,0,1,,Healing,,,0,False,,
+1854,,,True,,,,JP,風化した足跡,「……最後の一口」,1,4,0,,,,734,0,False,,"ピザ,腐ったサンドイッチ"
+1861,,,True,,,,JP,塩に素晴らしい耐性がある「おみくじ」,,7,0,0,,,,,0,False,,
+1871,,,True,,,,JP,悪食「ドラゴン」,「金貨以外は口にしたくないね！」,1,2,0,,,,money,1,True,thieves,金貨
+1901,,,False,,,,,2,,0,0,0,,,,,0,False,,
+1952,,,True,,,,JP,漆黒「ユウギリ」,「寝なくても明日は来る」,1,5,0,,,,979,0,False,,置時計、時計（もしくは時間に関係するもの）
+1975,,,True,,,,JP,存在しない者「余白アマシロ」,「narrative is now here」,1,0,0,,,,218,0,False,,何も書かれていない本のページ
+2057,,,True,,,,JP,ファントムレッド「アナスタシア」,,6,0,1,,Machine,,,0,False,,
+2092,,,True,,,,JP,Kiridaema,,7,0,0,,,,,1,True,casino,
+2117,,,True,,,,JP,母から受け継いだ氷河「ミシュラ」,「お前を見ている」,2,0,0,,,,,0,False,,
+2118,,,True,,,,JP,かみかくし「だのみん」,,5,4,0,,,,,0,False,,
+2132,,,True,,,,,"""Apitaya"" The Indecisive",,5,3,0,,,,,0,False,,
+2144,,,True,,,,,"""Nathaniel"" The Witless",,6,0,2,,Oblivion,,,0,False,,
+2159,,,False,,,,,,,0,0,0,,,,,1,False,,
+2163,,,True,,,,,"""Gourdman"" The Mutant Circus Performer","""They didn't tell me this would happen!""",1,5,0,,,,gun,0,False,,Gun
+2183,,,False,,,,JP,,,0,0,0,,,,,1,False,,
+2198,,,True,,,,JP,orn,,6,0,2,,Luck,,,0,False,,
+2327,,,True,,,,JP,未熟者の末路「あなた」,「何度でも立ち上がる！」,1,2,0,,,,blunt_club,0,False,,ゲーム内最弱の武器
+2347,,,False,,,,,whose name is Cain de Ticano,,0,0,0,,,,,0,False,,
+2379,,,True,,,,JP,法の書の信徒ピタパン,,3,0,0,cedar,,,,0,False,,
+2395,,,True,,,,,Alcadeias,"""EVERYBODY NEEDS SOMEBODY.""",2,0,0,,,,,0,False,,
+2542,,,True,,,,,"""Nina"" The inmortal Dog",,4,0,1,,,dog,,0,False,,Dog
+2596,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+2706,,,True,,,,,"""Mochi"" The Pancake Thief",,4,0,1,,,dog,,1,True,yowyn,shiba inu
+2726,,,True,,,,JP,猫のような風「チョコ」,,4,0,1,,,cat,,1,True,yowyn cat cafe,ハーピー（仔猫）
+2807,,,True,,,,JP,星屑の虹「ハティ」,,4,0,2,,,silverwolf,,0,False,,銀狼（犬）
+2828,,,True,,,,JP,洞房花燭「キリエ」,,6,0,1,,Luck,,,1,True,kapul,
+2858,,,True,,,,,"""Justin"" Lord of a Distant Kingdom","""I wont go down without a fight!""",1,2,0,,,,sword,0,False,,Longsword
+2863,,,True,,,,JP,奇術師「ナグ」,「ななしの繁栄を祝して！」,2,0,0,,,,,0,False,,
+2904,,,True,,,,JP,プリティーダークネス「ネモ」,,6,0,1,,Luck,,,0,False,,
+2920,,,True,,,,JP,野良猫「リリーベル」,,4,0,1,,,cat,,1,True,kapul,猫
+2930,,,True,,,,JP,シャイな子犬「ふく」,,4,0,1,,,dog,,0,False,,犬
+2956,,,True,,,,JP,明日を信じる不滅「ホスビン」,「違う、これじゃない！」,1,0,0,,,,resin,0,False,,レジン
+2970,,,True,,,,JP,愚者の末路「インサニア」,,3,0,0,random,,,,1,True,derphy,
+2975,,,True,,,,JP,「すごいさかなの中の人」,「私の亡骸を見つけた者に頼みがある。魚が好きな神様にこれを届けてほしい。まだ新鮮なうちに！」,1,4,0,,,,78,0,False,,サバ(魚系の食品なら他でも)
+2990,,,True,,,,JP,あなたを待ち侘びた者「？？？」,「やっと見つけてくれたか。お前に渡したい物があったのだ。」,1,0,0,,,,731,0,False,,ランダムかつプレイヤーを不愉快にさせるアイテム(クズ、フン、腐った食べ物など)※実装可能であれば極めて稀に有用な貴重品(Elonaでのエーテル抗体や支配の杖に相当)を所持する仕様を希望
+3053,,,False,,,,,,,2,0,0,,,,,0,False,,
+3103,,,True,,,,JP,悟った愚者「mojito_can」,「（皺の寄った小さな紙片に、落ち着きのある字が書かれている。）紙が無いからって、武器で拭いちゃだめね。」,1,1,0,,,,blunt_club,0,False,,武器
+3180,,,True,,,,,Rook,,4,0,0,,,cat,,0,False,,
+3287,,,True,,,,,Fonne Walkure,,5,2,0,,,,,1,True,cursed manor,
+3293,,,True,,,,,"""Vici""","""I just want to lay down""",1,1,0,,,,glass,0,False,,broken glass
+3363,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+3402,,,True,,,,JP,銘探偵「バリバリバリツ」,,5,5,0,,,,,0,False,,
+3414,,,False,,,,,,,0,0,0,,,,,0,False,,
+3440,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+3467,,,True,,,,,"""Devon"" The Newbie","""I'll become a hero of legend for sure!""",1,5,0,,,,sword,0,False,,Sword
+3630,,,True,,,,JP,今日も癒されたい「レイド」,,6,0,2,,Healing,,,0,False,,
+3670,,,False,,,,JP,,,0,0,0,,,,,1,False,,
+3676,,,True,,,,,Ebony,,4,0,0,,,cat,,0,False,,
+3687,,,True,,,,JP,それでも逃避行「ミノト」,「来世に期待」,1,0,0,,,,cloak,0,False,,マント
+3729,,,True,,,,JP,＊,「やぁ、よく見つけたね……さぁ、掘ってごらん……正丁」,3,0,0,random,,,,0,False,,
+3750,,,True,,,,,"""Nil"" The Grateful Son","""Mom, I finally got the medicine for you!""",1,5,0,,,,potion,1,True,derphy,Healing potions or herbs
+3790,,,True,,,,,Carind Nivans,"""There's a broken watch near the corpse, it's stuck at 21:37""",1,1,0,,,,979,0,False,,"置時計,Broken pocket watch"
+3804,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+3806,,,True,,,,JP,妖怪「ブンブン茶釜」,「タヌキじゃないよ！」,1,1,0,,,,110,0,False,,こんがり肉、肉類
+3829,,,True,,,,JP,目にハートマークが浮かぶ「ハルナ」,,4,0,1,,,sister,,0,False,,首輪のついた妹
+3849,,,True,,,,,"""Lily"" Flowering Nightmare",,5,3,0,,,,,0,False,,
+4092,,,True,,,,,"""Mika"" The Sleepy Cat",,4,0,1,,,cat,,0,False,,Cat
+4150,,,True,,,,JP,アキ,,3,0,0,cedar,,,,0,False,,
+4156,,,True,,,,JP,驚異の子「ジーク」,「そうだろう、ーーーーーさん、見ててくれよ」,2,0,0,,,,,0,False,,
+4367,,,True,,,,,"""First Snow"" Associated Snow",,4,0,2,,,putty_snow,,0,False,,Snow Putit(cat)
+4500,,,True,,,,JP,「メルツ」駆け出し魔法使い,「騙された……こんな危ないとこじゃなくて家で読めば良かった……」,1,5,0,,,,spellbook,0,False,,魔法書（古書物や古文書でも良いです）
+4502,,,False,,,,JP,,,0,0,0,,,,,0,False,,
+4528,,,True,,,,,"""Azzalin"" The One Kink Shamed",,5,3,0,,,,,0,False,,
+4563,,,True,,,,JP,星と翼の亡霊｢シンゴロ〜｣,｢いつかソラへ…｣,1,5,0,,,,804,0,False,,葉っぱ、翼
+4579,,,True,,,,JP,癒しの女神の信奉者「ANI」,,6,0,2,,Healing,,,1,True,kapul,
+4613,,,False,,,,JP,,,0,0,0,,,,,1,False,,
+4630,,,True,,,,JP,兄のために這い上がり続ける「ショコラーデ」,,5,0,0,,,,,0,False,,
+4755,,,True,,,,JP,へたれの吟遊詩人「ノキ」,「ふかふかパンの中で圧死したい」,2,0,0,,,,,0,False,,
+4776,,,True,,,,JP,永遠の迷い人「ソイヤ」,「一瞬で良い…混沌の世に一瞬の光を…」,2,0,0,,,,,0,False,,
+4788,,,True,,,,,"""Olin"" The Fighting Rebel","""Teehee~""",1,2,0,,,,sword,0,False,,Masterwork Longsword +1
+4814,,,True,,,,,"""Bob""",,5,4,0,,,,,1,True,cursed manor,
+4845,,,True,,,,JP,空の捕喰者「シャチ」,「月が照らす桜小路で出会えた君に、桜吹雪の朝日を捧げよう」,2,0,0,,,,,0,False,,
+4854,,,True,,,,JP,少女の「アイミ」,,6,0,1,,Wind,,,0,False,,
+4859,,,True,,,,JP,紅茶の香り「TEATIME」,,6,0,2,,Healing,,,1,True,kapul,
+4860,,,True,,,,JP,奈落堕ちの追跡者「ラウシアン」,,3,0,0,random,,,,0,False,,
+4861,,,True,,,,JP,永遠の旅人「seeker」,「君は楽しめてるかい？」,2,0,0,,,,,0,False,,
+4876,,,True,,,,JP,緑雨の燕「イツカ」,「長く、遠く、旅をしてきて……それでも、もうすこしだけ飛んでいたかったなぁ」,1,4,0,,,,book,0,False,,文庫本
+4899,,,False,,,,,,,0,0,0,,,,,0,False,,
+4928,,,True,,,,JP,博愛主義「マモゴロ」,,6,0,2,,Oblivion,,,0,False,,
+4946,,,False,,,,,,,0,0,0,,,,,0,False,,
+4953,,,True,,,,,"""sweetcakes"" Solitary Mecha Cat",,4,0,1,,,cat,,0,False,,Mecha Cat (Cat)
+4989,,,True,,,,JP,ひろ,,4,0,1,,,dog,,1,True,mysilia,犬
+4993,,,True,,,,JP,グルメハンター「burnfu」,「腹減った……」,1,0,0,,,,water,0,False,,水
+5019,,,True,,,,,Leilana Auslese,,4,0,1,,,cat,,0,False,,Cat (Kitten)
+5023,,,True,,,,JP,RJ181918,「チェリーブロッサムへようこそ！」,1,2,0,,,,ecopo,0,False,,商品券(チケット)
+5027,,,True,,,,,"""Taco"" Whiny Dog Begs for Beans",,4,0,2,,,dog,,0,False,,Dog
+5070,,,True,,,,,"""kigey""",,5,0,0,,,,,0,False,,
+5071,,,True,,,,,"""P-nut"" Johan and Cherry's love",,4,0,2,,,cat,,0,False,,Cat
+5104,,,True,,,,JP,子供の「マーポン」,「まんまるお月さまとまるいねこ～♪」,2,0,0,,,,,1,True,olvina,
+5124,,,False,,,,,,,0,0,0,,,,,0,False,,
+5145,,,True,,,,,"""Klais"" The Star Gazer","""Will my wish become true?""",1,3,0,,,,sword,0,False,,Rusty Sword
+5165,,,True,,,,,"""Ycare"" The Grand Ambassador","""Carried the weight of a Prophecy""",1,5,0,,,,bow,0,False,,Bow
+5218,,,False,,,,JP,,,0,0,0,,,,,1,False,,
+5231,,,True,,,,,"""Andre"" Serendipity Mage Recluse",,6,0,2,,Luck,,,0,False,,
+5297,,,True,,,,JP,よいこの「ぷゆ」,,4,0,0,,,putty_snow,,1,True,miral,雪プチ
+5336,,,False,,,,,,,4,0,0,,,,,0,False,,
+5399,,,True,,,,JP,イヌアザラシレンタルサービス「れみどり」,「つかれじゃみせんバイセコー」,1,3,0,,,,lute,0,False,,三味線(弦楽器)
+5441,,,True,,,,JP,勇敢な騎士「フェリ」,,4,0,2,,,cat,,0,False,,仔猫
+5493,,,True,,,,JP,翠眼の宣教師「パシフローラ」,「もっと皆さまにオパートス様の魅力を知ってほしい！」,1,5,0,,,,234,1,True,god,オパートス様の伝承が書かれた赤本（またはオパートス様のエロ本）
+5554,,,True,,,,JP,月夜の街「トルキィ」,「空を青く塗ることくらい私にもできる」,2,0,0,,,,,0,False,,
+5587,,,True,,,,JP,アヤ,,4,0,2,,,dog,,0,False,,犬
+5601,,,True,,,,,Mango Putit,,4,0,0,,,putty,,0,False,,Red Putit (Putit)
+5638,,,True,,,,,"Lucy ",,4,0,2,,,cat,,0,False,,"A Maine Coon cat "
+5735,,,True,,,,,Mono,,4,0,1,,,wolf,,0,False,,Wolf (Dog)
+5739,,,True,,,,,"""Henry"" The Stalwart Dogge",,4,0,2,,,dog,,0,False,,Dog
+5751,,,False,,,,,,,0,0,0,,,,,0,False,,
+5861,,,True,,,,,Kairi,,4,0,1,,,dog,,0,False,,
+5903,,,True,,,,JP,兄LOVE「妹」,,5,2,0,,,,,0,False,,
+5926,,,True,,,,JP,暗闇の天狐「ルシフェル」,,3,0,0,cherry,,,,0,False,,
+5948,,,True,,,,JP,ゲーミングカタツムリちゃん,,7,4,0,,,,,0,False,,
+6005,,,True,,,,,"""Kyouka"" The Kamidere",,4,0,1,,,cat,,0,False,,Kitten
+6006,,,True,,,,JP,ビジン,,7,0,0,,,,,0,False,,
+6044,,,True,,,,JP,美の巨人「トルメンコ」,「私の死を乗り越えて、より美しい物を探しなさい」,1,1,0,,,,537,0,False,,薔薇
+6059,,,False,,,,JP,,,0,0,0,,,,,0,False,,

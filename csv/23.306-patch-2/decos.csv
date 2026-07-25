@@ -1,0 +1,4 @@
+id,alias,name_JP,name,sort,idBiome,reqHarvest,hp,_tileType,_idRenderData,tiles,anime,colorMod,value,LV,recipeKey,factory,components,defMat,category,edge,autotile,autotilePriority,autotileBrightness,soundFoot,tag,detail_JP,detail
+0,,,,0,,"digging,1",100,None,floor,6,,100,0,1,,x,-,oak,floor_deco,0,0,0,0,,,,
+1,deco_frame,石の囲い,stone border,1,,"digging,1",100,FloorDeco,floor,216,,100,0,25,*,factory_floor,dye,granite,floor_deco,0,0,0,0,,,,
+2,deco_frame_at,縁石,stone curb,2,,"digging,1",100,FloorDeco,floor,3015,,100,0,25,*,factory_floor,dye,granite,floor_deco,0,8,0,0,,,,

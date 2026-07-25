@@ -1,0 +1,138 @@
+id,uid,name_JP,name,_parent,recipeCat,slot,skill,maxStack,tileDummy,installOne,ignoreBless,tag,idThing,recycle,costSP,gift,deliver,offer,ticket,sortVal,flag
+new,0,新しい物資,New Items,,goods,0,0,999,0,False,0,,,"material,10",3,0,0,100,1,0,0
+none,1,なし,None,,goods,0,0,999,0,False,0,,,"material,10",3,0,0,100,1,2000,0
+resource,2,資源,Resource,,goods,0,0,999,0,False,1,dye,log,"material,10",2,0,0,100,1,50,1
+_resource,121,資源,Resource,resource,goods,0,0,999,0,False,1,,,"material,10",2,0,0,100,1,51,0
+seed,3,種,Seed,resource,goods,0,0,999,0,True,1,,,"food,10",2,0,0,100,1,52,0
+wood,4,木材,Wood,resource,goods,0,0,999,0,False,1,,,"material,10",2,0,0,100,1,53,0
+stone,5,石材,Stone,resource,goods,0,0,999,0,False,1,,,"material,10",2,0,0,100,1,54,0
+ore,6,鉱石,Ore,resource,goods,0,0,999,0,False,1,,,"material,10",2,100,0,100,1,55,0
+textile,7,繊維,Textile,resource,goods,0,0,999,0,False,1,,fiber,"material,10",2,0,0,100,1,56,0
+flora,8,花,Flora,resource,goods,0,0,999,0,False,1,,,"material,10",2,100,100,100,1,57,0
+bodyparts,9,体のパーツ,Body Parts,resource,goods,0,0,999,0,False,1,,offal,"material,10",2,100,100,100,1,58,0
+dna,131,DNA,DNA,resource,goods,0,0,999,0,False,1,,dna,"material,10",1,0,0,100,1,59,0
+fertilizer,10,肥料,Fertilizer,resource,goods,0,0,999,0,True,0,,,"material,10",1,0,0,100,1,59,0
+block,11,ブロック,Block,,wall,0,0,999,0,True,1,,,"material,10",0,0,0,100,1,70,0
+_block,122,ブロック,Block,block,wall,0,0,999,0,True,1,,,"material,10",0,0,0,100,1,71,0
+wall,12,壁,Wall,block,wall,0,0,999,0,True,1,,,"material,10",0,0,0,100,1,72,0
+fence,13,フェンス,Fence,block,wall,0,0,999,0,True,1,,,"material,10",0,0,0,100,1,73,0
+floor,14,床,Floor,block,floor,0,0,999,0,True,1,,,"material,10",0,0,0,100,1,74,0
+foundation,15,基礎,Foundation,block,foundation,0,0,999,0,True,1,,,"material,10",0,0,0,100,1,75,0
+obj,16,小道具,Prop,block,obj,0,0,999,0,True,1,,,"material,10",0,0,0,100,1,76,0
+food,17,食料,Food,,food,0,0,999,0,False,2,,_dish_lunch,"food,10",2,100,100,100,1,100,2
+meal,18,料理,Meal,food,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,120,0
+meal_meat,19,肉料理,Meat Meal,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,121,0
+meal_fish,20,魚料理,Fish Meal,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,122,0
+meal_vegi,21,野菜料理,Vegetable Meal,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,123,0
+meal_fruit,22,果物料理,Fruit Meal,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,124,0
+meal_cake,23,ケーキ,Cake,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,125,0
+meal_bread,24,パン,Bread,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,126,0
+meal_cookie,25,クッキー,Cookie,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,127,0
+meal_noodle,26,ヌードル,Noodle,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,128,0
+meal_egg,27,卵料理,Egg Meal,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,129,0
+meal_rice,28,ご飯物,Rice Meal,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,130,0
+meal_soup,29,スープ,Soup,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,131,0
+meal_lunch,136,ランチ,Lunch,meal,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,132,0
+foodstuff,30,食材,Foodstuff,food,food,0,0,999,0,False,2,,honey,"food,10",2,0,0,100,1,140,0
+grain,129,穀物,Grain,foodstuff,food,0,0,999,0,False,2,,rice,"food,10",2,0,0,100,1,141,0
+dough,128,練り粉,Dough,foodstuff,food,0,0,999,0,False,2,,dough_bread,"food,10",2,0,0,100,1,142,0
+meat,31,肉,Meat,foodstuff,food,0,0,999,0,False,2,,meat,"food,10",2,0,0,100,1,143,0
+vegi,32,野菜,Vegetable,foodstuff,food,0,0,999,0,False,2,,carrot,"food,10",2,0,0,100,1,144,0
+fruit,33,果物,Fruit,foodstuff,food,0,0,999,0,False,2,,apple,"food,10",2,0,0,100,1,145,0
+mushroom,34,きのこ,Mushroom,foodstuff,food,0,0,999,0,False,2,,mushroom,"food,10",2,0,0,100,1,146,0
+egg,35,卵,Egg,foodstuff,food,0,0,999,0,False,2,,egg,"food,10",2,0,0,100,1,147,0
+fish,36,魚,Fish,foodstuff,food,0,0,999,0,False,2,,75,"food,10",2,0,0,100,1,148,0
+nuts,37,実,Nuts,foodstuff,food,0,0,999,0,False,2,,696,"food,10",2,0,0,100,1,149,0
+seasoning,38,調味料,Seasoning,food,food,0,0,999,0,False,2,,salt,"food,10",2,0,0,100,1,160,0
+_seasoning,130,調味料,Seasoning,seasoning,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,161,0
+herb,132,ハーブ,Herb,seasoning,food,0,0,999,0,False,2,,herb_blue,"food,10",2,0,0,100,1,162,0
+sauce,39,ソース,Sauce,seasoning,food,0,0,999,0,False,2,,sauce,"food,10",2,0,0,100,1,163,0
+spice,40,スパイス,Spice,seasoning,food,0,0,999,0,False,2,,spice,"food,10",2,0,0,100,1,164,0
+preserved,41,保存食,Preserved Food,food,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,165,0
+foodstuff_raw,42,未加工食材,Raw Foodstuff,food,food,0,0,999,0,False,2,,,"food,10",2,0,0,100,1,166,0
+drink,43,飲料,Drink,,food,0,0,999,0,False,0,,potion,"food,10",2,100,100,100,1,200,4
+_drink,127,ポーション,Potion,drink,food,0,0,999,0,False,0,,potion,"food,10",2,100,100,100,1,201,0
+booze,44,酒,Booze,drink,food,0,0,999,0,False,0,,crimAle,"food,10",2,100,100,100,1,202,0
+milk,45,ミルク,Milk,drink,food,0,0,999,0,False,0,,milk,"food,10",2,100,100,100,1,203,0
+drug,46,薬,Drug,drink,food,0,0,999,0,False,0,,drug,"food,10",2,100,100,100,1,204,0
+weapon,47,武器,Weapon,,goods,0,0,1,0,False,0,,sword,"material,10",3,0,0,100,1,300,8
+melee,48,近接武器,Melee Weapon,weapon,goods,35,0,1,0,False,0,,sword,"material,10",3,100,100,100,1,310,0
+sword,49,長剣,Long Sword,melee,goods,35,101,1,0,False,0,,,"material,10",3,0,0,100,1,320,0
+dagger,50,短剣,Short Sword,melee,goods,35,107,1,0,False,0,,dagger,"material,10",3,0,0,100,1,325,0
+blunt,51,鈍器,Blunt Weapon,melee,goods,35,111,1,0,False,0,,,"material,10",3,0,0,100,1,330,0
+staff,52,杖,Staff,melee,goods,35,103,1,0,False,0,,,"material,10",3,0,0,100,1,335,0
+axe,53,斧,Axe,melee,goods,35,102,1,0,False,0,,,"material,10",3,0,0,100,1,340,0
+polearm,54,棒,Polearm,melee,goods,35,106,1,0,False,0,,,"material,10",3,0,0,100,1,350,0
+scythe,55,鎌,Scythe,melee,goods,35,110,1,0,False,0,,,"material,10",3,0,0,100,1,355,0
+martial,133,暗器,Martial Weapon,melee,goods,35,100,1,0,False,0,,,"material,10",3,0,0,100,1,360,0
+ranged,56,射撃武器,Ranged Weapon,weapon,goods,0,0,1,0,False,0,,bow,"material,10",3,0,0,100,1,500,0
+ammo,57,矢弾,Ammo,ranged,goods,0,0,999,0,False,1,fixedRarity,,"material,10",3,0,0,100,1,2000,0
+bow,58,弓,Bow,ranged,goods,0,104,1,0,False,0,randomRarity,,"material,10",3,100,100,100,1,510,0
+crossbow,59,クロスボウ,Crossbow,ranged,goods,0,109,1,0,False,0,randomRarity,,"material,10",3,100,100,100,1,515,0
+gun,60,銃,Gun,ranged,goods,0,105,1,0,False,0,randomRarity,,"material,10",3,100,100,100,1,520,0
+cane,61,ワンド,Cane,ranged,goods,0,305,1,0,False,0,randomRarity,,"material,10",3,100,100,100,1,525,0
+throw,62,投擲武器,Throwing Weapon,ranged,goods,0,108,999,0,False,0,randomRarity,,"material,10",3,0,0,100,1,530,0
+armor,63,防具,Armor,,goods,0,0,1,0,False,0,,armor_light,"material,10",3,100,100,100,1,600,16
+torso,64,胴装備,Torso Gear,armor,goods,32,0,1,0,False,0,,shirt,"material,10",3,0,0,100,1,610,0
+head,65,頭装備,Head Gear,armor,goods,30,0,1,0,False,0,,helm,"material,10",3,0,0,100,1,605,0
+back,66,背中装備,Back Gear,armor,goods,33,0,1,0,False,0,,,"material,10",3,0,0,100,1,606,0
+waist,67,腰装備,Waist Gear,armor,goods,37,0,1,0,False,0,,,"material,10",3,0,0,100,1,615,0
+arm,68,腕装備,Arm Gear,armor,goods,34,0,1,0,False,0,,,"material,10",3,0,0,100,1,620,0
+foot,69,足装備,Foot Gear,armor,goods,39,0,1,0,False,0,,,"material,10",3,0,0,100,1,625,0
+finger,70,指装備,Finger Gear,armor,goods,36,0,1,0,False,0,,,"material,10",3,0,0,100,1,630,0
+ring,71,指輪,Ring,finger,goods,36,0,1,0,False,0,,,"material,10",3,0,0,100,1,631,0
+neck,72,首装備,Neck Gear,armor,goods,31,0,1,0,False,0,,,"material,10",3,0,0,100,1,635,0
+amulet,73,首輪,Amulet,neck,goods,31,0,1,0,False,0,,,"material,10",3,0,0,100,1,636,0
+shield,74,盾,Shield,armor,goods,35,123,1,0,False,0,,,"material,10",3,0,0,100,1,640,0
+toolbelt,75,ツールベルト,Toolbelt,armor,goods,44,0,1,0,False,0,fixedRarity,,"material,10",3,0,0,100,1,680,0
+lightsource,76,光源,Light Source,armor,light,45,0,1,0,False,0,fixedRarity,,"material,10",3,0,0,100,1,681,0
+furniture,77,家具,Furniture,,furniture,0,0,999,1,True,1,,bed,"material,10",4,100,0,100,1,800,32
+_furniture,126,家具,Furniture,furniture,furniture,0,0,999,1,True,1,,,"material,10",4,0,100,100,1,801,0
+container,78,コンテナ,Container,furniture,storage,0,0,1,1,True,1,enc,,"material,10",4,0,0,100,1,1,0
+window,79,窓,Window,furniture,door,0,0,999,1,True,1,enc,,"material,10",2,0,0,100,1,701,0
+light,80,照明,Lighting,furniture,light,0,0,999,1,True,1,enc,candle6,"material,10",2,0,0,100,1,702,0
+deco,81,装飾,Decoration,furniture,deco,0,0,999,1,True,1,enc,,"material,10",4,0,100,100,1,703,0
+plantpot,82,鉢植え,Plant Pot,furniture,deco,0,0,999,1,True,1,enc,,"material,10",2,0,100,100,1,704,0
+facility,83,設備,Facility,furniture,facility,0,0,999,1,True,1,enc,,"material,10",5,0,0,100,5,705,0
+crafter,84,製作設備,Crafter,furniture,facility,0,0,999,1,True,1,enc,,"material,10",5,0,0,100,20,706,0
+processor,85,加工設備,Processor,furniture,facility,0,0,999,1,True,1,enc,,"material,10",5,0,0,100,20,707,0
+generator,86,発電機,Generator,furniture,facility,0,0,999,1,True,1,enc,,"material,10",5,0,0,100,20,708,0
+mount,87,マウント,Hanging,furniture,mount,0,0,999,1,True,1,enc,,"material,10",3,0,0,100,1,709,0
+ext,88,屋外用品,Exterior,furniture,ext,0,0,999,1,True,1,enc,,"material,10",4,0,0,100,1,710,0
+mech,89,機工,Mech,furniture,mech,0,0,999,1,True,1,enc,,"material,10",4,0,0,100,1,711,0
+util,90,特殊,Utility,furniture,spot,0,0,999,1,True,1,enc,,"material,10",4,0,0,100,1,712,0
+bed,91,ベッド,Bed,furniture,furniture,0,0,999,1,True,1,enc,,"material,10",4,0,100,100,1,713,0
+chair,92,椅子,Chair,furniture,furniture,0,0,999,1,True,1,enc,chair,"material,10",3,0,100,100,1,714,0
+table,93,机,Table,furniture,furniture,0,0,999,1,True,1,enc,table,"material,10",3,0,100,100,1,715,0
+door,94,扉,Door,furniture,door,0,0,999,1,True,1,enc,,"material,10",2,0,0,100,1,716,0
+card,95,カード,Card,furniture,ext,0,0,999,0,True,1,,,"material,10",4,0,0,100,1,717,0
+figure,96,フィギア,Figure,furniture,ext,0,0,999,0,True,1,enc,,"material,10",4,0,0,100,1,718,0
+item,97,アイテム,Item,,goods,0,0,999,0,False,1,,bait,"material,10",3,0,0,100,1,1400,128
+_item,123,アイテム,Item,item,goods,0,0,999,0,False,1,,,"material,10",3,0,0,100,1,1401,0
+rune,134,ルーン,Rune,item,goods,0,0,999,0,False,1,noEnc,,"material,10",4,0,0,100,1,1410,0
+mod,135,改造道具,Mod,item,goods,0,0,999,0,False,1,,,"material,10",4,0,0,100,1,1411,0
+bait,98,餌,Bait,item,goods,0,0,999,0,False,1,,,"material,10",1,0,0,100,1,1420,0
+book,99,本,Book,,goods,0,0,999,0,False,1,,book,"knowledge,10",3,100,0,100,1,720,64
+_book,124,本,Book,book,goods,0,0,999,0,False,1,,,"knowledge,10",3,0,0,100,1,721,0
+scroll,100,巻物,Scroll,book,goods,0,0,999,0,False,0,,scroll,"knowledge,10",3,0,0,100,1,722,0
+ancientbook,101,古の書,Ancient Book,book,goods,0,0,1,0,False,0,,book_ancient,"knowledge,10",3,0,0,500,1,723,0
+spellbook,102,魔法書,Spell Book,book,goods,0,0,1,0,False,0,,spellbook,"knowledge,10",3,0,100,400,1,724,0
+skillbook,103,技術書,Skill Book,book,goods,0,0,999,0,False,0,,,"knowledge,10",3,0,0,1000,1,725,0
+map,104,地図,Map,book,goods,0,0,1,0,False,0,,map,"knowledge,10",3,0,0,400,1,726,0
+other,105,その他,Other,,goods,0,0,999,0,False,1,,junk,"material,10",3,0,0,100,1,1000,512
+junk,106,ジャンク,Junk,other,junk,0,0,999,0,False,1,dye,,"material,10",3,100,100,100,1,1300,0
+globe,107,地球儀,Globe,other,junk,0,0,999,0,False,1,enc,157,"material,10",3,100,100,100,1,1301,0
+pot,108,鍋,Pot,other,junk,0,0,999,0,False,1,,150,"material,10",3,100,100,100,1,1302,0
+souvenir,109,お土産,Souvenir,other,junk,0,0,999,0,False,1,,815,"material,10",3,100,100,100,1,1303,0
+garbage,110,ゴミ,Garbage,other,junk,0,0,999,0,False,1,dye,trash2,"material,10",3,0,100,100,1,1304,0
+chara,111,キャラ,Chara,other,other,0,0,999,0,False,1,,,"material,10",3,0,0,100,1,1305,0
+bill,112,請求書,Bill,other,goods,0,0,1,0,False,1,,,"knowledge,10",3,0,0,100,1,1306,0
+valuable,113,貴重品,Valuable,other,goods,0,0,999,0,False,1,,,"material,10",3,0,0,100,1,900,0
+ability,114,アビリティー,Ability,other,goods,0,0,999,0,False,1,,,"material,10",3,0,0,100,1,1307,0
+trap,120,罠,Trap,other,mech,0,0,999,1,True,1,,trap,"material,10",4,0,0,100,1,1700,0
+tool,115,ツール,Tool,,tool,0,0,999,0,False,0,,lute,"material,10",3,0,0,100,10,1400,1024
+_tool,125,ツール,Tool,tool,tool,0,0,999,0,False,0,,,"material,10",3,0,0,100,10,1401,0
+instrument,116,楽器,Instrument,tool,tool,0,0,1,0,False,0,enc,lute,"material,10",3,100,100,500,1,1402,0
+rod,117,魔法杖,Rod,tool,goods,0,0,1,0,False,0,,,"material,10",3,0,0,300,1,1403,0
+catalyst,118,触媒,Catalyst,tool,goods,0,0,1,0,False,0,,,"material,10",3,0,0,300,1,1404,0
+currency,119,通貨,Currency,,goods,0,0,999,0,False,1,,money,"material,10",3,0,0,100,1,1800,256

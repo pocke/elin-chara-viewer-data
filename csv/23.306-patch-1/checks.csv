@@ -1,0 +1,7 @@
+id,element,targetElement,subFactor,targetSubFactor,baseDC,critRange,fumbleRange,dice,lvMod
+lockpick,280,0,0.5,0,5,1,1,20,0
+dogmeat,237,0,0,0,15,1,1,20,0
+reading,285,285,0,0,10,1,1,20,0
+spotting,210,0,0,0,15,1,1,20,0
+hit,72,72,0,0,1,0,0,20,0
+affinity,77,77,0,0,10,1,1,20,0

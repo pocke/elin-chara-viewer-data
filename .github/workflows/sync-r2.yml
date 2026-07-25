@@ -1,0 +1,45 @@
+name: Sync to R2
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: sync-r2
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Sync archive to R2
+    runs-on: ubuntu-latest
+
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: auto
+      AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+      AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
+      ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+      BUCKET: ${{ secrets.R2_BUCKET }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync data files
+        run: |
+          for dir in csv featModifier derived; do
+            aws s3 sync "$dir" "s3://$BUCKET/$dir" \
+              --endpoint-url "$ENDPOINT" \
+              --cache-control 'public, max-age=31536000, immutable' \
+              --size-only
+          done
+
+      # index.json changes on every release, so it must not be cached immutably.
+      - name: Upload index
+        run: |
+          aws s3 cp index.json "s3://$BUCKET/index.json" \
+            --endpoint-url "$ENDPOINT" \
+            --content-type application/json \
+            --cache-control 'public, max-age=300'
