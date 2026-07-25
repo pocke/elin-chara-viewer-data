@@ -53,7 +53,7 @@ jobs:
           upload() {
             aws s3 cp "$1" "s3://$BUCKET/$1" \
               --endpoint-url "$ENDPOINT" \
-              --cache-control "$2"
+              --cache-control "$2" </dev/null
           }
 
           while IFS= read -r file; do
@@ -69,7 +69,7 @@ jobs:
 
           while IFS= read -r file; do
             [ -n "$file" ] || continue
-            aws s3 rm "s3://$BUCKET/$file" --endpoint-url "$ENDPOINT"
+            aws s3 rm "s3://$BUCKET/$file" --endpoint-url "$ENDPOINT" </dev/null
           done <<< "$deleted"
 
       - name: Apply the CORS policy
