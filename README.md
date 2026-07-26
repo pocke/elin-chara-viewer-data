@@ -60,10 +60,19 @@ Pushing to `main` syncs the archive to Cloudflare R2, which is what the viewer
 reads. Only the files that the push changed are uploaded, so a correction that
 happens to keep a file's size is published too.
 
-The viewer reads these files from the browser, so the bucket needs the CORS
-policy in `cors.json`; the sync workflow applies it on every run. The `range`
-header has to be allowed and `content-range` exposed because the viewer's SQL
-page reads the CSVs with DuckDB-wasm, which requests them in ranges.
+The viewer reads these files from the browser, so a bucket served directly
+needs the CORS policy in `cors.json`. It is applied by hand, because changing
+bucket configuration requires an admin-scoped R2 token while the sync only
+needs object access:
+
+```console
+$ npx wrangler r2 bucket cors set <bucket> --file cors.json
+```
+
+The `range` header has to be allowed and `content-range` exposed because the
+viewer's SQL page reads the CSVs with DuckDB-wasm, which requests them in
+ranges. A bucket served through a Worker sets these headers in the Worker
+instead.
 
 ## License
 
