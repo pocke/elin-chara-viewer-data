@@ -1,7 +1,7 @@
 id,alias,name_JP,name,detail_JP,detail
 1,old_charm,古びたお守り,Old Charm,どこか見覚えのある、色あせた貝殻のお守りだ。,A somewhat familiar looking amulet made of faded shells.
 2,backpack,使い慣れたバックパック,Well-worn Backpack,どんな時でも頼りになる旅の相棒だ。,"Always reliable, no matter the journey."
-3,well_wish,女神の残り香,"Fragrance of Goddess ",幸運の女神のふわふわな残り香。願いの女神を引き寄せるといわれている。,"The soft remaining fragrance of the Goddess of Luck. It is believed to draw the Goddess of Wish. "
+3,well_wish,女神の残り香,Fragrance of Goddess ,幸運の女神のふわふわな残り香。願いの女神を引き寄せるといわれている。,The soft remaining fragrance of the Goddess of Luck. It is believed to draw the Goddess of Wish. 
 4,well_enhance,黒猫のよだれ,Black Cat's Saliva,"強い祝福の魔力が含まれた唾液だ。
 
 [所持効果]

@@ -47,7 +47,7 @@ id,alias,type,name_JP,name,ai,talk,area,destTrait,workTag,expedition,resources,r
 45,Breeding,Pet,繁殖,Breeding,,farm,,,,,"0,0,0",50,nature,20,"_egg,66,milk,33",,negotiation,,
 46,Supervising,Unique,監査,Supervising,,farm,,,,,"0,0,0",50,education,0,,fAdmin/20,investing,,
 47,Assassination,Unique,暗殺,Assassination,,farm,,,,,"0,0,0",50,education,50,,fSafety/30,stealth,,
-48,Rich,Hobby,散財,"Extravagance ",,farm,,,,,"0,0,0",50,education,400,,,appraising,高額納税,High tax
+48,Rich,Hobby,散財,Extravagance ,,farm,,,,,"0,0,0",50,education,400,,,appraising,高額納税,High tax
 49,Gun,Hobby,ランボー,Rambo,,farm,,,,,"0,0,0",50,industry,30,"bullet,400,bullet_energy,50,arrow,500,quarrel,200",fSafety/-40,weaponGun,,
 51,Rumor,Unique,噂話,Rumor,,farm,,,,,"0,0,0",50,nature,80,,"fPromo/25,fElec/40,fMoral/-10",meditation,,
 52,TreasureHunt,Both,お宝さがし,Treasure Hunt,,farm,,,,,"0,0,0",50,fun,120,"map_treasure,2",,gathering,宝の自動取得(宝の地図が必要),Auto collect treasure (Requires treasure map)

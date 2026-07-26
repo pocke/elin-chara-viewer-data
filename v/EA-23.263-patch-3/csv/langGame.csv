@@ -25,7 +25,7 @@ pick_held,,,,,,,#1は#2をバックパックにしまった。,#1 store #2 into 
 pick_held_pc,,,,,,,#2をバックパックにしまった。,You store #2 in your backpack.
 backpack_full,,,,,,,それはバックパックに入らない！,You can't put that in your backpack!
 backpack_full_drop,,,,,,,#1はバックパックから溢れて地面に落ちた。,#1 overflow(s) from your backpack and fall(s) to the ground.
-ding_skill,,,ding,,,,"#1は#2の技術の向上を感じた。 ",#your #2 skill increases.
+ding_skill,,,ding,,,,#1は#2の技術の向上を感じた。 ,#your #2 skill increases.
 dec_skill,,,negative,,,,#1は#2の技術の衰えを感じた。,#your #2 skill decreases.
 kick,,,,,,,#1は#2を蹴った。,#1 kick(s) #2.
 bash,,,,,,,#1は#2に体当りした。,#1 bash(es) #2.
@@ -223,18 +223,18 @@ attackMelee,combat,,,,,,#1は#2#3,#1 #3 #2 and
 attackMelee_pc,combat,,,,,,#2#3,#1 #3 #2 and
 attack_air,combat,,,,,,#1の攻撃は空を切った。,#1 strike(s) the air.
 attack_air_range,combat,,,,,,#1は空気を射った。,#1 shoot(s) the air.
-dmgMelee0,combat,,dmg0,,,,かすり傷をつけた。," make(s) a scratch."
-dmgMelee1,combat,,dmg1,,,,軽い傷を負わせた。," slightly wound(s) #him2."
-dmgMelee2,combat,,dmg2,,,,傷つけた。," moderately wound(s) #him2."
-dmgMelee3,combat,,dmg3,,,,深い傷を負わせた。," severely wound(s) #him2."
-dmgMelee4,combat,,dmg4,,,,致命傷を与えた。," critically wound(s) #him2."
-dmgMelee5,combat,,dmg5,,,,瀕死の状態にした。," render(s) #him2 nearly dead."
-dmgMelee0pc,combat,,dmg0,,,,かすり傷を負った。," make(s) a scratch."
-dmgMelee1pc,combat,,dmg1,,,,軽い傷を負った。," slightly wound(s) #him2."
-dmgMelee2pc,combat,,dmg2,,,,傷つけられた。," moderately wound(s) #him2."
-dmgMelee3pc,combat,,dmg3,,,,深い傷を負った。," severely wound(s) #him2."
-dmgMelee4pc,combat,,dmg4,,,,致命傷を与えられた。," critically wound(s) #him2."
-dmgMelee5pc,combat,,dmg5,,,,瀕死の状態にされた。," render(s) #him2 nearly dead."
+dmgMelee0,combat,,dmg0,,,,かすり傷をつけた。, make(s) a scratch.
+dmgMelee1,combat,,dmg1,,,,軽い傷を負わせた。, slightly wound(s) #him2.
+dmgMelee2,combat,,dmg2,,,,傷つけた。, moderately wound(s) #him2.
+dmgMelee3,combat,,dmg3,,,,深い傷を負わせた。, severely wound(s) #him2.
+dmgMelee4,combat,,dmg4,,,,致命傷を与えた。, critically wound(s) #him2.
+dmgMelee5,combat,,dmg5,,,,瀕死の状態にした。, render(s) #him2 nearly dead.
+dmgMelee0pc,combat,,dmg0,,,,かすり傷を負った。, make(s) a scratch.
+dmgMelee1pc,combat,,dmg1,,,,軽い傷を負った。, slightly wound(s) #him2.
+dmgMelee2pc,combat,,dmg2,,,,傷つけられた。, moderately wound(s) #him2.
+dmgMelee3pc,combat,,dmg3,,,,深い傷を負った。, severely wound(s) #him2.
+dmgMelee4pc,combat,,dmg4,,,,致命傷を与えられた。, critically wound(s) #him2.
+dmgMelee5pc,combat,,dmg5,,,,瀕死の状態にされた。, render(s) #him2 nearly dead.
 dmg0,combat,,dmg0,,,,-,-
 dmg1,combat,,dmg1,,,,#1は軽い傷を負った。,#1 suffer(s) a minor injury.
 dmg2,combat,,dmg2,,,,#1は痛手を負った。,#1 are/is hurt.
@@ -267,21 +267,21 @@ kill_attack,combat,,dead,Bad,,,"殺した。
 kill_eleFire,combat,,dead,Bad,,,"燃やし尽くした。
 消し炭に変えた。"," burn(s) #him2 to death
  turn(s) #him2 to ashes."
-kill_eleCold,combat,,dead,Bad,,,氷の塊に変えた。," transform(s) #him2 to an ice sculpture."
-kill_eleLightning,combat,,dead,Bad,,,焦げカスにした。," electrocute(s) #him2 to death."
-kill_eleDarkness,combat,,dead,Bad,,,闇に飲み込んだ。," let(s) the depths swallow #him2."
-kill_eleHoly,combat,,dead,Bad,,,昇天させた。," send(s) #him2 to heaven."
-kill_eleMind,combat,,dead,Bad,,,再起不能にした。," completely disable(s) #him2."
-kill_elePoison,combat,,dead,Bad,,,毒殺した。," kill(s) #him2 with poison."
-kill_eleNether,combat,,dead,Bad,,,冥界に墜とした。," send(s) #him2 to hell."
-kill_eleSound,combat,,dead,Bad,,,聴覚を破壊し殺した。," shatter(s) #him2 to atoms."
-kill_eleNerve,combat,,dead,Bad,,,神経を破壊し殺した。," destroy(s) #his2 nerves."
-kill_eleChaos,combat,,dead,Bad,,,混沌の渦に吸い込んだ。," let(s) the chaos consume #him2."
-kill_eleAcid,combat,,dead,Bad,,,ドロドロに溶かした。," melt(s) #him2 away."
-kill_eleCut,combat,,dead,Bad,,,千切りにした。," cut(s) #him2 into thin strips."
-kill_eleMagic,combat,,dead,Bad,,,マナを枯渇させた。," deplete(s) #his2 mana."
-kill_eleEther,combat,,dead,Bad,,,エーテル漬けにした。," soak(s) #him2 in ether."
-dead_in,combat,,dead,,,,#1で," in #1"
+kill_eleCold,combat,,dead,Bad,,,氷の塊に変えた。, transform(s) #him2 to an ice sculpture.
+kill_eleLightning,combat,,dead,Bad,,,焦げカスにした。, electrocute(s) #him2 to death.
+kill_eleDarkness,combat,,dead,Bad,,,闇に飲み込んだ。, let(s) the depths swallow #him2.
+kill_eleHoly,combat,,dead,Bad,,,昇天させた。, send(s) #him2 to heaven.
+kill_eleMind,combat,,dead,Bad,,,再起不能にした。, completely disable(s) #him2.
+kill_elePoison,combat,,dead,Bad,,,毒殺した。, kill(s) #him2 with poison.
+kill_eleNether,combat,,dead,Bad,,,冥界に墜とした。, send(s) #him2 to hell.
+kill_eleSound,combat,,dead,Bad,,,聴覚を破壊し殺した。, shatter(s) #him2 to atoms.
+kill_eleNerve,combat,,dead,Bad,,,神経を破壊し殺した。, destroy(s) #his2 nerves.
+kill_eleChaos,combat,,dead,Bad,,,混沌の渦に吸い込んだ。, let(s) the chaos consume #him2.
+kill_eleAcid,combat,,dead,Bad,,,ドロドロに溶かした。, melt(s) #him2 away.
+kill_eleCut,combat,,dead,Bad,,,千切りにした。, cut(s) #him2 into thin strips.
+kill_eleMagic,combat,,dead,Bad,,,マナを枯渇させた。, deplete(s) #his2 mana.
+kill_eleEther,combat,,dead,Bad,,,エーテル漬けにした。, soak(s) #him2 in ether.
+dead_in,combat,,dead,,,,#1で, in #1
 dead_by,combat,,dead,,,,#1は#2#3に殺された。,#1 were/was killed by #3#2.
 dead,combat,,dead,Bad,,,#1は#2息絶えた。,#1 died#2.
 dead_attack,combat,,dead,Bad,,,#1は#2殺された。,#1 were/was killed#2.
@@ -377,8 +377,8 @@ tooHardToDig,,,,,,,#2は硬すぎる！,#2 is too hard to dig!
 tooHardToMine,,,,,,,#2は硬すぎる！,#2 is too hard to mine!
 tooHardToHarvest,,,,,,,#2の採取は難しい。,#2 is too difficult to harvest.
 tooHardToDisassemble,,,,,,,#2の解体は難しい。,#2 is too difficult to disassemble.
-karmaUp,,,save,,,,"カルマ変動(+#1) ","Karma(+#1) "
-karmaDown,,,negative,,,,"カルマ変動(#1) ","Karma(#1) "
+karmaUp,,,save,,,,カルマ変動(+#1) ,Karma(+#1) 
+karmaDown,,,negative,,,,カルマ変動(#1) ,Karma(#1) 
 gatherLimit,,,,,,,#2ではこれ以上採取できない。,You need a better tool.
 gatherLimitHand,,,,,,,素手ではこれ以上採取できない。,You need a better tool.
 harvest_fail,,,,,,,何も採取できなかった。,You fail to harvest.
@@ -455,7 +455,7 @@ trainSkill,,,positive,,,,#1は#2のスキルを訓練した。,#1 train(s) #2.
 potentialInc,,,positive,,,,#1の#2の潜在能力が上昇した。,The potential of #your #2 increases.
 potentialDec,,,negative,,,,#1の#2の潜在能力が減少した。,The potential of #your #2 decreases.
 learnSkillBranch,,,positive,,,,拠点は#2のスキルを習得した！,Your home learns #2!
-dingSkillBranch,,,ding,,,,"#1の「#2」は向上した。 ","The base gains a new level in ""#2""."
+dingSkillBranch,,,ding,,,,#1の「#2」は向上した。 ,"The base gains a new level in ""#2""."
 notEnoughFuel,,,,,,,燃料が足りない！,There is not enough fuel!
 fueled,,,,,,,#1を燃料に追加した。,You add #1 to the fuel.
 brew,,,,,,,#1は#2に醸成された。,#1 ferment(s) into #2.
@@ -685,11 +685,11 @@ trap_mine,,,dmg5,,,,*チュドーン！*,*kabooom*
 trap_sister,,,negative,,,,辺りに恐ろしい悲鳴が響き渡った。,A chilling shriek resonated all around.
 trap_spear_nullify,,,,,,,しかし#1には届かなかった。,But they don't reach #1.
 backerLantern_read,backer,,,,,,あなたはランタンに綴られた文字を読んだ。,You read the words on the lantern.
-backerLantern,backer,,ono,,,,#1,"#1 "
+backerLantern,backer,,ono,,,,#1,#1 
 backerRemain_read,backer,,,,,,あなたは亡骸に残された遺言を読んだ。,You read the will left behind in the remain.
-backerRemain,backer,,ono,,,,#1,"#1 "
+backerRemain,backer,,ono,,,,#1,#1 
 backerTree_read,backer,,,,,,あなたは木に刻まれた文字を読んだ。,You read the words carved into the tree.
-backerTree,backer,,ono,,,,#1,"#1 "
+backerTree,backer,,ono,,,,#1,#1 
 daggerGrave,backer,,ono,,,,#1に捧げられし風の短剣、ここに永遠に眠る。,"The Wind Dagger Dedicated to #1, Here Lies Eternally."
 add_sketch,,,nice,,,,画集に「スケッチ##1」が追加された。,Sketch ##1 has been added to your gallery.
 add_sketch_special,,,nice,,,,画集に特別な絵の数々が追加された。,Several special sketches have been added to your gallery.
@@ -721,7 +721,7 @@ stomp,,,ono,,,,"*ドスン*
 defense_bonus,,,nice,,,,報酬が上がった。,The reward increases.
 defense_start,,,warning,,,,戦いの角笛が鳴り響いた。,The war horn sounds.
 defense_retreat,,,warning,,,,あなたは撤退の合図を送った。,You send the signal for retreat.
-defense_wave,,,warning,,,,"敵の第#1波が到来した！(危険度 #2階相当) ",The enemies arrive! (Wave #1 Danger Lv.#2)
+defense_wave,,,warning,,,,敵の第#1波が到来した！(危険度 #2階相当) ,The enemies arrive! (Wave #1 Danger Lv.#2)
 defense_boss,,,warning,,,,気をつけろ！敵陣の主、#1が突っ込んでくるぞ！,"Beware! The enemy's leader, #1 is approaching!"
 alarm,,,ono,,,,*ウーウー！ ウーウー！ ウーウー！*,*BEEP-BEEP-BEEP! BEEP-BEEP-BEEP!*
 alarm2,,,warning,,,,けたたましい警報が鳴り響いた！,A shrill alarm blares through the air!
@@ -998,9 +998,9 @@ contribute,,,nice,,,,#2への貢献度が上昇した。,Your contribution to #2
 faction_promote,,,nice,,,,あなたは昇進した！,You are promoted!
 bounty,,,nice,,,,賞金首を倒して#2オレンの懸賞金を受け取った。,The Fighters Guild pays you #2 oren(s2) for the bounty target.
 subdue_complete,,,nice,,,,付近の魔物を一掃した！,You have wiped out the nearby monsters!
-party_end,,,,,,,パーティーが終了した。あなたの演奏は#1得点を記録した。,"The party has ended. Your performance scored #1 music points. "
-party_end2,,,,,,,合計で#1オレンを獲得した。,"You earn a total of #1 orens. "
-harvest_end,,,,,,,収穫が終わった。あなたは合計#1の重さの作物を納入した。,"The harvest has ended. You delivered crops weighing a total of #1. "
+party_end,,,,,,,パーティーが終了した。あなたの演奏は#1得点を記録した。,The party has ended. Your performance scored #1 music points. 
+party_end2,,,,,,,合計で#1オレンを獲得した。,You earn a total of #1 orens. 
+harvest_end,,,,,,,収穫が終わった。あなたは合計#1の重さの作物を納入した。,The harvest has ended. You delivered crops weighing a total of #1. 
 farm_chest,,,nice,,,,重さ#2の#1を納入した。,You deliver #1 weighing #2.
 perfume,,,,,,,#1はいい匂いに包まれた。,#1 are/is wrapped in a nice fragrance.
 reward_bonus,,,,,,,ボーナスとして報酬に#1オレンが追加された。,A bonus of #1 oren#(s) is added to the reward.
@@ -1076,7 +1076,7 @@ pick_valuable,,,,,,,それを置いていくなんてとんでもない！,Leavi
 pick_valuable2,,,ono,,,,#1はあなたのバックパックに滑り込んだ。,#1 slip(s) into your backpack.
 syringe,,,ability,,,,#1は#3を#2に刺した。,#1 inject(s) #2 with #3.
 isIn,,,,,,,#1は#2にいる。,#1 is in #2.
-goto_heaven,,,save,,,,#1は天に召された。,"#1 are/is taken to heaven. "
+goto_heaven,,,save,,,,#1は天に召された。,#1 are/is taken to heaven. 
 sleep_beside,,,ono,,,,#1は#2にぴったり寄り添った。,#1 closely accompany/accompanies #2.
 firstTimeCraft,,,nice,,,,これは初めてクラフトするアイテムだ。,It's a new craft item.
 recipe_factory,,,nice,,,,それは「#1」でクラフトできる。,It can be crafted at #1.
@@ -1128,9 +1128,9 @@ Wow!
 Jackpot! 
 Lucky!"
 item_drop,,,,,,,#1が地面に転がった。,#1 fall(s) to the ground.
-wall_bond,,,ability,,,,#1は血の代償を払った。," #1 sacrifice(s) #his blood."
-wall_flesh,,,ability,,,,#1の体は揺れた。," #your body quivers."
-wall_knightly,,,ability,,,,#1が庇った。," #1 selflessly defend(s) #him2."
+wall_bond,,,ability,,,,#1は血の代償を払った。, #1 sacrifice(s) #his blood.
+wall_flesh,,,ability,,,,#1の体は揺れた。, #your body quivers.
+wall_knightly,,,ability,,,,#1が庇った。, #1 selflessly defend(s) #him2.
 warhorn,,,warning,,,,"*ヴォゥオォーオゥゥゥ*
 *ヴォオオォォォォゥ*
 *ヴゥォーオォォォゥ*","*BWRRROOOHHH*
