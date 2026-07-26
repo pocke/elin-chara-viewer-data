@@ -4,6 +4,15 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      full:
+        description: Upload every file instead of the pushed range
+        type: boolean
+        default: true
+  schedule:
+    # A push whose run is superseded while it waits in the concurrency group
+    # never gets its range uploaded, so a full sync runs weekly to catch up.
+    - cron: '17 4 * * 1'
 
 concurrency:
   group: sync-r2
@@ -11,6 +20,17 @@ concurrency:
 
 permissions:
   contents: read
+
+env:
+  AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+  AWS_DEFAULT_REGION: auto
+  AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+  AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
+  ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
+  BUCKET: ${{ secrets.R2_BUCKET }}
+  VERSION_CACHE_CONTROL: 'public, max-age=86400, stale-while-revalidate=604800'
+  INDEX_CACHE_CONTROL: 'public, max-age=300'
 
 jobs:
   sync:
@@ -24,31 +44,44 @@ jobs:
           # The upload is driven by the diff of the pushed range.
           fetch-depth: 0
 
-      - name: Upload
+      - name: Decide what to upload
+        id: plan
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: auto
-          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
-          AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
-          ENDPOINT: https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
-          BUCKET: ${{ secrets.R2_BUCKET }}
           BEFORE: ${{ github.event.before }}
+          FULL: ${{ github.event_name != 'push' || inputs.full }}
         run: |
           set -euo pipefail
 
-          # aws s3 sync compares size and mtime. A checkout gives every file a
-          # fresh mtime, so it would re-upload the whole archive every run;
-          # --size-only would instead skip a correction that happens to keep the
-          # file size. The pushed range says exactly what changed.
-          if [ "${BEFORE:-}" = '0000000000000000000000000000000000000000' ] ||
+          if [ "$FULL" = 'true' ] ||
+             [ "${BEFORE:-}" = '0000000000000000000000000000000000000000' ] ||
              ! git cat-file -e "${BEFORE:-missing}^{commit}" 2>/dev/null; then
-            changed="$(git ls-files)"
-            deleted=''
-          else
-            changed="$(git diff --diff-filter=d --name-only "$BEFORE" HEAD)"
-            deleted="$(git diff --diff-filter=D --name-only "$BEFORE" HEAD)"
+            echo 'full=true' >> "$GITHUB_OUTPUT"
+            exit 0
           fi
+
+          echo 'full=false' >> "$GITHUB_OUTPUT"
+          git diff --diff-filter=d --name-only "$BEFORE" HEAD > changed.txt
+          git diff --diff-filter=D --name-only "$BEFORE" HEAD > deleted.txt
+
+      # aws s3 sync compares size and mtime, and a checkout gives every file a
+      # fresh mtime, so this re-uploads everything. That is what a full sync is
+      # for; the incremental path below is what a release takes.
+      - name: Upload everything
+        if: steps.plan.outputs.full == 'true'
+        run: |
+          set -euo pipefail
+          aws s3 sync v "s3://$BUCKET/v" \
+            --endpoint-url "$ENDPOINT" \
+            --cache-control "$VERSION_CACHE_CONTROL" \
+            --delete
+          aws s3 cp index.json "s3://$BUCKET/index.json" \
+            --endpoint-url "$ENDPOINT" \
+            --cache-control "$INDEX_CACHE_CONTROL"
+
+      - name: Upload what the push changed
+        if: steps.plan.outputs.full == 'false'
+        run: |
+          set -euo pipefail
 
           upload() {
             aws s3 cp "$1" "s3://$BUCKET/$1" \
@@ -58,19 +91,18 @@ jobs:
 
           while IFS= read -r file; do
             case "$file" in
-              v/*)
-                # A version's files change only when it is re-archived to
-                # correct it, so a day of caching bounds how long a stale copy
-                # can be served.
-                upload "$file" 'public, max-age=86400, stale-while-revalidate=604800' ;;
-              index.json)
-                upload "$file" 'public, max-age=300' ;;
+              v/*) upload "$file" "$VERSION_CACHE_CONTROL" ;;
+              index.json) upload "$file" "$INDEX_CACHE_CONTROL" ;;
+              README.md|cors.json|.github/*) ;;
+              # An unrecognised path means the layout moved and this workflow
+              # did not follow; failing is better than silently not uploading.
+              *) echo "unexpected path: $file" >&2; exit 1 ;;
             esac
-          done <<< "$changed"
+          done < changed.txt
 
           while IFS= read -r file; do
             case "$file" in
               v/*|index.json)
                 aws s3 rm "s3://$BUCKET/$file" --endpoint-url "$ENDPOINT" </dev/null ;;
             esac
-          done <<< "$deleted"
+          done < deleted.txt

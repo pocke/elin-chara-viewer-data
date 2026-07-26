@@ -65,7 +65,10 @@ regenerates `index.json`, so committing and pushing here is all that is left.
 ## Delivery
 
 Pushing to `main` syncs the archive to Cloudflare R2, which is what the viewer
-reads. Only the files that the push changed are uploaded.
+reads. A push uploads the files it changed; the whole `v/` tree and `index.json`
+go up when the workflow is started by hand with `full` (the way to seed an empty
+bucket) and once a week, so that a push whose run was superseded while queued
+cannot leave the bucket behind.
 
 A bucket served directly to browsers needs the CORS policy in `cors.json`, which
 is applied by hand because changing bucket configuration requires an
