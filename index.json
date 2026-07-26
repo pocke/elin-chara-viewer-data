@@ -3,7 +3,6 @@
     "version": "EA 23.173 Patch 1",
     "channel": null,
     "releaseDate": "2025-08-20",
-    "source": "git",
     "slug": "EA-23.173-patch-1",
     "tables": [
       "charas",
@@ -19,7 +18,6 @@
     "version": "EA 23.187",
     "channel": null,
     "releaseDate": "2025-08-24",
-    "source": "git",
     "slug": "EA-23.187",
     "tables": [
       "charas",
@@ -35,7 +33,6 @@
     "version": "EA 23.188",
     "channel": null,
     "releaseDate": "2025-09-08",
-    "source": "git",
     "slug": "EA-23.188",
     "tables": [
       "charas",
@@ -51,7 +48,6 @@
     "version": "EA 23.188 Patch 1",
     "channel": null,
     "releaseDate": "2025-09-08",
-    "source": "git",
     "slug": "EA-23.188-patch-1",
     "tables": [
       "charas",
@@ -67,7 +63,6 @@
     "version": "EA 23.188 Patch 2",
     "channel": null,
     "releaseDate": "2025-09-08",
-    "source": "git",
     "slug": "EA-23.188-patch-2",
     "tables": [
       "charas",
@@ -83,7 +78,6 @@
     "version": "EA 23.200 Patch 2",
     "channel": null,
     "releaseDate": "2025-09-19",
-    "source": "git",
     "slug": "EA-23.200-patch-2",
     "tables": [
       "charas",
@@ -99,7 +93,6 @@
     "version": "EA 23.209 Patch 1",
     "channel": null,
     "releaseDate": "2025-10-01",
-    "source": "git",
     "slug": "EA-23.209-patch-1",
     "tables": [
       "charas",
@@ -115,7 +108,6 @@
     "version": "EA 23.212",
     "channel": null,
     "releaseDate": "2025-10-05",
-    "source": "git",
     "slug": "EA-23.212",
     "tables": [
       "charas",
@@ -131,7 +123,6 @@
     "version": "EA 23.213",
     "channel": null,
     "releaseDate": "2025-10-06",
-    "source": "git",
     "slug": "EA-23.213",
     "tables": [
       "charas",
@@ -147,7 +138,6 @@
     "version": "EA 23.222",
     "channel": null,
     "releaseDate": "2025-10-19",
-    "source": "git",
     "slug": "EA-23.222",
     "tables": [
       "charas",
@@ -163,7 +153,6 @@
     "version": "EA 23.222 Patch 1",
     "channel": null,
     "releaseDate": "2025-10-20",
-    "source": "git",
     "slug": "EA-23.222-patch-1",
     "tables": [
       "charas",
@@ -179,7 +168,6 @@
     "version": "EA 23.229 Patch 3",
     "channel": null,
     "releaseDate": "2025-11-01",
-    "source": "git",
     "slug": "EA-23.229-patch-3",
     "tables": [
       "charas",
@@ -195,7 +183,6 @@
     "version": "EA 23.229 Patch 4",
     "channel": null,
     "releaseDate": "2025-11-04",
-    "source": "git",
     "slug": "EA-23.229-patch-4",
     "tables": [
       "charas",
@@ -211,7 +198,6 @@
     "version": "EA 23.237",
     "channel": null,
     "releaseDate": "2025-11-19",
-    "source": "git",
     "slug": "EA-23.237",
     "tables": [
       "charas",
@@ -227,7 +213,6 @@
     "version": "EA 23.237 Patch 1",
     "channel": "stable",
     "releaseDate": "2025-11-25",
-    "source": "git",
     "slug": "EA-23.237-patch-1",
     "tables": [
       "charas",
@@ -243,7 +228,6 @@
     "version": "EA 23.242",
     "channel": "nightly",
     "releaseDate": "2025-12-04",
-    "source": "git",
     "slug": "EA-23.242",
     "tables": [
       "charas",
@@ -259,7 +243,6 @@
     "version": "EA 23.243",
     "channel": "nightly",
     "releaseDate": "2025-12-04",
-    "source": "git",
     "slug": "EA-23.243",
     "tables": [
       "charas",
@@ -275,7 +258,6 @@
     "version": "EA 23.243 Patch 4",
     "channel": "nightly",
     "releaseDate": "2025-12-07",
-    "source": "git",
     "slug": "EA-23.243-patch-4",
     "tables": [
       "charas",
@@ -291,7 +273,6 @@
     "version": "EA 23.244",
     "channel": "nightly",
     "releaseDate": "2025-12-07",
-    "source": "git",
     "slug": "EA-23.244",
     "tables": [
       "charas",
@@ -307,7 +288,6 @@
     "version": "EA 23.244 Patch 2",
     "channel": "nightly",
     "releaseDate": "2025-12-08",
-    "source": "git",
     "slug": "EA-23.244-patch-2",
     "tables": [
       "charas",
@@ -323,7 +303,6 @@
     "version": "EA 23.245",
     "channel": "nightly",
     "releaseDate": "2025-12-08",
-    "source": "git",
     "slug": "EA-23.245",
     "tables": [
       "charas",
@@ -339,7 +318,6 @@
     "version": "EA 23.246",
     "channel": "nightly",
     "releaseDate": "2025-12-11",
-    "source": "git",
     "slug": "EA-23.246",
     "tables": [
       "charas",
@@ -355,7 +333,6 @@
     "version": "EA 23.246 Patch 1",
     "channel": "nightly",
     "releaseDate": "2025-12-13",
-    "source": "git",
     "slug": "EA-23.246-patch-1",
     "tables": [
       "charas",
@@ -371,7 +348,6 @@
     "version": "EA 23.247",
     "channel": "stable",
     "releaseDate": "2025-12-14",
-    "source": "git",
     "slug": "EA-23.247",
     "tables": [
       "charas",
@@ -387,7 +363,6 @@
     "version": "EA 23.247 Patch 1",
     "channel": "stable",
     "releaseDate": "2025-12-15",
-    "source": "git",
     "slug": "EA-23.247-patch-1",
     "tables": [
       "charas",
@@ -403,7 +378,6 @@
     "version": "EA 23.248",
     "channel": "nightly",
     "releaseDate": "2025-12-17",
-    "source": "git",
     "slug": "EA-23.248",
     "tables": [
       "charas",
@@ -419,7 +393,6 @@
     "version": "EA 23.249",
     "channel": "nightly",
     "releaseDate": "2025-12-19",
-    "source": "git",
     "slug": "EA-23.249",
     "tables": [
       "charas",
@@ -435,7 +408,6 @@
     "version": "EA 23.250 Patch 1",
     "channel": "nightly",
     "releaseDate": "2025-12-20",
-    "source": "git",
     "slug": "EA-23.250-patch-1",
     "tables": [
       "charas",
@@ -451,7 +423,6 @@
     "version": "EA 23.250 Patch 2",
     "channel": "nightly",
     "releaseDate": "2025-12-21",
-    "source": "git",
     "slug": "EA-23.250-patch-2",
     "tables": [
       "charas",
@@ -467,7 +438,6 @@
     "version": "EA 23.252",
     "channel": "stable",
     "releaseDate": "2025-12-22",
-    "source": "git",
     "slug": "EA-23.252",
     "tables": [
       "charas",
@@ -483,7 +453,6 @@
     "version": "EA 23.252 Patch 1",
     "channel": "stable",
     "releaseDate": "2025-12-23",
-    "source": "git",
     "slug": "EA-23.252-patch-1",
     "tables": [
       "charas",
@@ -499,7 +468,6 @@
     "version": "EA 23.252 Patch 2",
     "channel": "stable",
     "releaseDate": "2025-12-24",
-    "source": "git",
     "slug": "EA-23.252-patch-2",
     "tables": [
       "charas",
@@ -515,7 +483,6 @@
     "version": "EA 23.253",
     "channel": "nightly",
     "releaseDate": "2025-12-27",
-    "source": "git",
     "slug": "EA-23.253",
     "tables": [
       "charas",
@@ -531,7 +498,6 @@
     "version": "EA 23.254",
     "channel": "nightly",
     "releaseDate": "2026-01-02",
-    "source": "git",
     "slug": "EA-23.254",
     "tables": [
       "charas",
@@ -547,7 +513,6 @@
     "version": "EA 23.254 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-01-02",
-    "source": "git",
     "slug": "EA-23.254-patch-1",
     "tables": [
       "charas",
@@ -563,7 +528,6 @@
     "version": "EA 23.255 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-01-05",
-    "source": "git",
     "slug": "EA-23.255-patch-2",
     "tables": [
       "charas",
@@ -579,7 +543,6 @@
     "version": "EA 23.255 Patch 3",
     "channel": "nightly",
     "releaseDate": "2026-01-05",
-    "source": "git",
     "slug": "EA-23.255-patch-3",
     "tables": [
       "charas",
@@ -595,7 +558,6 @@
     "version": "EA 23.256",
     "channel": "nightly",
     "releaseDate": "2026-01-07",
-    "source": "git",
     "slug": "EA-23.256",
     "tables": [
       "charas",
@@ -611,7 +573,6 @@
     "version": "EA 23.256 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-01-08",
-    "source": "git",
     "slug": "EA-23.256-patch-1",
     "tables": [
       "charas",
@@ -627,7 +588,6 @@
     "version": "EA 23.258",
     "channel": "nightly",
     "releaseDate": "2026-01-11",
-    "source": "git",
     "slug": "EA-23.258",
     "tables": [
       "charas",
@@ -643,7 +603,6 @@
     "version": "EA 23.259",
     "channel": "nightly",
     "releaseDate": "2026-01-12",
-    "source": "git",
     "slug": "EA-23.259",
     "tables": [
       "charas",
@@ -659,7 +618,6 @@
     "version": "EA 23.260",
     "channel": "stable",
     "releaseDate": "2026-01-13",
-    "source": "git",
     "slug": "EA-23.260",
     "tables": [
       "areas",
@@ -709,7 +667,6 @@
     "version": "EA 23.260 Patch 1",
     "channel": "stable",
     "releaseDate": "2026-01-15",
-    "source": "git",
     "slug": "EA-23.260-patch-1",
     "tables": [
       "areas",
@@ -759,7 +716,6 @@
     "version": "EA 23.261 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-01-17",
-    "source": "git",
     "slug": "EA-23.261-patch-2",
     "tables": [
       "areas",
@@ -809,7 +765,6 @@
     "version": "EA 23.261 Patch 3",
     "channel": "nightly",
     "releaseDate": "2026-01-17",
-    "source": "git",
     "slug": "EA-23.261-patch-3",
     "tables": [
       "areas",
@@ -859,7 +814,6 @@
     "version": "EA 23.262",
     "channel": "nightly",
     "releaseDate": "2026-01-19",
-    "source": "git",
     "slug": "EA-23.262",
     "tables": [
       "areas",
@@ -909,7 +863,6 @@
     "version": "EA 23.262 Patch 3",
     "channel": "nightly",
     "releaseDate": "2026-01-20",
-    "source": "git",
     "slug": "EA-23.262-patch-3",
     "tables": [
       "areas",
@@ -959,7 +912,6 @@
     "version": "EA 23.263",
     "channel": "nightly",
     "releaseDate": "2026-01-23",
-    "source": "git",
     "slug": "EA-23.263",
     "tables": [
       "areas",
@@ -1009,7 +961,6 @@
     "version": "EA 23.263 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-01-23",
-    "source": "git",
     "slug": "EA-23.263-patch-2",
     "tables": [
       "areas",
@@ -1059,7 +1010,6 @@
     "version": "EA 23.263 Patch 3",
     "channel": "nightly",
     "releaseDate": "2026-01-25",
-    "source": "git",
     "slug": "EA-23.263-patch-3",
     "tables": [
       "areas",
@@ -1109,7 +1059,6 @@
     "version": "EA 23.264",
     "channel": "nightly",
     "releaseDate": "2026-01-30",
-    "source": "git",
     "slug": "EA-23.264",
     "tables": [
       "areas",
@@ -1159,7 +1108,6 @@
     "version": "EA 23.264 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-01-31",
-    "source": "git",
     "slug": "EA-23.264-patch-1",
     "tables": [
       "areas",
@@ -1209,7 +1157,6 @@
     "version": "EA 23.265 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-02-03",
-    "source": "git",
     "slug": "EA-23.265-patch-1",
     "tables": [
       "areas",
@@ -1259,7 +1206,6 @@
     "version": "EA 23.265 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-02-06",
-    "source": "git",
     "slug": "EA-23.265-patch-2",
     "tables": [
       "areas",
@@ -1309,7 +1255,6 @@
     "version": "EA 23.267",
     "channel": "stable",
     "releaseDate": "2026-02-06",
-    "source": "git",
     "slug": "EA-23.267",
     "tables": [
       "areas",
@@ -1359,7 +1304,6 @@
     "version": "EA 23.267 Patch 1",
     "channel": "stable",
     "releaseDate": "2026-02-13",
-    "source": "git",
     "slug": "EA-23.267-patch-1",
     "tables": [
       "areas",
@@ -1409,7 +1353,6 @@
     "version": "EA 23.268",
     "channel": "nightly",
     "releaseDate": "2026-02-09",
-    "source": "git",
     "slug": "EA-23.268",
     "tables": [
       "areas",
@@ -1459,7 +1402,6 @@
     "version": "EA 23.269",
     "channel": "nightly",
     "releaseDate": "2026-02-11",
-    "source": "git",
     "slug": "EA-23.269",
     "tables": [
       "areas",
@@ -1509,7 +1451,6 @@
     "version": "EA 23.269 Patch 3",
     "channel": "nightly",
     "releaseDate": "2026-02-13",
-    "source": "git",
     "slug": "EA-23.269-patch-3",
     "tables": [
       "areas",
@@ -1559,7 +1500,6 @@
     "version": "EA 23.271 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-02-19",
-    "source": "git",
     "slug": "EA-23.271-patch-2",
     "tables": [
       "areas",
@@ -1609,7 +1549,6 @@
     "version": "EA 23.272",
     "channel": "nightly",
     "releaseDate": "2026-02-20",
-    "source": "git",
     "slug": "EA-23.272",
     "tables": [
       "areas",
@@ -1659,7 +1598,6 @@
     "version": "EA 23.273 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-02-21",
-    "source": "git",
     "slug": "EA-23.273-patch-2",
     "tables": [
       "areas",
@@ -1709,7 +1647,6 @@
     "version": "EA 23.275",
     "channel": "nightly",
     "releaseDate": "2026-02-23",
-    "source": "git",
     "slug": "EA-23.275",
     "tables": [
       "areas",
@@ -1759,7 +1696,6 @@
     "version": "EA 23.276 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-02-24",
-    "source": "git",
     "slug": "EA-23.276-patch-2",
     "tables": [
       "areas",
@@ -1809,7 +1745,6 @@
     "version": "EA 23.277",
     "channel": "nightly",
     "releaseDate": "2026-02-25",
-    "source": "git",
     "slug": "EA-23.277",
     "tables": [
       "areas",
@@ -1859,7 +1794,6 @@
     "version": "EA 23.277 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-02-25",
-    "source": "git",
     "slug": "EA-23.277-patch-1",
     "tables": [
       "areas",
@@ -1909,7 +1843,6 @@
     "version": "EA 23.277 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-02-26",
-    "source": "git",
     "slug": "EA-23.277-patch-2",
     "tables": [
       "areas",
@@ -1959,7 +1892,6 @@
     "version": "EA 23.278",
     "channel": "nightly",
     "releaseDate": "2026-02-27",
-    "source": "git",
     "slug": "EA-23.278",
     "tables": [
       "areas",
@@ -2009,7 +1941,6 @@
     "version": "EA 23.280",
     "channel": "nightly",
     "releaseDate": "2026-03-01",
-    "source": "git",
     "slug": "EA-23.280",
     "tables": [
       "areas",
@@ -2059,7 +1990,6 @@
     "version": "EA 23.281",
     "channel": "stable",
     "releaseDate": "2026-03-01",
-    "source": "git",
     "slug": "EA-23.281",
     "tables": [
       "areas",
@@ -2109,7 +2039,6 @@
     "version": "EA 23.282 Patch 3",
     "channel": "stable",
     "releaseDate": "2026-03-02",
-    "source": "git",
     "slug": "EA-23.282-patch-3",
     "tables": [
       "areas",
@@ -2159,7 +2088,6 @@
     "version": "EA 23.283 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-03-04",
-    "source": "git",
     "slug": "EA-23.283-patch-1",
     "tables": [
       "areas",
@@ -2209,7 +2137,6 @@
     "version": "EA 23.283 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-03-07",
-    "source": "git",
     "slug": "EA-23.283-patch-2",
     "tables": [
       "areas",
@@ -2259,7 +2186,6 @@
     "version": "EA 23.284",
     "channel": "nightly",
     "releaseDate": "2026-03-09",
-    "source": "git",
     "slug": "EA-23.284",
     "tables": [
       "areas",
@@ -2309,7 +2235,6 @@
     "version": "EA 23.285",
     "channel": "nightly",
     "releaseDate": "2026-03-13",
-    "source": "git",
     "slug": "EA-23.285",
     "tables": [
       "areas",
@@ -2359,7 +2284,6 @@
     "version": "EA 23.286 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-03-18",
-    "source": "git",
     "slug": "EA-23.286-patch-1",
     "tables": [
       "areas",
@@ -2409,7 +2333,6 @@
     "version": "EA 23.287 Patch 4",
     "channel": "stable",
     "releaseDate": "2026-03-23",
-    "source": "git",
     "slug": "EA-23.287-patch-4",
     "tables": [
       "areas",
@@ -2459,7 +2382,6 @@
     "version": "EA 23.288",
     "channel": "nightly",
     "releaseDate": "2026-03-26",
-    "source": "git",
     "slug": "EA-23.288",
     "tables": [
       "areas",
@@ -2509,7 +2431,6 @@
     "version": "EA 23.288 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-03-28",
-    "source": "git",
     "slug": "EA-23.288-patch-1",
     "tables": [
       "areas",
@@ -2559,7 +2480,6 @@
     "version": "EA 23.289",
     "channel": "nightly",
     "releaseDate": "2026-03-30",
-    "source": "git",
     "slug": "EA-23.289",
     "tables": [
       "areas",
@@ -2609,7 +2529,6 @@
     "version": "EA 23.290",
     "channel": "nightly",
     "releaseDate": "2026-04-02",
-    "source": "git",
     "slug": "EA-23.290",
     "tables": [
       "areas",
@@ -2659,7 +2578,6 @@
     "version": "EA 23.290 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-04-03",
-    "source": "git",
     "slug": "EA-23.290-patch-1",
     "tables": [
       "areas",
@@ -2709,7 +2627,6 @@
     "version": "EA 23.291 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-04-06",
-    "source": "git",
     "slug": "EA-23.291-patch-1",
     "tables": [
       "areas",
@@ -2759,7 +2676,6 @@
     "version": "EA 23.292",
     "channel": "nightly",
     "releaseDate": "2026-04-08",
-    "source": "git",
     "slug": "EA-23.292",
     "tables": [
       "areas",
@@ -2809,7 +2725,6 @@
     "version": "EA 23.293",
     "channel": "nightly",
     "releaseDate": "2026-04-08",
-    "source": "git",
     "slug": "EA-23.293",
     "tables": [
       "areas",
@@ -2859,7 +2774,6 @@
     "version": "EA 23.293 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-04-09",
-    "source": "git",
     "slug": "EA-23.293-patch-1",
     "tables": [
       "areas",
@@ -2909,7 +2823,6 @@
     "version": "EA 23.294",
     "channel": "nightly",
     "releaseDate": "2026-04-11",
-    "source": "git",
     "slug": "EA-23.294",
     "tables": [
       "areas",
@@ -2959,7 +2872,6 @@
     "version": "EA 23.295",
     "channel": "stable",
     "releaseDate": "2026-04-12",
-    "source": "git",
     "slug": "EA-23.295",
     "tables": [
       "areas",
@@ -3009,7 +2921,6 @@
     "version": "EA 23.295 Patch 2",
     "channel": "stable",
     "releaseDate": "2026-04-15",
-    "source": "git",
     "slug": "EA-23.295-patch-2",
     "tables": [
       "areas",
@@ -3059,7 +2970,6 @@
     "version": "EA 23.296",
     "channel": "nightly",
     "releaseDate": "2026-04-19",
-    "source": "git",
     "slug": "EA-23.296",
     "tables": [
       "areas",
@@ -3109,7 +3019,6 @@
     "version": "EA 23.300",
     "channel": "nightly",
     "releaseDate": "2026-05-02",
-    "source": "git",
     "slug": "EA-23.300",
     "tables": [
       "areas",
@@ -3159,7 +3068,6 @@
     "version": "EA 23.301",
     "channel": "nightly",
     "releaseDate": "2026-05-04",
-    "source": "git",
     "slug": "EA-23.301",
     "tables": [
       "areas",
@@ -3209,7 +3117,6 @@
     "version": "EA 23.302",
     "channel": "nightly",
     "releaseDate": "2026-05-05",
-    "source": "git",
     "slug": "EA-23.302",
     "tables": [
       "areas",
@@ -3259,7 +3166,6 @@
     "version": "EA 23.303",
     "channel": "nightly",
     "releaseDate": "2026-05-06",
-    "source": "git",
     "slug": "EA-23.303",
     "tables": [
       "areas",
@@ -3309,7 +3215,6 @@
     "version": "EA 23.304",
     "channel": "nightly",
     "releaseDate": "2026-05-09",
-    "source": "git",
     "slug": "EA-23.304",
     "tables": [
       "areas",
@@ -3359,7 +3264,6 @@
     "version": "EA 23.305",
     "channel": "nightly",
     "releaseDate": "2026-05-11",
-    "source": "git",
     "slug": "EA-23.305",
     "tables": [
       "areas",
@@ -3409,7 +3313,6 @@
     "version": "EA 23.306",
     "channel": "nightly",
     "releaseDate": "2026-05-14",
-    "source": "git",
     "slug": "EA-23.306",
     "tables": [
       "areas",
@@ -3458,7 +3361,6 @@
     "version": "EA 23.306 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-05-14",
-    "source": "git",
     "slug": "EA-23.306-patch-1",
     "tables": [
       "areas",
@@ -3507,7 +3409,6 @@
     "version": "EA 23.306 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-05-14",
-    "source": "git",
     "slug": "EA-23.306-patch-2",
     "tables": [
       "areas",
@@ -3556,7 +3457,6 @@
     "version": "EA 23.306 Patch 3",
     "channel": "nightly",
     "releaseDate": "2026-05-16",
-    "source": "git",
     "slug": "EA-23.306-patch-3",
     "tables": [
       "areas",
@@ -3605,7 +3505,6 @@
     "version": "EA 23.307",
     "channel": "stable",
     "releaseDate": "2026-05-18",
-    "source": "git",
     "slug": "EA-23.307",
     "tables": [
       "areas",
@@ -3654,7 +3553,6 @@
     "version": "EA 23.308",
     "channel": "nightly",
     "releaseDate": "2026-05-21",
-    "source": "git",
     "slug": "EA-23.308",
     "tables": [
       "areas",
@@ -3703,7 +3601,6 @@
     "version": "EA 23.309 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-05-24",
-    "source": "git",
     "slug": "EA-23.309-patch-1",
     "tables": [
       "areas",
@@ -3752,7 +3649,6 @@
     "version": "EA 23.310 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-06-01",
-    "source": "git",
     "slug": "EA-23.310-patch-2",
     "tables": [
       "areas",
@@ -3801,7 +3697,6 @@
     "version": "EA 23.311 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-06-02",
-    "source": "git",
     "slug": "EA-23.311-patch-1",
     "tables": [
       "areas",
@@ -3850,7 +3745,6 @@
     "version": "EA 23.312 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-06-04",
-    "source": "git",
     "slug": "EA-23.312-patch-2",
     "tables": [
       "areas",
@@ -3899,7 +3793,6 @@
     "version": "EA 23.312 Patch 3",
     "channel": "nightly",
     "releaseDate": "2026-06-04",
-    "source": "git",
     "slug": "EA-23.312-patch-3",
     "tables": [
       "areas",
@@ -3948,7 +3841,6 @@
     "version": "EA 23.313",
     "channel": "nightly",
     "releaseDate": "2026-06-05",
-    "source": "git",
     "slug": "EA-23.313",
     "tables": [
       "areas",
@@ -3997,7 +3889,6 @@
     "version": "EA 23.313 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-06-05",
-    "source": "git",
     "slug": "EA-23.313-patch-1",
     "tables": [
       "areas",
@@ -4046,7 +3937,6 @@
     "version": "EA 23.315",
     "channel": "nightly",
     "releaseDate": "2026-06-10",
-    "source": "git",
     "slug": "EA-23.315",
     "tables": [
       "areas",
@@ -4095,7 +3985,6 @@
     "version": "EA 23.316",
     "channel": "nightly",
     "releaseDate": "2026-06-13",
-    "source": "git",
     "slug": "EA-23.316",
     "tables": [
       "areas",
@@ -4144,7 +4033,6 @@
     "version": "EA 23.318",
     "channel": "nightly",
     "releaseDate": "2026-06-18",
-    "source": "git",
     "slug": "EA-23.318",
     "tables": [
       "areas",
@@ -4193,7 +4081,6 @@
     "version": "EA 23.319 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-06-19",
-    "source": "git",
     "slug": "EA-23.319-patch-1",
     "tables": [
       "areas",
@@ -4242,7 +4129,6 @@
     "version": "EA 23.321 Patch 1",
     "channel": "nightly",
     "releaseDate": "2026-06-25",
-    "source": "git",
     "slug": "EA-23.321-patch-1",
     "tables": [
       "areas",
@@ -4291,7 +4177,6 @@
     "version": "EA 23.322",
     "channel": "nightly",
     "releaseDate": "2026-06-26",
-    "source": "git",
     "slug": "EA-23.322",
     "tables": [
       "areas",
@@ -4340,7 +4225,6 @@
     "version": "EA 23.323 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-06-27",
-    "source": "git",
     "slug": "EA-23.323-patch-2",
     "tables": [
       "areas",
@@ -4389,7 +4273,6 @@
     "version": "EA 23.324",
     "channel": "nightly",
     "releaseDate": "2026-07-01",
-    "source": "git",
     "slug": "EA-23.324",
     "tables": [
       "areas",
@@ -4438,7 +4321,6 @@
     "version": "EA 23.325",
     "channel": "stable",
     "releaseDate": "2026-07-03",
-    "source": "git",
     "slug": "EA-23.325",
     "tables": [
       "areas",
@@ -4487,7 +4369,6 @@
     "version": "EA 23.325 Patch 1",
     "channel": "stable",
     "releaseDate": "2026-07-04",
-    "source": "git",
     "slug": "EA-23.325-patch-1",
     "tables": [
       "areas",
@@ -4536,7 +4417,6 @@
     "version": "EA 23.325 Patch 2",
     "channel": "stable",
     "releaseDate": "2026-07-06",
-    "source": "git",
     "slug": "EA-23.325-patch-2",
     "tables": [
       "areas",
@@ -4585,7 +4465,6 @@
     "version": "EA 23.326",
     "channel": "nightly",
     "releaseDate": "2026-07-09",
-    "source": "git",
     "slug": "EA-23.326",
     "tables": [
       "areas",
@@ -4634,7 +4513,6 @@
     "version": "EA 23.327",
     "channel": "nightly",
     "releaseDate": "2026-07-13",
-    "source": "git",
     "slug": "EA-23.327",
     "tables": [
       "areas",
@@ -4683,7 +4561,6 @@
     "version": "EA 23.328",
     "channel": "nightly",
     "releaseDate": "2026-07-21",
-    "source": "git",
     "slug": "EA-23.328",
     "tables": [
       "areas",
@@ -4732,7 +4609,6 @@
     "version": "EA 23.329",
     "channel": "nightly",
     "releaseDate": "2026-07-21",
-    "source": "git",
     "slug": "EA-23.329",
     "tables": [
       "areas",
@@ -4781,7 +4657,6 @@
     "version": "EA 23.329 Patch 2",
     "channel": "nightly",
     "releaseDate": "2026-07-22",
-    "source": "git",
     "slug": "EA-23.329-patch-2",
     "tables": [
       "areas",
