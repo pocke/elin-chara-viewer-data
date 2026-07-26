@@ -4,11 +4,6 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-    inputs:
-      full:
-        description: Upload every file instead of the pushed range
-        type: boolean
-        default: true
   schedule:
     # A push whose run is superseded while it waits in the concurrency group
     # never gets its range uploaded, so a full sync runs weekly to catch up.
@@ -48,7 +43,9 @@ jobs:
         id: plan
         env:
           BEFORE: ${{ github.event.before }}
-          FULL: ${{ github.event_name != 'push' || inputs.full }}
+          # Only a push knows a range to upload; a manual run and the weekly
+          # one exist to put the whole archive up.
+          FULL: ${{ github.event_name != 'push' }}
         run: |
           set -euo pipefail
 
@@ -60,8 +57,8 @@ jobs:
           fi
 
           echo 'full=false' >> "$GITHUB_OUTPUT"
-          git diff --diff-filter=d --name-only "$BEFORE" HEAD > changed.txt
-          git diff --diff-filter=D --name-only "$BEFORE" HEAD > deleted.txt
+          git diff --no-renames --diff-filter=d --name-only "$BEFORE" HEAD > changed.txt
+          git diff --no-renames --diff-filter=D --name-only "$BEFORE" HEAD > deleted.txt
 
       # aws s3 sync compares size and mtime, and a checkout gives every file a
       # fresh mtime, so this re-uploads everything. That is what a full sync is
@@ -104,5 +101,7 @@ jobs:
             case "$file" in
               v/*|index.json)
                 aws s3 rm "s3://$BUCKET/$file" --endpoint-url "$ENDPOINT" </dev/null ;;
+              README.md|cors.json|.github/*) ;;
+              *) echo "unexpected path: $file" >&2; exit 1 ;;
             esac
           done < deleted.txt
