@@ -53,12 +53,14 @@ git history, and the ones that will be downloaded from Steam — are added by
 running the scripts from an elin-chara-viewer checkout:
 
 ```console
-$ ruby script/archive_release.rb ../elin-chara-viewer-data 'EA 23.306'
+$ ruby script/archive_release.rb ../elin-chara-viewer-data 'EA 23.306' \
+    --channel stable --release-date 2026-05-10 --db /path/to/exported/csv
 $ ruby script/extract_feat.rb --archive ../elin-chara-viewer-data --version 'EA 23.306'
 ```
 
-`archive_release.rb` regenerates `index.json`, so committing and pushing here is
-all that is left.
+`--db` points at the directory holding `<version>/*.csv`, and `--channel` is
+required for a version that no `versions/` file names. `archive_release.rb`
+regenerates `index.json`, so committing and pushing here is all that is left.
 
 ## Delivery
 

@@ -58,9 +58,10 @@ jobs:
 
           while IFS= read -r file; do
             case "$file" in
-              csv/*|featModifier/*|ids/*|derived/*)
-                # Corrections are published by rewriting the archive, so a day
-                # of caching bounds how long a stale copy can be served.
+              v/*)
+                # A version's files change only when it is re-archived to
+                # correct it, so a day of caching bounds how long a stale copy
+                # can be served.
                 upload "$file" 'public, max-age=86400, stale-while-revalidate=604800' ;;
               index.json)
                 upload "$file" 'public, max-age=300' ;;
@@ -68,6 +69,8 @@ jobs:
           done <<< "$changed"
 
           while IFS= read -r file; do
-            [ -n "$file" ] || continue
-            aws s3 rm "s3://$BUCKET/$file" --endpoint-url "$ENDPOINT" </dev/null
+            case "$file" in
+              v/*|index.json)
+                aws s3 rm "s3://$BUCKET/$file" --endpoint-url "$ENDPOINT" </dev/null ;;
+            esac
           done <<< "$deleted"
