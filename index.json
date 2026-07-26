@@ -1,9 +1,10 @@
 [
   {
     "version": "EA 23.173 Patch 1",
-    "slug": "23.173-patch-1",
     "channel": null,
-    "date": "2025-08-20",
+    "releaseDate": "2025-08-20",
+    "source": "git",
+    "slug": "EA-23.173-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -11,16 +12,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "ea08c7e06af1dabcadd1eb8ce877b6c8f1d8d1540d6380f7b3930a3c4ba3bd4e",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.173 Stable Patch 1"
+    "contentHash": "f092c2508c8ab532c052814224214e0c948e7eb0feddbcfacf01345e638a965b",
+    "featModifier": true
   },
   {
     "version": "EA 23.187",
-    "slug": "23.187",
     "channel": null,
-    "date": "2025-08-24",
+    "releaseDate": "2025-08-24",
+    "source": "git",
+    "slug": "EA-23.187",
     "tables": [
       "charas",
       "elements",
@@ -28,16 +28,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "b61ef018ba0ae29f27786c79ec7495da3f3a81a03ecce176f40a1ea1f70ca313",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.187 Stable"
+    "contentHash": "0767428f1a0ee631f380c5d493ab2c162ddc2f7586b3375c978d4ca6fe1984d9",
+    "featModifier": true
   },
   {
     "version": "EA 23.188",
-    "slug": "23.188",
     "channel": null,
-    "date": "2025-09-08",
+    "releaseDate": "2025-09-08",
+    "source": "git",
+    "slug": "EA-23.188",
     "tables": [
       "charas",
       "elements",
@@ -45,16 +44,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "b61ef018ba0ae29f27786c79ec7495da3f3a81a03ecce176f40a1ea1f70ca313",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.188 Stable"
+    "contentHash": "0767428f1a0ee631f380c5d493ab2c162ddc2f7586b3375c978d4ca6fe1984d9",
+    "featModifier": true
   },
   {
     "version": "EA 23.188 Patch 1",
-    "slug": "23.188-patch-1",
     "channel": null,
-    "date": "2025-09-08",
+    "releaseDate": "2025-09-08",
+    "source": "git",
+    "slug": "EA-23.188-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -62,16 +60,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "bd0797bc763557603aac9e07c6e0cfc4f532792cab85fde0e225c7c670d2d180",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.188 Stable"
+    "contentHash": "7d4f861a1fcd6145108f1ff78c95750bd7fa76f2e3580003ada8a954720d6fc6",
+    "featModifier": true
   },
   {
     "version": "EA 23.188 Patch 2",
-    "slug": "23.188-patch-2",
     "channel": null,
-    "date": "2025-09-08",
+    "releaseDate": "2025-09-08",
+    "source": "git",
+    "slug": "EA-23.188-patch-2",
     "tables": [
       "charas",
       "elements",
@@ -79,16 +76,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "bd0797bc763557603aac9e07c6e0cfc4f532792cab85fde0e225c7c670d2d180",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.188 Stable Patch 2 - Plugin.BaseCore"
+    "contentHash": "7d4f861a1fcd6145108f1ff78c95750bd7fa76f2e3580003ada8a954720d6fc6",
+    "featModifier": true
   },
   {
     "version": "EA 23.200 Patch 2",
-    "slug": "23.200-patch-2",
     "channel": null,
-    "date": "2025-09-19",
+    "releaseDate": "2025-09-19",
+    "source": "git",
+    "slug": "EA-23.200-patch-2",
     "tables": [
       "charas",
       "elements",
@@ -96,16 +92,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "5a68991b9a23da02bdedf2bd5215e758b03b592bfa555b55f98ee2e9ca8881b7",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.200 Stable"
+    "contentHash": "5f547b91f6091e1785b2282ad3e4d63a0d607cedbef11a05efb33d458afdad42",
+    "featModifier": true
   },
   {
     "version": "EA 23.209 Patch 1",
-    "slug": "23.209-patch-1",
     "channel": null,
-    "date": "2025-10-01",
+    "releaseDate": "2025-10-01",
+    "source": "git",
+    "slug": "EA-23.209-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -113,16 +108,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "7edfe25056b6f6465d8ba09db36bbade0b025a1371b1b13d436bd9237433dca6",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.209 Stable"
+    "contentHash": "c1a57b2907340091fc9860f0cda53be51fa0f032d1bc834bf22a561cdd875185",
+    "featModifier": true
   },
   {
     "version": "EA 23.212",
-    "slug": "23.212",
     "channel": null,
-    "date": "2025-10-05",
+    "releaseDate": "2025-10-05",
+    "source": "git",
+    "slug": "EA-23.212",
     "tables": [
       "charas",
       "elements",
@@ -130,16 +124,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "97907d8b1c11c5eef77e2a684ef5a04112e42e26e2a72c45e4c2432a1339f135",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.211 Nightly Patch 1"
+    "contentHash": "388dd42f07c4d665c46be22f45f3e74e3e05a36cf78060addbfa7ba3796d9037",
+    "featModifier": true
   },
   {
     "version": "EA 23.213",
-    "slug": "23.213",
     "channel": null,
-    "date": "2025-10-06",
+    "releaseDate": "2025-10-06",
+    "source": "git",
+    "slug": "EA-23.213",
     "tables": [
       "charas",
       "elements",
@@ -147,16 +140,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "97907d8b1c11c5eef77e2a684ef5a04112e42e26e2a72c45e4c2432a1339f135",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.211 Nightly Patch 1"
+    "contentHash": "388dd42f07c4d665c46be22f45f3e74e3e05a36cf78060addbfa7ba3796d9037",
+    "featModifier": true
   },
   {
     "version": "EA 23.222",
-    "slug": "23.222",
     "channel": null,
-    "date": "2025-10-19",
+    "releaseDate": "2025-10-19",
+    "source": "git",
+    "slug": "EA-23.222",
     "tables": [
       "charas",
       "elements",
@@ -164,16 +156,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "9c65c3d672595a3d4b901e2864735fadd0de5db1342e2c9fcdaa077f7ea214d2",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.222 Stable nyan"
+    "contentHash": "a2f2a05cb83bddf197d8883adef244178cad107be2c3fa04e4df99c03598e311",
+    "featModifier": true
   },
   {
     "version": "EA 23.222 Patch 1",
-    "slug": "23.222-patch-1",
     "channel": null,
-    "date": "2025-10-20",
+    "releaseDate": "2025-10-20",
+    "source": "git",
+    "slug": "EA-23.222-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -181,16 +172,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "9c65c3d672595a3d4b901e2864735fadd0de5db1342e2c9fcdaa077f7ea214d2",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.222 Stable nyan"
+    "contentHash": "a2f2a05cb83bddf197d8883adef244178cad107be2c3fa04e4df99c03598e311",
+    "featModifier": true
   },
   {
     "version": "EA 23.229 Patch 3",
-    "slug": "23.229-patch-3",
     "channel": null,
-    "date": "2025-11-01",
+    "releaseDate": "2025-11-01",
+    "source": "git",
+    "slug": "EA-23.229-patch-3",
     "tables": [
       "charas",
       "elements",
@@ -198,16 +188,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "a025d6dff69e98a8c8a7387050a81afbf903444b929a36ab353fafb2b8ee1d89",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.229 Stable 1st Anniversary Patch 2"
+    "contentHash": "cacdf19e9dd75b37356a26ecff703c1c098ffd56728e5094f3de727453b5541e",
+    "featModifier": true
   },
   {
     "version": "EA 23.229 Patch 4",
-    "slug": "23.229-patch-4",
     "channel": null,
-    "date": "2025-11-04",
+    "releaseDate": "2025-11-04",
+    "source": "git",
+    "slug": "EA-23.229-patch-4",
     "tables": [
       "charas",
       "elements",
@@ -215,16 +204,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "a025d6dff69e98a8c8a7387050a81afbf903444b929a36ab353fafb2b8ee1d89",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.229 Stable 1st Anniversary Patch 2"
+    "contentHash": "cacdf19e9dd75b37356a26ecff703c1c098ffd56728e5094f3de727453b5541e",
+    "featModifier": true
   },
   {
     "version": "EA 23.237",
-    "slug": "23.237",
     "channel": null,
-    "date": "2025-11-19",
+    "releaseDate": "2025-11-19",
+    "source": "git",
+    "slug": "EA-23.237",
     "tables": [
       "charas",
       "elements",
@@ -232,16 +220,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "178c923e0bfbdd4f05e476fdf63a488103cd79c0fdc5c8d319009427621b9d07",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.237 Stable"
+    "contentHash": "df6122488e775ffadefce52faf737a3bb431967d236463923e985305764e559d",
+    "featModifier": true
   },
   {
     "version": "EA 23.237 Patch 1",
-    "slug": "23.237-patch-1",
     "channel": "stable",
-    "date": "2025-11-25",
+    "releaseDate": "2025-11-25",
+    "source": "git",
+    "slug": "EA-23.237-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -249,16 +236,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "add1c5b5741d0d03fcd63ce777b8d9013e94899977e3e90f1e3c122a28ab6c3b",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.237 Stable"
+    "contentHash": "54a71db9aba19462372a17fa3e91b07f62d2035e1fad77cebf581ad1ecb64339",
+    "featModifier": true
   },
   {
     "version": "EA 23.242",
-    "slug": "23.242",
     "channel": "nightly",
-    "date": "2025-12-04",
+    "releaseDate": "2025-12-04",
+    "source": "git",
+    "slug": "EA-23.242",
     "tables": [
       "charas",
       "elements",
@@ -266,16 +252,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "33234b11573937df1ddb68b1290cccff989281ae4433f56444265ef14a98f744",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.242 Nightly"
+    "contentHash": "11a96391bf3150fb79f5c327ecdba6c8b94a6c3b7fe44bee84d0cbb2cb9c11e3",
+    "featModifier": true
   },
   {
     "version": "EA 23.243",
-    "slug": "23.243",
     "channel": "nightly",
-    "date": "2025-12-04",
+    "releaseDate": "2025-12-04",
+    "source": "git",
+    "slug": "EA-23.243",
     "tables": [
       "charas",
       "elements",
@@ -283,16 +268,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "4597b1bf599aeab7958e14d6f6aec021edf7a2cadeacb58803af8e62f72d302d",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.242 Nightly"
+    "contentHash": "e9bfda8ead77722a61b8816e03ca8d222b2cd1177d02c6f52b9d5fca3c137859",
+    "featModifier": true
   },
   {
     "version": "EA 23.243 Patch 4",
-    "slug": "23.243-patch-4",
     "channel": "nightly",
-    "date": "2025-12-07",
+    "releaseDate": "2025-12-07",
+    "source": "git",
+    "slug": "EA-23.243-patch-4",
     "tables": [
       "charas",
       "elements",
@@ -300,16 +284,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "dbde00fc3a6073a49bb68c95133db27545187f47e882963b182d0d8b7a4db43e",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.243 Nightly Patch 3"
+    "contentHash": "ca93c804110a06a9d63d5df6cdd4f94f0f3d7e41218b6ebd3adbf8e0e483e886",
+    "featModifier": true
   },
   {
     "version": "EA 23.244",
-    "slug": "23.244",
     "channel": "nightly",
-    "date": "2025-12-07",
+    "releaseDate": "2025-12-07",
+    "source": "git",
+    "slug": "EA-23.244",
     "tables": [
       "charas",
       "elements",
@@ -317,16 +300,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "3eb798ed33800e2f0d6f1bec25d518c1eb9edb7ce45c4ad693063b61db4e8967",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.244 Nightly"
+    "contentHash": "97c9d6ea8cec8209b9b023af8daf85ad5306a6844f4f83fb7f57738114d53a65",
+    "featModifier": true
   },
   {
     "version": "EA 23.244 Patch 2",
-    "slug": "23.244-patch-2",
     "channel": "nightly",
-    "date": "2025-12-08",
+    "releaseDate": "2025-12-08",
+    "source": "git",
+    "slug": "EA-23.244-patch-2",
     "tables": [
       "charas",
       "elements",
@@ -334,16 +316,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "3eb798ed33800e2f0d6f1bec25d518c1eb9edb7ce45c4ad693063b61db4e8967",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.244 Nightly"
+    "contentHash": "97c9d6ea8cec8209b9b023af8daf85ad5306a6844f4f83fb7f57738114d53a65",
+    "featModifier": true
   },
   {
     "version": "EA 23.245",
-    "slug": "23.245",
     "channel": "nightly",
-    "date": "2025-12-08",
+    "releaseDate": "2025-12-08",
+    "source": "git",
+    "slug": "EA-23.245",
     "tables": [
       "charas",
       "elements",
@@ -351,16 +332,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "46d0d8230c9d5824e8c48c2891e892fd168a0bc8f37ca2e4cf3910b92a102b12",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.245 Nightly"
+    "contentHash": "4e69dd4162ffab89568516f831857cc206cb83686b2760b1992e0425460d8ae5",
+    "featModifier": true
   },
   {
     "version": "EA 23.246",
-    "slug": "23.246",
     "channel": "nightly",
-    "date": "2025-12-11",
+    "releaseDate": "2025-12-11",
+    "source": "git",
+    "slug": "EA-23.246",
     "tables": [
       "charas",
       "elements",
@@ -368,16 +348,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "89c2a68e896f04eff00e67f654c555c81c09f461fc8deb1ad6a9572bcb05c9a3",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.246 Nightly"
+    "contentHash": "f41b1021d80215f42d3291e63d32380f520dfdc32662c424925065ace8ced3f0",
+    "featModifier": true
   },
   {
     "version": "EA 23.246 Patch 1",
-    "slug": "23.246-patch-1",
     "channel": "nightly",
-    "date": "2025-12-13",
+    "releaseDate": "2025-12-13",
+    "source": "git",
+    "slug": "EA-23.246-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -385,16 +364,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "c732961b6eb9b5810962aaf3f7925a039b8b465d639d00d5b996932c4fc57876",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.246 Nightly"
+    "contentHash": "459f4ca0bc12c5efa758f915c27590d3c937f19745f179c50215f4bcb9f10929",
+    "featModifier": true
   },
   {
     "version": "EA 23.247",
-    "slug": "23.247",
     "channel": "stable",
-    "date": "2025-12-14",
+    "releaseDate": "2025-12-14",
+    "source": "git",
+    "slug": "EA-23.247",
     "tables": [
       "charas",
       "elements",
@@ -402,16 +380,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "973b9fad71fcc9f581737e98f787b21255580b888ae9fab14dbe6306dfa4680c",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.247 Stable"
+    "contentHash": "8bcee42b575e3531f8cc1e0b3091a7c845f4909df1b41da8cc394614ec0cf78b",
+    "featModifier": true
   },
   {
     "version": "EA 23.247 Patch 1",
-    "slug": "23.247-patch-1",
     "channel": "stable",
-    "date": "2025-12-15",
+    "releaseDate": "2025-12-15",
+    "source": "git",
+    "slug": "EA-23.247-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -419,16 +396,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "b386a99407f7981d909889e626fa5302516d72c9eba8442ddb9437891808f851",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.247 Stable Patch 1"
+    "contentHash": "ee2cb4b320e4bed32feffce8580bedb7aa2362cdedc14a69e6f80bafb6189c25",
+    "featModifier": true
   },
   {
     "version": "EA 23.248",
-    "slug": "23.248",
     "channel": "nightly",
-    "date": "2025-12-17",
+    "releaseDate": "2025-12-17",
+    "source": "git",
+    "slug": "EA-23.248",
     "tables": [
       "charas",
       "elements",
@@ -436,16 +412,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "1bdbe3c34aed9a09bf5791d26d3790484a8e85761021ac30cf1f091157ecfa37",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.248 Nightly"
+    "contentHash": "5b23e1c08d356be4e077b8ff306406df0f443f0d9c0ea246ecef47ff63ef1b44",
+    "featModifier": true
   },
   {
     "version": "EA 23.249",
-    "slug": "23.249",
     "channel": "nightly",
-    "date": "2025-12-19",
+    "releaseDate": "2025-12-19",
+    "source": "git",
+    "slug": "EA-23.249",
     "tables": [
       "charas",
       "elements",
@@ -453,16 +428,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "65d7493580668fafd90c83633686bc93014b6cfafe2b54254053d038ad98dc6c",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.249 Nightly"
+    "contentHash": "3e2c8b01cd96268c193d63e3cea25e15ebb9103af50008e06e053af55326baff",
+    "featModifier": true
   },
   {
     "version": "EA 23.250 Patch 1",
-    "slug": "23.250-patch-1",
     "channel": "nightly",
-    "date": "2025-12-20",
+    "releaseDate": "2025-12-20",
+    "source": "git",
+    "slug": "EA-23.250-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -470,16 +444,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.250 Nightly Patch 1 - Plugin.UI"
+    "contentHash": "9597e6c80fb3c38dfb18356d02d92cac1d72407524568ea384a01f8c4f593699",
+    "featModifier": true
   },
   {
     "version": "EA 23.250 Patch 2",
-    "slug": "23.250-patch-2",
     "channel": "nightly",
-    "date": "2025-12-21",
+    "releaseDate": "2025-12-21",
+    "source": "git",
+    "slug": "EA-23.250-patch-2",
     "tables": [
       "charas",
       "elements",
@@ -487,16 +460,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.250 Nightly Patch 1 - Plugin.UI"
+    "contentHash": "9597e6c80fb3c38dfb18356d02d92cac1d72407524568ea384a01f8c4f593699",
+    "featModifier": true
   },
   {
     "version": "EA 23.252",
-    "slug": "23.252",
     "channel": "stable",
-    "date": "2025-12-22",
+    "releaseDate": "2025-12-22",
+    "source": "git",
+    "slug": "EA-23.252",
     "tables": [
       "charas",
       "elements",
@@ -504,16 +476,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.251 Nightly"
+    "contentHash": "9597e6c80fb3c38dfb18356d02d92cac1d72407524568ea384a01f8c4f593699",
+    "featModifier": true
   },
   {
     "version": "EA 23.252 Patch 1",
-    "slug": "23.252-patch-1",
     "channel": "stable",
-    "date": "2025-12-23",
+    "releaseDate": "2025-12-23",
+    "source": "git",
+    "slug": "EA-23.252-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -521,16 +492,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.251 Nightly"
+    "contentHash": "9597e6c80fb3c38dfb18356d02d92cac1d72407524568ea384a01f8c4f593699",
+    "featModifier": true
   },
   {
     "version": "EA 23.252 Patch 2",
-    "slug": "23.252-patch-2",
     "channel": "stable",
-    "date": "2025-12-24",
+    "releaseDate": "2025-12-24",
+    "source": "git",
+    "slug": "EA-23.252-patch-2",
     "tables": [
       "charas",
       "elements",
@@ -538,16 +508,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.252 Stable Patch 2"
+    "contentHash": "9597e6c80fb3c38dfb18356d02d92cac1d72407524568ea384a01f8c4f593699",
+    "featModifier": true
   },
   {
     "version": "EA 23.253",
-    "slug": "23.253",
     "channel": "nightly",
-    "date": "2025-12-27",
+    "releaseDate": "2025-12-27",
+    "source": "git",
+    "slug": "EA-23.253",
     "tables": [
       "charas",
       "elements",
@@ -555,16 +524,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "fc7f6e6661fff6a18b03ca10fbed7fe2b4e327c8c261e04ac1702454c1722de3",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.253 Nightly - Plugin.UI"
+    "contentHash": "9597e6c80fb3c38dfb18356d02d92cac1d72407524568ea384a01f8c4f593699",
+    "featModifier": true
   },
   {
     "version": "EA 23.254",
-    "slug": "23.254",
     "channel": "nightly",
-    "date": "2026-01-02",
+    "releaseDate": "2026-01-02",
+    "source": "git",
+    "slug": "EA-23.254",
     "tables": [
       "charas",
       "elements",
@@ -572,16 +540,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "50394ea67281cf1c54a4c3d2d65b3c9552cb0150c7ef4ab7fc9bf966742530a3",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.253 Nightly - Plugin.UI"
+    "contentHash": "b65e6c2e258d5e36098242682ca2230af16ccae8c1567f91600fff4adc88fc31",
+    "featModifier": true
   },
   {
     "version": "EA 23.254 Patch 1",
-    "slug": "23.254-patch-1",
     "channel": "nightly",
-    "date": "2026-01-02",
+    "releaseDate": "2026-01-02",
+    "source": "git",
+    "slug": "EA-23.254-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -589,16 +556,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "01b38604106a00337d3a8fcf60f2100d359318bd1df4811fa3ed3eb410af6935",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.254 Nightly Patch 1"
+    "contentHash": "44097ccdef1d4778b0299fad78dc46a085b612d8b9993596ef3d548b3de7c59b",
+    "featModifier": true
   },
   {
     "version": "EA 23.255 Patch 2",
-    "slug": "23.255-patch-2",
     "channel": "nightly",
-    "date": "2026-01-05",
+    "releaseDate": "2026-01-05",
+    "source": "git",
+    "slug": "EA-23.255-patch-2",
     "tables": [
       "charas",
       "elements",
@@ -606,16 +572,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "ae2653a69bbe8b5bd6b38dc2739c3bd7c00ebc35dc946db01c3d0cbad1ee27f2",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.254 Nightly Patch 1"
+    "contentHash": "00638589c27357ae5b18f4cb27e902b912e197066719cb814b757a68739dc0e2",
+    "featModifier": true
   },
   {
     "version": "EA 23.255 Patch 3",
-    "slug": "23.255-patch-3",
     "channel": "nightly",
-    "date": "2026-01-05",
+    "releaseDate": "2026-01-05",
+    "source": "git",
+    "slug": "EA-23.255-patch-3",
     "tables": [
       "charas",
       "elements",
@@ -623,16 +588,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "ae2653a69bbe8b5bd6b38dc2739c3bd7c00ebc35dc946db01c3d0cbad1ee27f2",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.255 Nightly Patch 3"
+    "contentHash": "00638589c27357ae5b18f4cb27e902b912e197066719cb814b757a68739dc0e2",
+    "featModifier": true
   },
   {
     "version": "EA 23.256",
-    "slug": "23.256",
     "channel": "nightly",
-    "date": "2026-01-07",
+    "releaseDate": "2026-01-07",
+    "source": "git",
+    "slug": "EA-23.256",
     "tables": [
       "charas",
       "elements",
@@ -640,16 +604,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "ede2a861bdf2971765a9841e4ebae22bb8cb3ecd1c53c68a99f82b42622b9cda",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.255 Nightly Patch 3"
+    "contentHash": "2d6c7b8c7281b0ca86aa01af2980dae4090296102daa1c8f72b0758142b61563",
+    "featModifier": true
   },
   {
     "version": "EA 23.256 Patch 1",
-    "slug": "23.256-patch-1",
     "channel": "nightly",
-    "date": "2026-01-08",
+    "releaseDate": "2026-01-08",
+    "source": "git",
+    "slug": "EA-23.256-patch-1",
     "tables": [
       "charas",
       "elements",
@@ -657,16 +620,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "84819f8bae1764793aeabddfb7e790eb4c9612869c6515b5eac0a651610c2fdb",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.256 Nightly Patch 1"
+    "contentHash": "f098f2a9aca1977005fbefb01f82dcb17d4e518fe001d5cf6fb30612c3f79d4e",
+    "featModifier": true
   },
   {
     "version": "EA 23.258",
-    "slug": "23.258",
     "channel": "nightly",
-    "date": "2026-01-11",
+    "releaseDate": "2026-01-11",
+    "source": "git",
+    "slug": "EA-23.258",
     "tables": [
       "charas",
       "elements",
@@ -674,16 +636,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "b554c24dd9036c5d73e5fc4216239b80a82b96451fac4c4c41fe0f16bcb98941",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.258 Nightly"
+    "contentHash": "fd65b601bb0ff2de59aa1ddc902e92e1cfb7e9df850f09a0f176411c80027366",
+    "featModifier": true
   },
   {
     "version": "EA 23.259",
-    "slug": "23.259",
     "channel": "nightly",
-    "date": "2026-01-12",
+    "releaseDate": "2026-01-12",
+    "source": "git",
+    "slug": "EA-23.259",
     "tables": [
       "charas",
       "elements",
@@ -691,16 +652,15 @@
       "races",
       "tactics"
     ],
-    "contentHash": "b2162b3097ee359896d70802128b4eb89fa465f824df3df919d4bb151a13ecbe",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.259 Nightly"
+    "contentHash": "f95063bf031eade6acaf0644533e04b90878cd992e072e57525e5946c32b5832",
+    "featModifier": true
   },
   {
     "version": "EA 23.260",
-    "slug": "23.260",
     "channel": "stable",
-    "date": "2026-01-13",
+    "releaseDate": "2026-01-13",
+    "source": "git",
+    "slug": "EA-23.260",
     "tables": [
       "areas",
       "backers",
@@ -742,16 +702,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "b927bc6d98033428cd945deae3f190f587ec66d792b353d896ddc1012efac94e",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.259 Nightly"
+    "contentHash": "3a17795c96b82702424282ab1e5d7f796ea5a1733bf9cb3578f01db00da0b1fc",
+    "featModifier": true
   },
   {
     "version": "EA 23.260 Patch 1",
-    "slug": "23.260-patch-1",
     "channel": "stable",
-    "date": "2026-01-15",
+    "releaseDate": "2026-01-15",
+    "source": "git",
+    "slug": "EA-23.260-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -793,16 +752,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "edff901f96982994d536972408cf8938b4f27b761059c9e0a5c389a26beed846",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.260 Stable Patch 1"
+    "contentHash": "7ec8ca6c32e28ddaf60aabc7605bdf53a8fead8184b4602433e4407c28ac13e7",
+    "featModifier": true
   },
   {
     "version": "EA 23.261 Patch 2",
-    "slug": "23.261-patch-2",
     "channel": "nightly",
-    "date": "2026-01-17",
+    "releaseDate": "2026-01-17",
+    "source": "git",
+    "slug": "EA-23.261-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -844,16 +802,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "f46e55dfc8e5d31f0ce966cf5e6b8fa7e9b3098edf7ed7e23d059e8838255f1e",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.260 Stable Patch 1"
+    "contentHash": "aaf2e45a7b6415d4e5ada6ac5cf2f1c3e3ccd29656b4c70891c81a11ece2e15f",
+    "featModifier": true
   },
   {
     "version": "EA 23.261 Patch 3",
-    "slug": "23.261-patch-3",
     "channel": "nightly",
-    "date": "2026-01-17",
+    "releaseDate": "2026-01-17",
+    "source": "git",
+    "slug": "EA-23.261-patch-3",
     "tables": [
       "areas",
       "backers",
@@ -895,16 +852,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "80a4037d2930ef421bc30c82c924c44808a82faf1207c51f1ec23a22b4bdbddd",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.261 Nightly Patch 3"
+    "contentHash": "272abb2f5ddd2db92364197d8d82525bb15bb15470e209ce1d7e555aec13edb6",
+    "featModifier": true
   },
   {
     "version": "EA 23.262",
-    "slug": "23.262",
     "channel": "nightly",
-    "date": "2026-01-19",
+    "releaseDate": "2026-01-19",
+    "source": "git",
+    "slug": "EA-23.262",
     "tables": [
       "areas",
       "backers",
@@ -946,16 +902,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "90d911c45c067639bc2a5309519c1709cf3320d26c7ea90dcfbfd18fc6724f70",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.261 Nightly Patch 3"
+    "contentHash": "30914125ddf4adf66762e654570839e6e2edb5ebf02a96a749288ff99401dfec",
+    "featModifier": true
   },
   {
     "version": "EA 23.262 Patch 3",
-    "slug": "23.262-patch-3",
     "channel": "nightly",
-    "date": "2026-01-20",
+    "releaseDate": "2026-01-20",
+    "source": "git",
+    "slug": "EA-23.262-patch-3",
     "tables": [
       "areas",
       "backers",
@@ -997,16 +952,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "a7f64dd274a3606a809c21fb2b54184f37796003eb0fa64b603b31692a0452e0",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.262 Nightly Patch 1 - Plugin.BaseCore"
+    "contentHash": "3dc69ba5f5650299c9ac06a178be9326210ae60401dde6b1c49cade542f8ce37",
+    "featModifier": true
   },
   {
     "version": "EA 23.263",
-    "slug": "23.263",
     "channel": "nightly",
-    "date": "2026-01-23",
+    "releaseDate": "2026-01-23",
+    "source": "git",
+    "slug": "EA-23.263",
     "tables": [
       "areas",
       "backers",
@@ -1048,16 +1002,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "35ba6b7ffd27d24648fe94c4e02f3ee3e8885b13c2675f42062ddebb1ebbbc21",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.262 Nightly Patch 1 - Plugin.BaseCore"
+    "contentHash": "f1b09e41eec300be83a3adf43785465ac04ab22486480f10d4fb59af85fedb65",
+    "featModifier": true
   },
   {
     "version": "EA 23.263 Patch 2",
-    "slug": "23.263-patch-2",
     "channel": "nightly",
-    "date": "2026-01-23",
+    "releaseDate": "2026-01-23",
+    "source": "git",
+    "slug": "EA-23.263-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -1099,16 +1052,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "543346fb6fab317c53fc8e799029e029365e278d80638b7af644ec01e84d39cc",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.262 Nightly Patch 1 - Plugin.BaseCore"
+    "contentHash": "4a80e9d3865bd19a92bf6f832c7d392b6d94206b8db087aa2c04e7bb5e0b1ab1",
+    "featModifier": true
   },
   {
     "version": "EA 23.263 Patch 3",
-    "slug": "23.263-patch-3",
     "channel": "nightly",
-    "date": "2026-01-25",
+    "releaseDate": "2026-01-25",
+    "source": "git",
+    "slug": "EA-23.263-patch-3",
     "tables": [
       "areas",
       "backers",
@@ -1150,16 +1102,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "dde579b0326baffe6679265497126d6485e2723c7d9fccf90e684cfb8dd90c1d",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.262 Nightly Patch 1 - Plugin.BaseCore"
+    "contentHash": "bb47ccd86808308880045642ff4765020ae41df944fc81afc550d960fdc842a8",
+    "featModifier": true
   },
   {
     "version": "EA 23.264",
-    "slug": "23.264",
     "channel": "nightly",
-    "date": "2026-01-30",
+    "releaseDate": "2026-01-30",
+    "source": "git",
+    "slug": "EA-23.264",
     "tables": [
       "areas",
       "backers",
@@ -1201,16 +1152,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "3f72dbc2c176a23550b2c85f55b187e735c675dcfe0696512de45aa038d28be5",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.264 Nightly - Plugin.BaseCore"
+    "contentHash": "8b7a5b887b0a3ca1d8c0f4b18cb9ac3c908c96ed69ea538ed5c0224a7c711707",
+    "featModifier": true
   },
   {
     "version": "EA 23.264 Patch 1",
-    "slug": "23.264-patch-1",
     "channel": "nightly",
-    "date": "2026-01-31",
+    "releaseDate": "2026-01-31",
+    "source": "git",
+    "slug": "EA-23.264-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -1252,16 +1202,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "f6a9cf2c0ef2c0dbfbb0001ab6be187f7f14e4cf4787400953dbe5677bef6185",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.264 Nightly - Plugin.BaseCore"
+    "contentHash": "83cb2be75e70a3ea0a27ad9c88e0509ea8f4c0b3396ce482327d1126082a60a2",
+    "featModifier": true
   },
   {
     "version": "EA 23.265 Patch 1",
-    "slug": "23.265-patch-1",
     "channel": "nightly",
-    "date": "2026-02-03",
+    "releaseDate": "2026-02-03",
+    "source": "git",
+    "slug": "EA-23.265-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -1303,16 +1252,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "34d0aff46ddf1133acce1ebce46e98baa30a2192d38d1408951f91bf6395cd15",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.264 Nightly - Plugin.BaseCore"
+    "contentHash": "94cadd9218cb89eda63e725d9f94b2b59e4bd3fca275e84ae89ede2089b3b5c0",
+    "featModifier": true
   },
   {
     "version": "EA 23.265 Patch 2",
-    "slug": "23.265-patch-2",
     "channel": "nightly",
-    "date": "2026-02-06",
+    "releaseDate": "2026-02-06",
+    "source": "git",
+    "slug": "EA-23.265-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -1354,16 +1302,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "6231c0db922a8e7d48f5785b0f69368449f90cc24e03422bf19259b64cfaf057",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.265 Nightly Patch 2"
+    "contentHash": "1235985ceee8d0e671d10bc9ae83fd8b4cf889743856530fe2b88c5c46842dcf",
+    "featModifier": true
   },
   {
     "version": "EA 23.267",
-    "slug": "23.267",
     "channel": "stable",
-    "date": "2026-02-06",
+    "releaseDate": "2026-02-06",
+    "source": "git",
+    "slug": "EA-23.267",
     "tables": [
       "areas",
       "backers",
@@ -1405,16 +1352,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "d5045ba7640ae08b6a48a2615bfa34cab49a8ab8857adacdbc08c8ea1ef4b034",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.265 Nightly Patch 2"
+    "contentHash": "4eed00eb5f9135c1883fa5f434dd15c1473a5798299e56092f508d4d36541687",
+    "featModifier": true
   },
   {
     "version": "EA 23.267 Patch 1",
-    "slug": "23.267-patch-1",
     "channel": "stable",
-    "date": "2026-02-13",
+    "releaseDate": "2026-02-13",
+    "source": "git",
+    "slug": "EA-23.267-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -1456,16 +1402,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "d5045ba7640ae08b6a48a2615bfa34cab49a8ab8857adacdbc08c8ea1ef4b034",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.267 Stable Patch 1"
+    "contentHash": "4eed00eb5f9135c1883fa5f434dd15c1473a5798299e56092f508d4d36541687",
+    "featModifier": true
   },
   {
     "version": "EA 23.268",
-    "slug": "23.268",
     "channel": "nightly",
-    "date": "2026-02-09",
+    "releaseDate": "2026-02-09",
+    "source": "git",
+    "slug": "EA-23.268",
     "tables": [
       "areas",
       "backers",
@@ -1507,16 +1452,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "10d20736e7b3a2d64c15b91233a32e6233915194be983b06bc53bf34811a7592",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.268 Nightly - Plugin.UI"
+    "contentHash": "94294956a1f62498f6468592843c7fa4b288d13ea88784f3d318be1e22aadc8b",
+    "featModifier": true
   },
   {
     "version": "EA 23.269",
-    "slug": "23.269",
     "channel": "nightly",
-    "date": "2026-02-11",
+    "releaseDate": "2026-02-11",
+    "source": "git",
+    "slug": "EA-23.269",
     "tables": [
       "areas",
       "backers",
@@ -1558,16 +1502,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "4d51311923c2c0ecdc7d9c42374af5bab1519264e908e8c577421e65f297e867",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.268 Nightly - Plugin.UI"
+    "contentHash": "87bd2ded96793f0e4a90252adf2db8168da272d82b88c207c6a5eb08a17ba10a",
+    "featModifier": true
   },
   {
     "version": "EA 23.269 Patch 3",
-    "slug": "23.269-patch-3",
     "channel": "nightly",
-    "date": "2026-02-13",
+    "releaseDate": "2026-02-13",
+    "source": "git",
+    "slug": "EA-23.269-patch-3",
     "tables": [
       "areas",
       "backers",
@@ -1609,16 +1552,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "5fd73612366a384c438f8cc81b24458fced932260e2b5e3bb70db88195a71a1f",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.269 Nightly Patch 3"
+    "contentHash": "d0540d78fae0e853566a68b43e81af619d93fab6f74efe6c1391ffd3d4a6e277",
+    "featModifier": true
   },
   {
     "version": "EA 23.271 Patch 2",
-    "slug": "23.271-patch-2",
     "channel": "nightly",
-    "date": "2026-02-19",
+    "releaseDate": "2026-02-19",
+    "source": "git",
+    "slug": "EA-23.271-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -1660,16 +1602,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "eb4eb102618234ed44e67844e0a53665970fe35444f690702d838da0c671bc70",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.271 Nightly Patch 1"
+    "contentHash": "5a74453c40e17b137cc80d2121d58a4546049e20261502414ff61b221d5bd090",
+    "featModifier": true
   },
   {
     "version": "EA 23.272",
-    "slug": "23.272",
     "channel": "nightly",
-    "date": "2026-02-20",
+    "releaseDate": "2026-02-20",
+    "source": "git",
+    "slug": "EA-23.272",
     "tables": [
       "areas",
       "backers",
@@ -1711,16 +1652,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "46f696ebf788baaaf83b3361757c5c4de9f4d4e2f8fd92c431c8e19897966028",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.272 Nightly"
+    "contentHash": "a79b1601ba7abb21df8fc86c4f3d1dc42ac5318a341c19dc1ab8791016cd6ebd",
+    "featModifier": true
   },
   {
     "version": "EA 23.273 Patch 2",
-    "slug": "23.273-patch-2",
     "channel": "nightly",
-    "date": "2026-02-21",
+    "releaseDate": "2026-02-21",
+    "source": "git",
+    "slug": "EA-23.273-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -1762,16 +1702,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "ae841aca6294220cb413e599a4d47e6f8891c2887c31bcc29c8c612965bd8537",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.273 Nyaightly Patch 1"
+    "contentHash": "7288d2c120cba5c27e433b6bcdacd15e2139107caaac75aec62c6b5d1534b5ce",
+    "featModifier": true
   },
   {
     "version": "EA 23.275",
-    "slug": "23.275",
     "channel": "nightly",
-    "date": "2026-02-23",
+    "releaseDate": "2026-02-23",
+    "source": "git",
+    "slug": "EA-23.275",
     "tables": [
       "areas",
       "backers",
@@ -1813,16 +1752,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "32a0969e4a3370521aa82c3aa1e0011e8ca91085cc0d604475f346806cbf3504",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.275 Nightly"
+    "contentHash": "4aec6cc0ec9e25da2bf61e03ea80c5627de327b1ead1311862d1dcf0236aa740",
+    "featModifier": true
   },
   {
     "version": "EA 23.276 Patch 2",
-    "slug": "23.276-patch-2",
     "channel": "nightly",
-    "date": "2026-02-24",
+    "releaseDate": "2026-02-24",
+    "source": "git",
+    "slug": "EA-23.276-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -1864,16 +1802,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "11ee1edc70e8c384539f3f773d4c559305ea350156e08c3f62d1f505391f4dec",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.276 Nightly Patch 2"
+    "contentHash": "78dbeb06f52e6630dae375ad6e821c4fe79ae0e2789f439944e68ce4c2032acc",
+    "featModifier": true
   },
   {
     "version": "EA 23.277",
-    "slug": "23.277",
     "channel": "nightly",
-    "date": "2026-02-25",
+    "releaseDate": "2026-02-25",
+    "source": "git",
+    "slug": "EA-23.277",
     "tables": [
       "areas",
       "backers",
@@ -1915,16 +1852,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "f8db79629605143ab09e06d9116cc6e05e34c579c1ddce2cd8496f705348dd85",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.276 Nightly Patch 2"
+    "contentHash": "7c7e7331b504e8c5026fc5708c3e753b796c832a9247dd409cf1f0f623e52f94",
+    "featModifier": true
   },
   {
     "version": "EA 23.277 Patch 1",
-    "slug": "23.277-patch-1",
     "channel": "nightly",
-    "date": "2026-02-25",
+    "releaseDate": "2026-02-25",
+    "source": "git",
+    "slug": "EA-23.277-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -1966,16 +1902,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "f8db79629605143ab09e06d9116cc6e05e34c579c1ddce2cd8496f705348dd85",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.277 Nightly Patch 1 - Plugin.UI"
+    "contentHash": "7c7e7331b504e8c5026fc5708c3e753b796c832a9247dd409cf1f0f623e52f94",
+    "featModifier": true
   },
   {
     "version": "EA 23.277 Patch 2",
-    "slug": "23.277-patch-2",
     "channel": "nightly",
-    "date": "2026-02-26",
+    "releaseDate": "2026-02-26",
+    "source": "git",
+    "slug": "EA-23.277-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -2017,16 +1952,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "46c7e02554cdf8255a0d7428972477a0b05210ad3e8f344a98de51e2baf9038f",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.277 Nightly Patch 1 - Plugin.UI"
+    "contentHash": "5a706b1380a4ced7bdd1eb2775c027ef1a73744c7156bdcd33cb50d63e39d311",
+    "featModifier": true
   },
   {
     "version": "EA 23.278",
-    "slug": "23.278",
     "channel": "nightly",
-    "date": "2026-02-27",
+    "releaseDate": "2026-02-27",
+    "source": "git",
+    "slug": "EA-23.278",
     "tables": [
       "areas",
       "backers",
@@ -2068,16 +2002,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "5576635daac67b0b55b2b475d1d54e5d99e84f4f3c1e22d6f92cdeb97c7ec350",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.278 Nightly - Plugin.BaseCore"
+    "contentHash": "1500ec07629e0f668f1e6c5bea1319eb05e6424927cd9fb5eaf6f0e6ae9eea92",
+    "featModifier": true
   },
   {
     "version": "EA 23.280",
-    "slug": "23.280",
     "channel": "nightly",
-    "date": "2026-03-01",
+    "releaseDate": "2026-03-01",
+    "source": "git",
+    "slug": "EA-23.280",
     "tables": [
       "areas",
       "backers",
@@ -2119,16 +2052,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "705e3a7da89396de69edc8a0d8b633bcfe6f0cf982c0008865e59fe722d215cf",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.279 Nightly Patch 1"
+    "contentHash": "dfa9cd6d6220ee257d7c924518754986c1fced60f5df4bab0c94b757028cd421",
+    "featModifier": true
   },
   {
     "version": "EA 23.281",
-    "slug": "23.281",
     "channel": "stable",
-    "date": "2026-03-01",
+    "releaseDate": "2026-03-01",
+    "source": "git",
+    "slug": "EA-23.281",
     "tables": [
       "areas",
       "backers",
@@ -2170,16 +2102,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "705e3a7da89396de69edc8a0d8b633bcfe6f0cf982c0008865e59fe722d215cf",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.279 Nightly Patch 1"
+    "contentHash": "dfa9cd6d6220ee257d7c924518754986c1fced60f5df4bab0c94b757028cd421",
+    "featModifier": true
   },
   {
     "version": "EA 23.282 Patch 3",
-    "slug": "23.282-patch-3",
     "channel": "stable",
-    "date": "2026-03-02",
+    "releaseDate": "2026-03-02",
+    "source": "git",
+    "slug": "EA-23.282-patch-3",
     "tables": [
       "areas",
       "backers",
@@ -2221,16 +2152,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "4bc93e4441e110bb5f804621e17dd519fefbb816c5ee5535d6e92d4cd30e28c6",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.282 Stable Patch 3"
+    "contentHash": "423e0064ae642695237ea0194ee51ec426451a85e6b3c4528ec38c7b75b61ac3",
+    "featModifier": true
   },
   {
     "version": "EA 23.283 Patch 1",
-    "slug": "23.283-patch-1",
     "channel": "nightly",
-    "date": "2026-03-04",
+    "releaseDate": "2026-03-04",
+    "source": "git",
+    "slug": "EA-23.283-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -2272,16 +2202,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "c6c8d6a87b54f7cbc26745f3b281bad5ba43d44013b064c04542c2146ea221d7",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.283 Nightly - Plugin.BaseCore"
+    "contentHash": "bbf3c55355f7d8910794c15068b87c241effbe115de31d907abbb379e0fdda9f",
+    "featModifier": true
   },
   {
     "version": "EA 23.283 Patch 2",
-    "slug": "23.283-patch-2",
     "channel": "nightly",
-    "date": "2026-03-07",
+    "releaseDate": "2026-03-07",
+    "source": "git",
+    "slug": "EA-23.283-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -2323,16 +2252,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "1607fe256ba538d8831f9046c1253922d7bb845dd5252ce7041426af0e94aaf9",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.283 Nightly Patch 2 - Plugin.BaseCore"
+    "contentHash": "e6d4065246c05cab57607ca380e8b0e90b8674fb1b1176480d09d70bc73f4cac",
+    "featModifier": true
   },
   {
     "version": "EA 23.284",
-    "slug": "23.284",
     "channel": "nightly",
-    "date": "2026-03-09",
+    "releaseDate": "2026-03-09",
+    "source": "git",
+    "slug": "EA-23.284",
     "tables": [
       "areas",
       "backers",
@@ -2374,16 +2302,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "8b940fac2274b70e8504a60f0ff11eb630bb9eff9fc30458ce19909ed6010061",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.283 Nightly Patch 2 - Plugin.BaseCore"
+    "contentHash": "05345d0ae2ec573825525c32f2899244a57a67e342dcbe0034269087fa3a2edf",
+    "featModifier": true
   },
   {
     "version": "EA 23.285",
-    "slug": "23.285",
     "channel": "nightly",
-    "date": "2026-03-13",
+    "releaseDate": "2026-03-13",
+    "source": "git",
+    "slug": "EA-23.285",
     "tables": [
       "areas",
       "backers",
@@ -2425,16 +2352,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "0d7f1e5172c922fb326b48f56833bc49c5b646c96816ca9ce56506e9a5c16475",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.285 Nightly - Plugin.UI"
+    "contentHash": "a71cec881a012869bb3e76b692c9071f09cf587920aacdd620c85b8ae2a3e9c9",
+    "featModifier": true
   },
   {
     "version": "EA 23.286 Patch 1",
-    "slug": "23.286-patch-1",
     "channel": "nightly",
-    "date": "2026-03-18",
+    "releaseDate": "2026-03-18",
+    "source": "git",
+    "slug": "EA-23.286-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -2476,16 +2402,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "e56e1705f2841abe8804d13fb630c7d48c20ffe6d31fd48b8f8d78de3eac1f5b",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.286 Nightly Patch 1"
+    "contentHash": "47a6ed6e28deb1c8f29c02787dafcf33b9975ee91d5da2e540253af738c5fac1",
+    "featModifier": true
   },
   {
     "version": "EA 23.287 Patch 4",
-    "slug": "23.287-patch-4",
     "channel": "stable",
-    "date": "2026-03-23",
+    "releaseDate": "2026-03-23",
+    "source": "git",
+    "slug": "EA-23.287-patch-4",
     "tables": [
       "areas",
       "backers",
@@ -2527,16 +2452,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "e56e1705f2841abe8804d13fb630c7d48c20ffe6d31fd48b8f8d78de3eac1f5b",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.287 Stable Patch 3 - Plugin.BaseCore"
+    "contentHash": "47a6ed6e28deb1c8f29c02787dafcf33b9975ee91d5da2e540253af738c5fac1",
+    "featModifier": true
   },
   {
     "version": "EA 23.288",
-    "slug": "23.288",
     "channel": "nightly",
-    "date": "2026-03-26",
+    "releaseDate": "2026-03-26",
+    "source": "git",
+    "slug": "EA-23.288",
     "tables": [
       "areas",
       "backers",
@@ -2578,16 +2502,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "bad7b3a53d9982f5d71a26cafddb41dec07cfaebf4847af491d2bf006993bfb5",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.288 Nightly - Plugin.BaseCore"
+    "contentHash": "f0457ed79c5e208e4084d312c7c3aab9c35b0aa21dfb1813c907d9c5a4d2c8a7",
+    "featModifier": true
   },
   {
     "version": "EA 23.288 Patch 1",
-    "slug": "23.288-patch-1",
     "channel": "nightly",
-    "date": "2026-03-28",
+    "releaseDate": "2026-03-28",
+    "source": "git",
+    "slug": "EA-23.288-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -2629,16 +2552,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "6498e5438fdd8f42ff927414b499dc84682f600cd3759e1f6da19e95628fc794",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.288 Nightly - Plugin.BaseCore"
+    "contentHash": "b484301e7094498e32b2041a5d26d3d47b4bb5605aed67679a28673b85639f41",
+    "featModifier": true
   },
   {
     "version": "EA 23.289",
-    "slug": "23.289",
     "channel": "nightly",
-    "date": "2026-03-30",
+    "releaseDate": "2026-03-30",
+    "source": "git",
+    "slug": "EA-23.289",
     "tables": [
       "areas",
       "backers",
@@ -2680,16 +2602,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "05af33be14bdf53b8d9267b5706553e5cd63fe4a818f69d002ca49aa1f01078f",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.289 Nightly"
+    "contentHash": "1b8f81dcb65ebf195feae3c0b9789fe3f5c89e48d0897c52e5af34221c79573a",
+    "featModifier": true
   },
   {
     "version": "EA 23.290",
-    "slug": "23.290",
     "channel": "nightly",
-    "date": "2026-04-02",
+    "releaseDate": "2026-04-02",
+    "source": "git",
+    "slug": "EA-23.290",
     "tables": [
       "areas",
       "backers",
@@ -2731,16 +2652,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "9b554d2d66d6a46d0c771f90e5f9398f7c3209fd227e0842871af3d9758ef367",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.290 Nightly"
+    "contentHash": "6da977bba89d37b5e4b9931b6c373c9bdd1534a6581f608d063098a6657edb5a",
+    "featModifier": true
   },
   {
     "version": "EA 23.290 Patch 1",
-    "slug": "23.290-patch-1",
     "channel": "nightly",
-    "date": "2026-04-03",
+    "releaseDate": "2026-04-03",
+    "source": "git",
+    "slug": "EA-23.290-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -2782,16 +2702,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "407f2a608762e9b17785324d2e9044af449705ff32b422cde06842b71ef0150b",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.290 Nightly"
+    "contentHash": "7ede1f278c153d5ac8bc994da148f11034adeebf48c31003925a7668d5dddca0",
+    "featModifier": true
   },
   {
     "version": "EA 23.291 Patch 1",
-    "slug": "23.291-patch-1",
     "channel": "nightly",
-    "date": "2026-04-06",
+    "releaseDate": "2026-04-06",
+    "source": "git",
+    "slug": "EA-23.291-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -2833,16 +2752,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "54dc140fae4cc207b3aed609295222dbc41f34f5157ff04958d5cb9a88303a78",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.291 Nightly Patch 1"
+    "contentHash": "a6924ab86c161f03d59fbe940756727931cc8d56d02a0ddd90b1bf506970c193",
+    "featModifier": true
   },
   {
     "version": "EA 23.292",
-    "slug": "23.292",
     "channel": "nightly",
-    "date": "2026-04-08",
+    "releaseDate": "2026-04-08",
+    "source": "git",
+    "slug": "EA-23.292",
     "tables": [
       "areas",
       "backers",
@@ -2884,16 +2802,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "8c2c6e9dbc8f27f0597e861f700e3e7060ddacbf345e37e400af511b84a33889",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.292 Nightly"
+    "contentHash": "6dddf486029c7489122ecf35da99426132c1ab2d87040f721420eb15eb459174",
+    "featModifier": true
   },
   {
     "version": "EA 23.293",
-    "slug": "23.293",
     "channel": "nightly",
-    "date": "2026-04-08",
+    "releaseDate": "2026-04-08",
+    "source": "git",
+    "slug": "EA-23.293",
     "tables": [
       "areas",
       "backers",
@@ -2935,16 +2852,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "a956511e41e9567cff47fb01970abaa361cfdebd910967590c934c7a89dd3ce5",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.293 Nightly"
+    "contentHash": "7d437a6f94aef3a6128bc0fbf5462f899ad8342534dbe7091eaf8da99359ccb2",
+    "featModifier": true
   },
   {
     "version": "EA 23.293 Patch 1",
-    "slug": "23.293-patch-1",
     "channel": "nightly",
-    "date": "2026-04-09",
+    "releaseDate": "2026-04-09",
+    "source": "git",
+    "slug": "EA-23.293-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -2986,16 +2902,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "5b93bcbcdba3421e9be35d3d8ee8a90a6cc220024d4bc731eec695508d87f760",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.293 Nightly Patch 1"
+    "contentHash": "b6f3bbc75830f0e1289b531ce504877bdd8617ce75892045c8a0cfd5b196c954",
+    "featModifier": true
   },
   {
     "version": "EA 23.294",
-    "slug": "23.294",
     "channel": "nightly",
-    "date": "2026-04-11",
+    "releaseDate": "2026-04-11",
+    "source": "git",
+    "slug": "EA-23.294",
     "tables": [
       "areas",
       "backers",
@@ -3037,16 +2952,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "4debe15bdb5c6cd19cf653b9733d6ec2bafd2d229dd27c553be269008426a6c9",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.294 Nightly"
+    "contentHash": "2f488b65f385388f2fe446e91c2d35cb7ca541311f024535025391a4cd9d0e06",
+    "featModifier": true
   },
   {
     "version": "EA 23.295",
-    "slug": "23.295",
     "channel": "stable",
-    "date": "2026-04-12",
+    "releaseDate": "2026-04-12",
+    "source": "git",
+    "slug": "EA-23.295",
     "tables": [
       "areas",
       "backers",
@@ -3088,16 +3002,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "4debe15bdb5c6cd19cf653b9733d6ec2bafd2d229dd27c553be269008426a6c9",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.295 Stable - Plugin.UI"
+    "contentHash": "2f488b65f385388f2fe446e91c2d35cb7ca541311f024535025391a4cd9d0e06",
+    "featModifier": true
   },
   {
     "version": "EA 23.295 Patch 2",
-    "slug": "23.295-patch-2",
     "channel": "stable",
-    "date": "2026-04-15",
+    "releaseDate": "2026-04-15",
+    "source": "git",
+    "slug": "EA-23.295-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -3139,16 +3052,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "fffc13b1d600a5319e7c55f8d5d78e29c1ad07c4e89ba60de04a9f786483e289",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.295 Stable Patch 2 - Plugin.BaseCore"
+    "contentHash": "31338c1ddedfdbc95059aaa00603f6e38a9bcf7fb7ef29c536f83a868f24588f",
+    "featModifier": true
   },
   {
     "version": "EA 23.296",
-    "slug": "23.296",
     "channel": "nightly",
-    "date": "2026-04-19",
+    "releaseDate": "2026-04-19",
+    "source": "git",
+    "slug": "EA-23.296",
     "tables": [
       "areas",
       "backers",
@@ -3190,16 +3102,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "61632a9ef7088fb00c7ba709b91f2f01e6a629d1407b6ea701fd271050feac8f",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.296 Nightly - Plugin.BaseCore"
+    "contentHash": "a30a689cae3332a6987ae93b8692ccb87baafc45f7d5742346d61f841179ef8a",
+    "featModifier": true
   },
   {
     "version": "EA 23.300",
-    "slug": "23.300",
     "channel": "nightly",
-    "date": "2026-05-02",
+    "releaseDate": "2026-05-02",
+    "source": "git",
+    "slug": "EA-23.300",
     "tables": [
       "areas",
       "backers",
@@ -3241,16 +3152,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "cfc1811af75415f482f3747a5fc36f164bab22453489dd21f3b712bed700fd0b",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.300 Nightly - Plugin.UI"
+    "contentHash": "44c5e662da60c99fc4153284592fc05750745f2256fcd046072f3268f6c9cda1",
+    "featModifier": true
   },
   {
     "version": "EA 23.301",
-    "slug": "23.301",
     "channel": "nightly",
-    "date": "2026-05-04",
+    "releaseDate": "2026-05-04",
+    "source": "git",
+    "slug": "EA-23.301",
     "tables": [
       "areas",
       "backers",
@@ -3292,16 +3202,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "32d7c82cc5b07cfe265eb1a7ff6daf184b72c53fb16d0921f985743d5e6d45b8",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.301 Nightly"
+    "contentHash": "622af4d665613d6117c420f46ea7dfac6a97fd4ecaba52405909c486ea9f7bc4",
+    "featModifier": true
   },
   {
     "version": "EA 23.302",
-    "slug": "23.302",
     "channel": "nightly",
-    "date": "2026-05-05",
+    "releaseDate": "2026-05-05",
+    "source": "git",
+    "slug": "EA-23.302",
     "tables": [
       "areas",
       "backers",
@@ -3343,16 +3252,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "a8d07c7416d9bff8ae822c24a26a79c5817b18b5e1705e1c15648a46fa472a9c",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.302 Nightly"
+    "contentHash": "7953906fc2da8dca480561de349eae094fb5c0b682274bf419f88a5cb7f840d5",
+    "featModifier": true
   },
   {
     "version": "EA 23.303",
-    "slug": "23.303",
     "channel": "nightly",
-    "date": "2026-05-06",
+    "releaseDate": "2026-05-06",
+    "source": "git",
+    "slug": "EA-23.303",
     "tables": [
       "areas",
       "backers",
@@ -3394,16 +3302,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "362b6708295c8c1932c4ba0d1e78eb667c13e81073d931b11fbcbd5359a8ffa4",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.303 Nightly"
+    "contentHash": "2452bd12110a35621c11ea8cd6757ce0b75f50c44e147d1c7f316cab20a85db3",
+    "featModifier": true
   },
   {
     "version": "EA 23.304",
-    "slug": "23.304",
     "channel": "nightly",
-    "date": "2026-05-09",
+    "releaseDate": "2026-05-09",
+    "source": "git",
+    "slug": "EA-23.304",
     "tables": [
       "areas",
       "backers",
@@ -3445,16 +3352,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "8514a9534cb1f11d36945ebbb376f3ede510cbfd7968e6d157901c19934e4f37",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.304 Nightly"
+    "contentHash": "99591ce6b3ddb90a5974107715bf06516d8d05c41d0c9a93ff76773f0bc8d370",
+    "featModifier": true
   },
   {
     "version": "EA 23.305",
-    "slug": "23.305",
     "channel": "nightly",
-    "date": "2026-05-11",
+    "releaseDate": "2026-05-11",
+    "source": "git",
+    "slug": "EA-23.305",
     "tables": [
       "areas",
       "backers",
@@ -3496,16 +3402,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "7fd4d888b926db411eda20e53f663acc86906dc56e2a8e8e1217740ed0940b47",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.305 Nightly"
+    "contentHash": "6648e2f5480c0f19ae0c33edc3d9c4b52d32384f970e662816d6ccfb4861e9e8",
+    "featModifier": true
   },
   {
     "version": "EA 23.306",
-    "slug": "23.306",
     "channel": "nightly",
-    "date": "2026-05-14",
+    "releaseDate": "2026-05-14",
+    "source": "git",
+    "slug": "EA-23.306",
     "tables": [
       "areas",
       "backers",
@@ -3546,16 +3451,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "12e43d2d0c72cbe069bafef85c183de3afd3d800b4edfdbb15206da85e607f7f",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.306 Nightly - Plugin.BaseCore"
+    "contentHash": "dce5b3982a93ccf4625d677336f88fd58e1fc045fa0894817a07c78ca7b35358",
+    "featModifier": true
   },
   {
     "version": "EA 23.306 Patch 1",
-    "slug": "23.306-patch-1",
     "channel": "nightly",
-    "date": "2026-05-14",
+    "releaseDate": "2026-05-14",
+    "source": "git",
+    "slug": "EA-23.306-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -3596,16 +3500,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "ac852f607891560ea91f707c2fa4be9d200c34d3d9b560a603c8e0f2a1a7c336",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.306 Nightly - Plugin.BaseCore"
+    "contentHash": "70b09e02d99065dd62a7a61a206f130f57335276f807bf5bcaa1faa820527c80",
+    "featModifier": true
   },
   {
     "version": "EA 23.306 Patch 2",
-    "slug": "23.306-patch-2",
     "channel": "nightly",
-    "date": "2026-05-14",
+    "releaseDate": "2026-05-14",
+    "source": "git",
+    "slug": "EA-23.306-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -3646,16 +3549,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "f4dbf885bc8cf013060a9addcbb8eda3f874bbecceb1c8de58107984ba833cc7",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.306 Nightly - Plugin.BaseCore"
+    "contentHash": "044d8af8a0a7144d8952fbea0fa4c0c2a0814ad29090403dea08fb5abd5215d2",
+    "featModifier": true
   },
   {
     "version": "EA 23.306 Patch 3",
-    "slug": "23.306-patch-3",
     "channel": "nightly",
-    "date": "2026-05-16",
+    "releaseDate": "2026-05-16",
+    "source": "git",
+    "slug": "EA-23.306-patch-3",
     "tables": [
       "areas",
       "backers",
@@ -3696,16 +3598,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "bf3a47866df3940f2f19e99fc3a2b8f701c99d42396ad8c2d04e25f9bad2d021",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.306 Nightly - Plugin.BaseCore"
+    "contentHash": "2f374fc28c84881ea5fac89ced175bbe1e19525af860be237704398ca6cb1592",
+    "featModifier": true
   },
   {
     "version": "EA 23.307",
-    "slug": "23.307",
     "channel": "stable",
-    "date": "2026-05-18",
+    "releaseDate": "2026-05-18",
+    "source": "git",
+    "slug": "EA-23.307",
     "tables": [
       "areas",
       "backers",
@@ -3746,16 +3647,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "d2efe50b49d9e1b620d5487f18b3da1575b41659b2270c3c5ab539043edfb463",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.307 Stable"
+    "contentHash": "066c51b8cf9e17f6f861c2e94f772096946810ca28242ba29fd27fb69106c64e",
+    "featModifier": true
   },
   {
     "version": "EA 23.308",
-    "slug": "23.308",
     "channel": "nightly",
-    "date": "2026-05-21",
+    "releaseDate": "2026-05-21",
+    "source": "git",
+    "slug": "EA-23.308",
     "tables": [
       "areas",
       "backers",
@@ -3796,16 +3696,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "ac4ae7e556b69cd0a21bf47d4d28f1b49b4b7701489599f01947608ed38ef30e",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.308 Nightly - Plugin.BaseCore"
+    "contentHash": "c0ae7c6792469aaf71e97fc3e38a8332e3c020018cd1c2c152f92904f35d64fa",
+    "featModifier": true
   },
   {
     "version": "EA 23.309 Patch 1",
-    "slug": "23.309-patch-1",
     "channel": "nightly",
-    "date": "2026-05-24",
+    "releaseDate": "2026-05-24",
+    "source": "git",
+    "slug": "EA-23.309-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -3846,16 +3745,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "3b58608ad112b590d0b5c2a19ea96b4b49c1de8638246083d40158622e285feb",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.309 Nightly Patch 1"
+    "contentHash": "32d68527f3c0e5fc34b900f14ead2e85342b1ac0c89c151946a68d1fc1412cdc",
+    "featModifier": true
   },
   {
     "version": "EA 23.310 Patch 2",
-    "slug": "23.310-patch-2",
     "channel": "nightly",
-    "date": "2026-06-01",
+    "releaseDate": "2026-06-01",
+    "source": "git",
+    "slug": "EA-23.310-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -3896,16 +3794,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "9ea6d18b49a82958e6a6928ee0d2cbaf15b768199d26e9a2f9bafaffc68569ad",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.310 Nightly Patch 1"
+    "contentHash": "f273003d8d8058588b1ea5405aa0aed386f6103a107bc203fcafaa7ce3eccbb8",
+    "featModifier": true
   },
   {
     "version": "EA 23.311 Patch 1",
-    "slug": "23.311-patch-1",
     "channel": "nightly",
-    "date": "2026-06-02",
+    "releaseDate": "2026-06-02",
+    "source": "git",
+    "slug": "EA-23.311-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -3946,16 +3843,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "9ea6d18b49a82958e6a6928ee0d2cbaf15b768199d26e9a2f9bafaffc68569ad",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.310 Nightly Patch 1"
+    "contentHash": "f273003d8d8058588b1ea5405aa0aed386f6103a107bc203fcafaa7ce3eccbb8",
+    "featModifier": true
   },
   {
     "version": "EA 23.312 Patch 2",
-    "slug": "23.312-patch-2",
     "channel": "nightly",
-    "date": "2026-06-04",
+    "releaseDate": "2026-06-04",
+    "source": "git",
+    "slug": "EA-23.312-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -3996,16 +3892,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "2a8a8612cad77ee6a6a9769bc782bfa518950bdb7c8455bd81f02e44943af108",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.310 Nightly Patch 1"
+    "contentHash": "67d59fbc48518d5641b0e7dfd7130b4eada02270859fe5cd33c720526ddb6757",
+    "featModifier": true
   },
   {
     "version": "EA 23.312 Patch 3",
-    "slug": "23.312-patch-3",
     "channel": "nightly",
-    "date": "2026-06-04",
+    "releaseDate": "2026-06-04",
+    "source": "git",
+    "slug": "EA-23.312-patch-3",
     "tables": [
       "areas",
       "backers",
@@ -4046,16 +3941,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "9d43915965f243c1ad78bd3b370e38cbc5b5eb5fc64b06d247ce32086c6fbfbf",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.310 Nightly Patch 1"
+    "contentHash": "2196e6e27c5981975a5d0e7045a499bab1ee818b77d6a9402915a20bdfe59259",
+    "featModifier": true
   },
   {
     "version": "EA 23.313",
-    "slug": "23.313",
     "channel": "nightly",
-    "date": "2026-06-05",
+    "releaseDate": "2026-06-05",
+    "source": "git",
+    "slug": "EA-23.313",
     "tables": [
       "areas",
       "backers",
@@ -4096,16 +3990,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "9d43915965f243c1ad78bd3b370e38cbc5b5eb5fc64b06d247ce32086c6fbfbf",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.312 Nightly Patch 4 - Plugin.UI"
+    "contentHash": "2196e6e27c5981975a5d0e7045a499bab1ee818b77d6a9402915a20bdfe59259",
+    "featModifier": true
   },
   {
     "version": "EA 23.313 Patch 1",
-    "slug": "23.313-patch-1",
     "channel": "nightly",
-    "date": "2026-06-05",
+    "releaseDate": "2026-06-05",
+    "source": "git",
+    "slug": "EA-23.313-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -4146,16 +4039,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "9d43915965f243c1ad78bd3b370e38cbc5b5eb5fc64b06d247ce32086c6fbfbf",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.312 Nightly Patch 4 - Plugin.UI"
+    "contentHash": "2196e6e27c5981975a5d0e7045a499bab1ee818b77d6a9402915a20bdfe59259",
+    "featModifier": true
   },
   {
     "version": "EA 23.315",
-    "slug": "23.315",
     "channel": "nightly",
-    "date": "2026-06-10",
+    "releaseDate": "2026-06-10",
+    "source": "git",
+    "slug": "EA-23.315",
     "tables": [
       "areas",
       "backers",
@@ -4196,16 +4088,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "56b0940cc444d479f2f5322367eb80a8dd06d83db5e636ae72f307f31748b357",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.315 Nightly - Plugin.BaseCore"
+    "contentHash": "14f3848646caf9c24150a6d46da9775194733ad4641c1ea324924786d7ac7d2d",
+    "featModifier": true
   },
   {
     "version": "EA 23.316",
-    "slug": "23.316",
     "channel": "nightly",
-    "date": "2026-06-13",
+    "releaseDate": "2026-06-13",
+    "source": "git",
+    "slug": "EA-23.316",
     "tables": [
       "areas",
       "backers",
@@ -4246,16 +4137,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "2eb034b75c2737b3726d451620b1e999c1f7e2a070412783e60ef9e9d9bf074a",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.316 Nightly - Plugin.UI"
+    "contentHash": "4791ca4ca2d850332500d0be404f953961c0dd1b14405a2baae714bbd1a042e1",
+    "featModifier": true
   },
   {
     "version": "EA 23.318",
-    "slug": "23.318",
     "channel": "nightly",
-    "date": "2026-06-18",
+    "releaseDate": "2026-06-18",
+    "source": "git",
+    "slug": "EA-23.318",
     "tables": [
       "areas",
       "backers",
@@ -4296,16 +4186,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "2be70182053693f34294f63b391fe42ba04893c8ee9534c3ab0888ba941216f3",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.318 Nightly - Plugin.BaseCore"
+    "contentHash": "540b56f67b708989ec256f209d63801b403d5f44a7f4a8b8f9c96a7028412e85",
+    "featModifier": true
   },
   {
     "version": "EA 23.319 Patch 1",
-    "slug": "23.319-patch-1",
     "channel": "nightly",
-    "date": "2026-06-19",
+    "releaseDate": "2026-06-19",
+    "source": "git",
+    "slug": "EA-23.319-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -4346,16 +4235,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "1b9dd3336bf1457bea346fc2ad1e137445bab521bddad3b23ba2d728a10a8e66",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.319 Nightly Patch 1"
+    "contentHash": "44d6fa1da26793287d1cfcf6b8eedcd764c4efab9b7abe5eaa255811ea93aba0",
+    "featModifier": true
   },
   {
     "version": "EA 23.321 Patch 1",
-    "slug": "23.321-patch-1",
     "channel": "nightly",
-    "date": "2026-06-25",
+    "releaseDate": "2026-06-25",
+    "source": "git",
+    "slug": "EA-23.321-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -4396,16 +4284,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "e2b00ff7ee0baf6f0dfc42c0b12b1429036c27a661374229156cc918c98b4d33",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.321 Nightly Patch 1"
+    "contentHash": "5f5ef66fe02691d4ca3ea4bf5e20bce59bc5fe6bafbac76b6952b53b7dda23a6",
+    "featModifier": true
   },
   {
     "version": "EA 23.322",
-    "slug": "23.322",
     "channel": "nightly",
-    "date": "2026-06-26",
+    "releaseDate": "2026-06-26",
+    "source": "git",
+    "slug": "EA-23.322",
     "tables": [
       "areas",
       "backers",
@@ -4446,16 +4333,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "13375b3ee43c59d125648ce80833e615f97133e8142be89dc3a9f097a65ea09e",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.321 Nightly Patch 1"
+    "contentHash": "0ba6a8f0e4158b759102b63845ed82f5e2b6d66c3f81a2758ec9d8c33a29c417",
+    "featModifier": true
   },
   {
     "version": "EA 23.323 Patch 2",
-    "slug": "23.323-patch-2",
     "channel": "nightly",
-    "date": "2026-06-27",
+    "releaseDate": "2026-06-27",
+    "source": "git",
+    "slug": "EA-23.323-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -4496,16 +4382,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "0bf283ffb6211adf560ce817ca078418571888fb38915d0e3038435cdeca0467",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.321 Nightly Patch 1"
+    "contentHash": "fa88eafc3aa0b7df4b27769206827d2bf02a160d3c43b5798180e1f364b7ce1d",
+    "featModifier": true
   },
   {
     "version": "EA 23.324",
-    "slug": "23.324",
     "channel": "nightly",
-    "date": "2026-07-01",
+    "releaseDate": "2026-07-01",
+    "source": "git",
+    "slug": "EA-23.324",
     "tables": [
       "areas",
       "backers",
@@ -4546,16 +4431,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "3145e62ed74bd4ad79135fdae523d117b57b14bd1f8ffe1b62ce4a57e5d7d3fa",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.324 Nightly - Plugin.BaseCore"
+    "contentHash": "d31af832ec1f46ab8d0336a8253d8dd239bc3790b164cffaf4b774550d1cea53",
+    "featModifier": true
   },
   {
     "version": "EA 23.325",
-    "slug": "23.325",
     "channel": "stable",
-    "date": "2026-07-03",
+    "releaseDate": "2026-07-03",
+    "source": "git",
+    "slug": "EA-23.325",
     "tables": [
       "areas",
       "backers",
@@ -4596,16 +4480,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "d1669d220c232cb84dd50fec59039cc32838aec690663f620f1d9ebdd5de08fb",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.324 Nightly - Plugin.BaseCore"
+    "contentHash": "cb24e0f916abdfb13c3713e0c83d0127f5df3422f575da70c1fa89c228ebf000",
+    "featModifier": true
   },
   {
     "version": "EA 23.325 Patch 1",
-    "slug": "23.325-patch-1",
     "channel": "stable",
-    "date": "2026-07-04",
+    "releaseDate": "2026-07-04",
+    "source": "git",
+    "slug": "EA-23.325-patch-1",
     "tables": [
       "areas",
       "backers",
@@ -4646,16 +4529,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "027375d96e3a84602e679f072547cd04483702948d47b72ea4c57c49545068c2",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.324 Nightly - Plugin.BaseCore"
+    "contentHash": "65ec83ddba02ad10e2bd7106523521b8566276934004a05ded92554364f1050a",
+    "featModifier": true
   },
   {
     "version": "EA 23.325 Patch 2",
-    "slug": "23.325-patch-2",
     "channel": "stable",
-    "date": "2026-07-06",
+    "releaseDate": "2026-07-06",
+    "source": "git",
+    "slug": "EA-23.325-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -4696,16 +4578,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "6445c152c776ad178ea947526b042a5dbe2f79d47e94465bc5e5604b4b588581",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "+EA 23.324 Nightly - Plugin.BaseCore"
+    "contentHash": "309b6647b2806eb2200550d6a92a66189783cb079b69b8114ac5a6b37c5ad47a",
+    "featModifier": true
   },
   {
     "version": "EA 23.326",
-    "slug": "23.326",
     "channel": "nightly",
-    "date": "2026-07-09",
+    "releaseDate": "2026-07-09",
+    "source": "git",
+    "slug": "EA-23.326",
     "tables": [
       "areas",
       "backers",
@@ -4746,16 +4627,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "c92d094674e64c44c3a92571e4345d7399dbec74198174286e0e5b9c610b7b6b",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.326 Nightly"
+    "contentHash": "c763273d2471f72a1089fcd9b7ff44a66f8038ef7a786d4be8380d2894203799",
+    "featModifier": true
   },
   {
     "version": "EA 23.327",
-    "slug": "23.327",
     "channel": "nightly",
-    "date": "2026-07-13",
+    "releaseDate": "2026-07-13",
+    "source": "git",
+    "slug": "EA-23.327",
     "tables": [
       "areas",
       "backers",
@@ -4796,16 +4676,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "1cbfbd9c2a67c90e6ad033aa17b0c5e4e3cc3975b63d6de7f8c8e4c80a780dc1",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.327 Nightly"
+    "contentHash": "f192167f138905342afd1ea198c3fddb9ca8257754f2d8c7e7c2cde52b783ced",
+    "featModifier": true
   },
   {
     "version": "EA 23.328",
-    "slug": "23.328",
     "channel": "nightly",
-    "date": "2026-07-21",
+    "releaseDate": "2026-07-21",
+    "source": "git",
+    "slug": "EA-23.328",
     "tables": [
       "areas",
       "backers",
@@ -4846,16 +4725,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "63abd7096fe794dbf6c7c55d0d14565c7f4ae3ceee8b0b51877883cc45b6f101",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.328 Nightly"
+    "contentHash": "9b46195742425bbab8e117bd57b2fc13cc287e9892afb93773f0764180e127e7",
+    "featModifier": true
   },
   {
     "version": "EA 23.329",
-    "slug": "23.329",
     "channel": "nightly",
-    "date": "2026-07-21",
+    "releaseDate": "2026-07-21",
+    "source": "git",
+    "slug": "EA-23.329",
     "tables": [
       "areas",
       "backers",
@@ -4896,16 +4774,15 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "c6eca2b715f8cfbc52343e8958c50cddb136a03838fbb7e430bd0b5ece5900d9",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.329 Nightly"
+    "contentHash": "eb55a4fd2b39b426614e344e75984c16cba2579c297c57a804bd8c3d19d32c08",
+    "featModifier": true
   },
   {
     "version": "EA 23.329 Patch 2",
-    "slug": "23.329-patch-2",
     "channel": "nightly",
-    "date": "2026-07-22",
+    "releaseDate": "2026-07-22",
+    "source": "git",
+    "slug": "EA-23.329-patch-2",
     "tables": [
       "areas",
       "backers",
@@ -4946,9 +4823,7 @@
       "zoneAffixes",
       "zones"
     ],
-    "contentHash": "27f2ccfd79e67f897af29ce2578f47e18f03c4711787028abb1cf10fc4f49238",
-    "source": "git",
-    "featModifier": true,
-    "featModifierSource": "EA 23.329 Nightly"
+    "contentHash": "7e88a5fb97f5692ae12a32367c1da514efef2bf8384f2be02690bb65624a5bec",
+    "featModifier": true
   }
 ]
