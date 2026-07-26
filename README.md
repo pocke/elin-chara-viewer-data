@@ -24,8 +24,7 @@ becomes `EA-23.306-patch-1`.
 ```jsonc
 {
   "version": "EA 23.306 Patch 1", // as reported by the game
-  "channel": "nightly",           // "stable", "nightly", or null when it was
-                                  // archived before the channel was recorded
+  "channel": "nightly",           // "stable" or "nightly"
   "releaseDate": "2026-05-14"
 }
 ```

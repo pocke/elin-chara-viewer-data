@@ -1,7 +1,7 @@
 [
   {
     "version": "EA 23.173 Patch 1",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-08-20",
     "slug": "EA-23.173-patch-1",
     "tables": [
@@ -16,7 +16,7 @@
   },
   {
     "version": "EA 23.187",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-08-24",
     "slug": "EA-23.187",
     "tables": [
@@ -31,7 +31,7 @@
   },
   {
     "version": "EA 23.188",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-09-08",
     "slug": "EA-23.188",
     "tables": [
@@ -46,7 +46,7 @@
   },
   {
     "version": "EA 23.188 Patch 1",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-09-08",
     "slug": "EA-23.188-patch-1",
     "tables": [
@@ -61,7 +61,7 @@
   },
   {
     "version": "EA 23.188 Patch 2",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-09-08",
     "slug": "EA-23.188-patch-2",
     "tables": [
@@ -76,7 +76,7 @@
   },
   {
     "version": "EA 23.200 Patch 2",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-09-19",
     "slug": "EA-23.200-patch-2",
     "tables": [
@@ -91,7 +91,7 @@
   },
   {
     "version": "EA 23.209 Patch 1",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-10-01",
     "slug": "EA-23.209-patch-1",
     "tables": [
@@ -106,7 +106,7 @@
   },
   {
     "version": "EA 23.212",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-10-05",
     "slug": "EA-23.212",
     "tables": [
@@ -121,7 +121,7 @@
   },
   {
     "version": "EA 23.213",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-10-06",
     "slug": "EA-23.213",
     "tables": [
@@ -136,7 +136,7 @@
   },
   {
     "version": "EA 23.222",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-10-19",
     "slug": "EA-23.222",
     "tables": [
@@ -151,7 +151,7 @@
   },
   {
     "version": "EA 23.222 Patch 1",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-10-20",
     "slug": "EA-23.222-patch-1",
     "tables": [
@@ -166,7 +166,7 @@
   },
   {
     "version": "EA 23.229 Patch 3",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-11-01",
     "slug": "EA-23.229-patch-3",
     "tables": [
@@ -181,7 +181,7 @@
   },
   {
     "version": "EA 23.229 Patch 4",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-11-04",
     "slug": "EA-23.229-patch-4",
     "tables": [
@@ -196,7 +196,7 @@
   },
   {
     "version": "EA 23.237",
-    "channel": null,
+    "channel": "stable",
     "releaseDate": "2025-11-19",
     "slug": "EA-23.237",
     "tables": [

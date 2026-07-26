@@ -1,5 +1,5 @@
 {
   "version": "EA 23.209 Patch 1",
-  "channel": null,
+  "channel": "stable",
   "releaseDate": "2025-10-01"
 }
