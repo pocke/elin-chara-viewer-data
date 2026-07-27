@@ -45,6 +45,99 @@ up without anything else to do.
 `releaseDate` currently holds the day the version was archived, which is close to
 but not always the release date. The Steam backfill will correct it.
 
+## The shape of a history
+
+The file name is the identifier the detail page uses: `putty.json` for a
+character, `bit---eleFire.json` for one of its element variants.
+
+```jsonc
+{
+  "schemaVersion": 1,
+  "key": "putty",
+  "isVariant": false,          // true for an `id---element` page
+  "names": {                   // element alias -> the newest name it was seen under
+    "CHA": { "ja": "魅力", "en": "Charisma" }
+  },
+  "entries": [ /* newest first */ ]
+}
+```
+
+A reader that does not recognise `schemaVersion` hides the history rather than
+guessing; fields are only ever added within a version, since an unknown field is
+ignored.
+
+`names` exists because an alias can be renamed, or stop existing. A page names an
+alias from its own version's `elements.csv` and falls back here, so one alias
+reads as one name all the way down the list.
+
+Each entry is one version in which something happened. Versions where nothing
+did are not listed at all.
+
+```jsonc
+{
+  "version": "EA 23.269",
+  "slug": "EA-23.269",         // the URL segment, and the directory under v/
+  "channel": "nightly",
+  "releaseDate": "2026-02-11",
+  "kind": "changed",
+  "changes": [ /* what the detail page shows */ ],
+  "raw": [ /* what only the raw-data section shows */ ]
+}
+```
+
+`kind` is one of:
+
+| | |
+|---|---|
+| `origin` | Where the record starts. The character was already there — either this is the oldest archived version, or the versions before it could not be computed. |
+| `added` | The page did not exist in the version before. |
+| `removed` | It stopped existing. |
+| `changed` | Values moved; `changes` and `raw` say which. |
+| `unavailable` | The version has the character but the viewer cannot compute it, because the row points at a race or a job that version does not have. `reason` carries what went wrong. |
+
+Only `changed` carries anything in `changes` or `raw`. An `origin` or `added`
+entry marks the place and no more: the values themselves are the character
+rather than a change, and that version's own page shows them.
+
+`changes` are the things the detail page puts on screen. `field` names one of
+ten groups and `key` picks a member out of it, or is absent where the group
+holds one value:
+
+| `field` | `key` | `from` / `to` |
+|---|---|---|
+| `name` | `ja`, `en` | string |
+| `mainElement` | — | element alias, or null |
+| `race`, `job` | `id`, `nameJa`, `nameEn` | string |
+| `tactics` | `id`, `nameJa`, `nameEn`, `distance`, `moveFrequency`, `party`, `taunt`, `melee`, `range`, `spell`, `heal`, `summon`, `buff`, `debuff`, `partyBuff` | number, string, or boolean for `partyBuff` |
+| `level` | — | number |
+| `geneSlot` | — | number, after the feats |
+| `bodyParts` | `hand`, `head`, `torso`, `back`, `waist`, `arm`, `foot`, `neck`, `finger` | number |
+| `elements` | element alias | array of the powers merged into it, sorted; null where the character does not have it |
+| `abilities` | `<name>\|<element>` | `{ name, chance, party, element }`, or null |
+
+Everything an element carries is one group, so a power change reads the same
+whether the page files it under attributes, resistances or skills. An element
+being renamed is not a change to a character and is not recorded; the alias is
+the identity.
+
+`elements` holds the powers rather than their total because a skill is shown as
+base potential, which counts only the powers that are not 1.
+
+`raw` is the rest of the four rows the page prints raw — `charas`, `races`,
+`jobs`, `tactics` — as they read after parsing, so a column the viewer's schemas
+do not know is not in here either. A column is listed only when `changes` does
+not already account for it, which is why a reordered `elements` string shows up
+here while a change to what it grants does not. Values are strings, or null for
+a column with nothing in it. `swapped` marks a row that changed because the
+character started pointing at a different one.
+
+```jsonc
+{ "table": "races", "column": "playable", "from": "8", "to": "4" }
+```
+
+`history/manifest.json` records how much the last build produced, and is what the
+next one compares against before it agrees to write.
+
 ## Incomplete versions
 
 41 versions contain only five tables (`charas`, `elements`, `jobs`, `races`,
