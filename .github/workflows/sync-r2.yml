@@ -26,6 +26,9 @@ env:
   BUCKET: ${{ secrets.R2_BUCKET }}
   VERSION_CACHE_CONTROL: 'public, max-age=86400, stale-while-revalidate=604800'
   INDEX_CACHE_CONTROL: 'public, max-age=300'
+  # A history is rewritten whenever the version it ends at is released, so it
+  # cannot be cached the way a version's own files are.
+  HISTORY_CACHE_CONTROL: 'public, max-age=300'
 
 jobs:
   sync:
@@ -71,6 +74,10 @@ jobs:
             --endpoint-url "$ENDPOINT" \
             --cache-control "$VERSION_CACHE_CONTROL" \
             --delete
+          aws s3 sync history "s3://$BUCKET/history" \
+            --endpoint-url "$ENDPOINT" \
+            --cache-control "$HISTORY_CACHE_CONTROL" \
+            --delete
           aws s3 cp index.json "s3://$BUCKET/index.json" \
             --endpoint-url "$ENDPOINT" \
             --cache-control "$INDEX_CACHE_CONTROL"
@@ -89,6 +96,7 @@ jobs:
           while IFS= read -r file; do
             case "$file" in
               v/*) upload "$file" "$VERSION_CACHE_CONTROL" ;;
+              history/*) upload "$file" "$HISTORY_CACHE_CONTROL" ;;
               index.json) upload "$file" "$INDEX_CACHE_CONTROL" ;;
               README.md|cors.json|.github/*) ;;
               # An unrecognised path means the layout moved and this workflow
@@ -99,7 +107,7 @@ jobs:
 
           while IFS= read -r file; do
             case "$file" in
-              v/*|index.json)
+              v/*|history/*|index.json)
                 aws s3 rm "s3://$BUCKET/$file" --endpoint-url "$ENDPOINT" </dev/null ;;
               README.md|cors.json|.github/*) ;;
               *) echo "unexpected path: $file" >&2; exit 1 ;;
