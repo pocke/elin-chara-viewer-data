@@ -6,7 +6,7 @@ artist,,,,"「感性の下劣なやつめ！」
 ""You are vile!""","""This is art!""
 ""I was living peacefully.""
 ""It's art!""","""I give up on people!"""
-bell,," *リン*",," *リン*"," *リン…*",,*ring*,,*ring*,*ring...*,
+bell,, *リン*,, *リン*, *リン…*,,*ring*,,*ring*,*ring...*,
 fairy,," *パタパタ*
 「にひひ」
  *ハタハタ*",,,,,"*flutter*
@@ -860,7 +860,7 @@ seeker,,"「ふむ…犬が西向きゃ尾は東だな…」
 誰かが執筆する音が聞こえた。 ",,"「それが君の哲学かい」 
 「君の物語を見せてくれ」
 「この世界は物騒だな」 
-「こら、本を傷つけるんじゃない」 ","「仕方がない…次は死後の世界を探究するか…」 ","「それが君の物語か…さみしい結末だな」 ","""Well...When the raven flies her tail follows... ""
+「こら、本を傷つけるんじゃない」 ",「仕方がない…次は死後の世界を探究するか…」 ,「それが君の物語か…さみしい結末だな」 ,"""Well...When the raven flies her tail follows... ""
 ""Now, onto the next unknown...""
 ""If there's a cat sister, &one would think there's a dog sister too...""
 You hear the sound of someone turning a page. 
@@ -1225,7 +1225,7 @@ defender,,誰かに守られている気がする。,,,「主よ、お許しく�
 The defender smiles at you."
 adv_kiria,,"「いつか私の製造者を見つけて殴ってやるの」
 「人形愛好者は懲らしめなければなりません…」
-「…私はスクラップではないです」",,,"「私…さびついてしまったようです…」 ",,"""Someday, I will find my creator, and punch him.""
+「…私はスクラップではないです」",,,「私…さびついてしまったようです…」 ,,"""Someday, I will find my creator, and punch him.""
 ""Have you met any doll fanatics? &I need to punish one...""
 ""... I'm not scrap.""",,,"""I... must have gotten... rusty...""",
 adv_gaki,,"「ざこ」 
@@ -1262,7 +1262,7 @@ adv_verna,,"「影は、私の鏡」
 「 この世界は奇妙ね 」",,"「影よ、さあ共に舞おう」
 「瞬きする間に終わらせるわ」
 「哀れね」
-「影よ集え」","「この世界は眩しすぎるわ」 ","「さよなら」
+「影よ集え」",「この世界は眩しすぎるわ」 ,"「さよなら」
 「終わりよ」
 「私の世界へようこそ」
 「 闇に呑まれるがいい」 ","""The shadow is my mirror.""

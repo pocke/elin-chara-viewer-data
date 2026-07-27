@@ -13,8 +13,8 @@ _comma,_sys,、,","
 _fakeblock,_sys,#1*,#1*
 _lostproperty,_sys,落とし物の#1,lost #1
 _jammed,_sys,故障した#1,jammed #1
-_cast_confuse,,混乱しながら," in confusion"
-_cast_dim,,朦朧としながら," in a daze"
+_cast_confuse,,混乱しながら, in confusion
+_cast_dim,,朦朧としながら, in a daze
 _firework,_sys,#1(#2番),#1(No.#2)
 _follower,_sys,#2信者の#1,"follower of #2, #1"
 _qualityFurniture,_sys,#1#2,#1 #2
@@ -37,7 +37,7 @@ _unit2,_sys,#1#2,#1 unit#(s)
 _sealed,_sys,(未開封),(Sealed)
 _factionWide,_sys,(ファクション),(Faction)
 _partyWide,_sys,(パーティー),(Party)
-"_deciphered ",_sys,解読済みの#1,deciphered #1
+_deciphered ,_sys,解読済みの#1,deciphered #1
 _titled,_sys,「#1」という題名の#2,"#2 titled ""#1"""
 _flavor,_sys,(#1風味),(#1 flavor)
 _named,_sys,「#1」と名付けられた#2,"#2 named ""#1"""
@@ -47,7 +47,7 @@ _engravedAlt,_sys,#1と刻まれた#2,#2 engraved #1
 _daggerGrave,_sys,#1の失われし#2,#1's lost #2
 _detect,_sys,#1(#2),#1(#2)
 _polluted,_sys,汚染された#1,polluted #1
-_bullet,_sys,・,"・ "
+_bullet,_sys,・,・ 
 _elehand,_sys,#1#2,#1 #2
 _littleBall,_sys,#1 (#3),#1 (#3)
 _monsterball,_sys,#1 Lv #2 (#3),#1 Lv #2 (#3)
@@ -320,7 +320,7 @@ armorStyle,chara,鎧スタイル,Armor Style
 attributes,chara,主能力,Attributes
 deepestLv,chara,最深到達層,Depth Reached
 deepestLv2,chara,#1階相当,Lv.#1
-deepestLv3,chara," (すくつ #1階)",(Void Lv.#1)
+deepestLv3,chara, (すくつ #1階),(Void Lv.#1)
 availableFeats,chara,取得可能フィート (一般),Available Feats (General)
 availableFeats_attribute,chara,取得可能フィート (主能力）,Available Feats (Main Attributes)
 availableFeats_skill,chara,取得可能フィート (技能),Available Feats (Skill)
@@ -348,7 +348,7 @@ feats,chara,フィート,Feat
 health,chara,生命,Health
 height,,高さ,Height
 heightWeight,chara,#1cm #2kg,#1cm #2kg
-traitAdditive,," (加算)"," (Additive)"
+traitAdditive,, (加算), (Additive)
 traitSlot,,+#1,+#1
 _quality,,品質: #1,Quality #1
 _nutrition,,栄養: #1,Nutrition #1
@@ -382,7 +382,7 @@ myHome,chara,住まい,House
 nameBio,chara,#2「#1」,"#1, #2"
 notEquipped,chara,装備なし,Not Equipped
 PEN,chara,貫通,Pen
-perMonth,chara," / 月"," / Month"
+perMonth,chara, / 月, / Month
 personalSetting,chara,個人設定,Preference
 totalFeat,chara,総獲得フィートポイント,Total Feat Points
 profile_postEffect,config,プロフィール,Profile
@@ -685,12 +685,12 @@ warnings,config,確認と警告,Warning
 warnMana,config,マナの限界を超える時に確認ダイアログを表示する,Show warning when exceeding mana
 warnDisassemble,config,アイテムを解体する時に確認ダイアログを表示する,Show warning when disassembling an item
 rideSetting,config,騎乗表示,Display Mount
-rideOption1,config,常に表示,"Always show "
+rideOption1,config,常に表示,Always show 
 rideOption2,config,室外でのみ表示,Show only on the exterior
 rideOption3,config,騎乗グラフィックを表示しない,Don't show
 zoomToMouse,config,カーソル位置にズーム,Zoom to cursor
-_configOf,"config ",#1の設定,#1 Config
-backerContent,"config ",バッカーコンテンツとムーンゲート,Backer Contents and Moongate
+_configOf,config ,#1の設定,#1 Config
+backerContent,config ,バッカーコンテンツとムーンゲート,Backer Contents and Moongate
 extraRace,config,追加の種族と職業,Extra Races and Classes
 extraRaceAll,config,さらなる追加の種族と職業,More extra races and classes
 extraRace_tip,config,"熟練冒険者向けのエキストラ種族と職業が選択できるようになります。
@@ -727,7 +727,7 @@ tRepeat,craft,"設定がオンの場合、製作対象の所持数が指定個�
 また、このタスクは削除するまで残り続けます。","When turned on, the item is crafted until  the stock reaches the designated number.
 This task will remain until manually deleted."
 dateDay,date,#1日,#1 Day#(s)
-dateDayVoid,date," - "," - "
+dateDayVoid,date, - , - 
 dateHour,date,#1時間,#1 Hour#(s)
 dateSchedule,date,#1 #2日,#1 #2
 dateYearMonthDay,date,#1年 #2月#3日,"#2/#3, #1"
@@ -838,7 +838,7 @@ yesAndSkip,dialog,ああ （以降確認をスキップ）,Yes. (Skip further co
 disableMove,drama,ここで待機して欲しい,I want you to wait here.
 enableMove,drama,もう待機する必要はない,You can move now.
 bye,drama,さようなら,Bye.
-hintDeadline,drama," <size=14>(残り#1)</size>"," <size=14>(#1 left)</size>"
+hintDeadline,drama, <size=14>(残り#1)</size>, <size=14>(#1 left)</size>
 daAccept,drama,承諾する,I accept.
 daMakeHome,drama,この土地に移住して欲しい,Migrate to this land.
 daShutup,drama,黙らせる,Shut up.
@@ -891,7 +891,7 @@ daFood,drama,食事をとる,Bring me something to eat.
 daGive,drama,贈る,I have something for you.
 daGoto,Drama,#1を知っているか？ (#2),Do you know #1? (#2)
 daGotoGuide,Drama,#1,Where is #1?
-daNews,drama,耳寄りな情報はないか？,"Any good news to share? "
+daNews,drama,耳寄りな情報はないか？,Any good news to share? 
 daHeal,drama,治療して欲しい,I need healing.
 daHire,drama,雇いたい,You are hired.
 daBloom,drama,#1との絆を深める,I want to deepen my bond with #1.
@@ -1181,7 +1181,7 @@ isPermaGene,info,それは劣性遺伝子では回収できない。,It cannot b
 isCostFeatPoint,info,それはフィートポイントを#1使用する。,It uses #1 feat point#(s).
 isConsumeElectricity,info,それは#1㎿の電力を消費する。,It consumes #1㎿ of electricity.
 isGenerateElectricity,info,それは#1㎿の電力を発電する。,It generates #1㎿ of electricity.
-isMixedBy,info," (by #1)"," (by #1)"
+isMixedBy,info, (by #1), (by #1)
 isMixedFood,info,中身,Inside
 isCrafted,info,それはあなたにより作られた。,It is made by you.
 isLocked,info,それには鍵がかけられている。,It is locked.
@@ -1209,7 +1209,7 @@ isAcidproof,info,それは酸で傷つかない。,It is acidproof.
 isCategorized,info,それは#1に分類される。,It is categorized as #1.
 isUseSkill,info,それは#1と#2の技能を使用する。,It uses #1 and #2 skills.
 isChildOf,info,(#1の中),(In #1)
-isHarvestCrop,info,それは最大#1個の作物を実らせる。,"It can yield up to #1 crop#(s). "
+isHarvestCrop,info,それは最大#1個の作物を実らせる。,It can yield up to #1 crop#(s). 
 isConsumeFertility,info,それは肥沃度を#1消費する。,It consumes land's fertility by #1.
 isGrowOnLand,info,それは地上で育てることができる。,It can be grown on land.
 isGrowUndersea,info,それは海底で育てることができる。,It can be grown on seafloor.
@@ -1263,8 +1263,8 @@ isGraveSkin,info,それは稀にあなたの墓を変化させる。,It somtimes
 isCraftedAt,info,それは#1で製作できる。,It can be crafted at #1.
 isCollected,info,それは既に収集済みだ。,It is already collected.
 mentalOk,info,精神に特に異常はない。,Mental seems ok.
-rotten,info,腐った,"rotten "
-rotting,info,腐りかけた,"stale "
+rotten,info,腐った,rotten 
+rotting,info,腐りかけた,stale 
 textEnc,info,それは#1を#2#3。,It #3 your #1 by #2.
 textEnc2,info,#1 #2,#1 #2
 textEncSkill,info,それは#1の技術を#3。,It #3 your skill of #1.
@@ -1273,7 +1273,7 @@ hintCon,info,#2ターンの#1を付与する,Apply #1 for #2 turns
 hintCon2,info,#1を付与する,Apply #1
 hintDefenseAttb,info,対象の#1により効果は軽減される,Effectiveness is reduced by target's #1
 hintNullify,info,#1を無効化,Nullify #1
-hintStrife,info,"Lv.#1 (#2) ",Lv.#1 (#2) #3 damages to physical attacks
+hintStrife,info,Lv.#1 (#2) ,Lv.#1 (#2) #3 damages to physical attacks
 hintStrife2,info,物理攻撃のダメージを#1%上昇し、#2%のダメージ限界突破を付与,+#1% increased physical damage and +#2% damage limit
 hintStrife3,info,効果は味方にも適用される,The effects also apply to your allies
 hintDOT,info,#1の#2の瘴気,Suffer a #1 #2 miasma
@@ -1314,7 +1314,7 @@ invHoldFurniture,inv,持つ(家具),Hold(Furniture)
 invIdentify,inv,鑑定,Identify
 invInteraction1,inv,#1個#3#2,#3 #1 #2
 invInteraction2,inv,#2,#2
-invInteraction3,inv," (#2 x #1)"," (#1 #2#(s))"
+invInteraction3,inv, (#2 x #1), (#1 #2#(s))
 invItem,inv,使う,Use
 invLighten,inv,軽量化,Reduce Weight
 invRoll,inv,回す,Roll
@@ -1349,9 +1349,9 @@ invUse,inv,使う,Use
 invBury,inv,埋葬する,Bury
 selectItem,inv,アイテムの選択,Item Selection
 takeAll,inv,全て取る (#1),Take All (#1)
-bsBlessed,item,祝福された,"blessed "
-bsCursed,item,呪われた,"cursed "
-bsDoomed,item,堕落した,"doomed "
+bsBlessed,item,祝福された,blessed 
+bsCursed,item,呪われた,cursed 
+bsDoomed,item,堕落した,doomed 
 listKeyItem,journal,大切なものの一覧,List of Key Items
 keyItem,journal,大切なもの,Key Items
 gallery,journal,画集,Gallery
@@ -1499,11 +1499,11 @@ research,menu,研究,Research
 resource,menu,物資,Resource
 toGlobalMap,menu,グローバルマップ,Global Map
 world,menu,世界,World
-equipped,naming,"【装備中】 ","【Equipped】 "
+equipped,naming,【装備中】 ,【Equipped】 
 equippedItem,naming,【装着】,【Equipped】
-equippedOther,naming,"(装備中) ","(Equipped) "
+equippedOther,naming,(装備中) ,(Equipped) 
 installed,naming,*,*
-stored,naming," (ストック)"," (Stocked)"
+stored,naming, (ストック), (Stocked)
 nPlaylist,nerun,ねっここっねこ♪,La la la~♪
 Build,palette,建設,Build
 cancelPlan,palette,タスクのキャンセル,Cancel Plan
@@ -1540,7 +1540,7 @@ popDeliver,pop,宅配物: #1,Delivery: #1
 popDead,pop,死亡: #1,Death: #1
 popDing,pop,成長: #1 (#2 #4),Skill Up: #1 (#2 #4)
 popResourceLV,pop,資源Lv: #1 #3 > #2,Resource Lv: #1 #3 > #2
-reportWork,pop,納入: #1 #2,"Delivery: #1 #2 "
+reportWork,pop,納入: #1 #2,Delivery: #1 #2 
 rewardDepartment,pop,#1の解放,Open #1
 rewardElement,pop,フィート「#1」 +#2,"Feat ""#1"" +#2"
 rewardPlan,pop,計画書「#1」,"Research Plan ""#1"""
@@ -1548,8 +1548,8 @@ rewardPolicy,pop,ポリシー「#1」,"Policy ""#1"""
 rewardRecipe,pop,「#1」のレシピ,"A recipe of ""#1"""
 foundTreasure,pop,宝探し成功: #1,Treasure Found: #1
 daysLeft,quest,# 日,# d
-supplyInInv,quest,(所持),"(In possession) "
-supplyNotInInv,quest,(未所持),"(Not in possession) "
+supplyInInv,quest,(所持),(In possession) 
+supplyNotInInv,quest,(未所持),(Not in possession) 
 target_huntRace,quest,主な対象:,Target Candidate:
 progressDebt,quest,借金: 残り #1,Debt: #1 left
 progressVernis,quest,巨大な岩: 残り#1個,Remaining huge rocks: #1
@@ -1591,7 +1591,7 @@ rNoReport,report,特に報告はない。良いことだ！,There is nothing to 
 rNoWork,report,#1には仕事ができる環境が必要だ。,#1 needs a working environment.
 rElecOver,report,電力が足りない。発電設備が必要だ。,Electricity is in short supply. We need power generators.
 rPopOver,report,住人の数が多すぎる。仕事をサボりださないか心配だ。,There are too many residents. Some might start to slack off at work.
-rSoilOver,report,植物が多すぎて土地が枯れている。このままでは作物の収穫に悪影響があるだろう。,"Too many plants on this land. The crop yield will be negatively affected. "
+rSoilOver,report,植物が多すぎて土地が枯れている。このままでは作物の収穫に悪影響があるだろう。,Too many plants on this land. The crop yield will be negatively affected. 
 rRankUpBranch,report,コムのランクがあがった！,Our comm's rank goes up!
 rRankUpResource,report,#1のランクがあがった！,#1 rank has been increased!
 rRanOut,report,#1が底を尽きた！,We ran out of #1!
@@ -1699,11 +1699,11 @@ titleSub,title,- エリン宿 -,- Eternal League of Nefia -
 abilityLv,topic,熟練,Level
 abilityToggle,topic,有効,Enable
 cost,topic,コスト,Cost
-mark_ing,,"※ ","※ "
+mark_ing,,※ ,※ 
 reqIng,topic,必要素材: #1,Req: #1
 reqQuality,topic,品質,Quality
 reqSkill,topic,使用スキル,Used Skill
-reqSkill2,topic,使用スキル: #1 #2 (現在 #3),"Used Skill: #1 #2 (Currently #3) "
+reqSkill2,topic,使用スキル: #1 #2 (現在 #3),Used Skill: #1 #2 (Currently #3) 
 craftFuel,craft,燃料: #1%,Fuel: #1%
 qualityMet,craft,#1,#1
 qualityNotEnough,craft,粗悪品,Poor Quality
@@ -1712,7 +1712,7 @@ ingCat,craft,#1(カテゴリ),#1(category)
 traitRecipeBook,trait,読むことでレシピを習得できる。,New recipes will be revealed when read.
 u2_casino_coin,unit,<size=12>カジノチップ </size>#1<size=12>枚</size>,#1 casino chip
 u2_gacha_coin,unit,<size=12>異国の銅貨 </size>#1<size=12>枚</size>,#1 strange copper coin
-u_money,unit,オレン," oren#(s)"
+u_money,unit,オレン, oren#(s)
 u2_money,unit,#1<size=12>オレン</size>,#1 oren#(s)
 u_plat,unit,プラチナ硬貨,plat
 u2_plat,unit,<size=12>プラチナ硬貨 </size>#1<size=12>枚</size>,#1 plat#(s)
@@ -1870,7 +1870,7 @@ ageRange,,年齢,Age
 alias,,異名,Alias
 all,,全て,All
 alreadyLearned,,(習得済み),(Learned)
-notLearned,,"(未習得) ",(Not Learned)
+notLearned,,(未習得) ,(Not Learned)
 altRoof,,丸屋根,Round Roof
 alwaysShowInvBG,,常にインベントリの背景を表示,Always show inventory background
 alwaysTilt,,常にチルト,Always Tilt
@@ -1918,7 +1918,7 @@ changeAreaType,,タイプを変更,Change Type
 changeGroup,,グループ変更,Change group
 changeName,,名前を変える,Change name
 changeTitle,,呼称の変更,Change Title
-childCount,," (#1個の中身)"," (#1 item#(s) inside)"
+childCount,, (#1個の中身), (#1 item#(s) inside)
 chronicleDate,,#1年 #2/#3,#1 #3/#2
 Cinema,,シネマモード,Cinema Mode
 claimBed,,ベッドを占拠する,Claim Bed
@@ -1939,18 +1939,18 @@ _egg,,#1の卵,egg of #1
 costHire,,(コスト 権力 #1),(Cost: #1 Power)
 credit,,クレジット,Credit
 culture,,文化,Culture
-currentSave,,(現世界)," (Current)"
+currentSave,,(現世界), (Current)
 dad,,父親,Father
 dailyIncome,,/日,/Day
-noDeadLine,,(無期限)," (No Deadline)"
-dangerLv,," (危険度 #1階相当)"," (Danger Lv.#1) "
+noDeadLine,,(無期限), (No Deadline)
+dangerLv,, (危険度 #1階相当), (Danger Lv.#1) 
 dateFound,,創設日,Foundation
 Dawn,,夜明け,Dawn
 Day,,日中,Daytime
 agree,,同意する,Agree
 disagree,,拒否する,Disagree
 days1,,残り,
-days2,,日," day(s) left"
+days2,,日, day(s) left
 deadline,,期日,Remaining Time
 debug,,Debug,Debug
 decoFix,,壁装飾の高さ調整,Adjust Deco Height
@@ -2027,7 +2027,7 @@ exTraining,,修行の旅,training
 extroversion,,外向性,Extroversion
 factory_fire,,熱源,Fire source
 faithUnavailable,,（睡眠中）,(Sleeping)
-fav,,"読み込み ",Load Fav
+fav,,読み込み ,Load Fav
 favgift,,好物: #1と#2,Favorites: #1 and #2
 favgift2,,好物,Favorites
 featStage,,#1段階,Stage #1
@@ -2128,7 +2128,7 @@ maxCapacity,,容量/最大,Capacity/Max
 medal,,小さなメダル,Small Medal
 memberDefault,,住人,residents
 memberLivestock,,家畜,livestocks
-MENU,,メニュー," Menu"
+MENU,,メニュー, Menu
 modPotential,,#1のベース潜在能力#2,#2 #1 Base Potential
 modValue,,#1 #2,#2 #1
 modValueRes,,#1#2,#1#2
@@ -2158,7 +2158,7 @@ noRecipe,,レシピ不明,Unknown Recipe
 noRoof,,屋根省略,No Roof
 notifyAddThing,,#1 (#2),#1 (#2)
 ok,,はい,Ok
-otherCards,," (他+#1)"," (+#1 other item#(s))"
+otherCards,, (他+#1), (+#1 other item#(s))
 ownedRoom,,#1の部屋,#1's Room
 pc_deathChoice,,あともう少しで埋葬される…,You are about to buried...
 pc_gameover,,埋まる,Buried
@@ -2271,7 +2271,7 @@ stockCapacity,,容量,Cap.
 stPersonal,,プライベート,Private
 stShared,,共有,Shared
 subBar,,サブバー,Sub Bar
-subExpedition,," #1～#2日"," #1 to #2 days"
+subExpedition,, #1～#2日, #1 to #2 days
 surface,,地上,Surface
 tabTravel1,,周辺地域,Neighbor Areas
 tabTravel2,,ポータル,Portals
@@ -2332,20 +2332,20 @@ useAbility,,使う,Use
 vTargeting,,対象,Target
 vRelative,,関連能力,Attribute
 vLevel,,レベル,Level
-vBase,,"基本値: ","Base Value: "
+vBase,,基本値: ,Base Value: 
 vCurrent,,現在値,Current
-vEst,,"一日の収入予測: ","Daily Estimated Gain: "
+vEst,,一日の収入予測: ,Daily Estimated Gain: 
 vExp,,経験値,Exp
 visitCount,,訪問回数,Visits
-vLast,,"前日: ","Last Day: "
-vLink,,"修正値: ","Mod Value: "
-vMaxRank,,"最大ランク: ","Max Rank: "
+vLast,,前日: ,Last Day: 
+vLink,,修正値: ,Mod Value: 
+vMaxRank,,最大ランク: ,Max Rank: 
 vValue,,#1 <size=12>(ベース #2)</size>,#1 <size=12>(Base #2)</size>
 vPotential,,潜在能力,Potential
 vPower,,パワー,Power
 vStock,,ストック: #1,Stock: #1
-vRank,,"ランク: ","Rank: "
-vTarget,,"目標値: ","Target Value: "
+vRank,,ランク: ,Rank: 
+vTarget,,目標値: ,Target Value: 
 wallAdjustment,,壁の高さ調整,Adjust Wall Height
 wallDeco,,壁装飾(基礎),Wall Deco(Foundation)
 wallDeco2,,壁装飾,Wall Deco
@@ -2406,7 +2406,7 @@ cat_defense,,防,Def
 cat_util,,補助,Util
 cat_ability,,能力,Ability
 cat_favAbility,,★,★
-context_checker,,"<color=teal>★</color> ","<color=teal>★</color> "
+context_checker,,<color=teal>★</color> ,<color=teal>★</color> 
 formNote,feedback,"<b>フィードバックをありがとうございます！</b>
 
 ・Modの製作者様には申し訳ないのですが、ゲームの更新が頻繁に行われているため、Modのバージョンが古くなると表示が乱れたりエラーが出ることがあります。ゲームの挙動がおかしい場合、一度Modを外して起動してみてください。 
@@ -2443,9 +2443,9 @@ nameBraced,feedback,#2『#1』,『#1』 #2
 formSave,feedback,セーブデータの添付 (参考、再現できるデータがある場合),Attach a save data (if reference or reproducible data is available)
 formScreenshot,feedback,現在のゲーム画面のスクリーンショットを添付,Attach a screenshot of the current game screen
 formUpload,feedback,送信中...,Uploading...
-"form_Bug ",feedback,"バグ、グリッチ、誤字 ","Bugs, Glitches, Typos"
-"form_Glitch ",feedback,マ゙マ゙ァー,Ma..maa...
-"form_Feedback ",feedback,フィードバック、感想,"Feedback, suggestions"
+form_Bug ,feedback,バグ、グリッチ、誤字 ,"Bugs, Glitches, Typos"
+form_Glitch ,feedback,マ゙マ゙ァー,Ma..maa...
+form_Feedback ,feedback,フィードバック、感想,"Feedback, suggestions"
 hideDepletedSpell,,ストックが枯渇した魔法を非表示,Hide depleted spells
 sys_uploadConflict,system,同じIDのマップが存在し、パスワードが一致しない,"A map of the same ID exists,and the password does not match."
 sys_uploadStart,system,アップロードを開始・・・,Started uploading...
@@ -2529,7 +2529,7 @@ TargetTypeParty,target,パーティー,Party
 castChance,,成功率,Chance
 pref_keepMusic,,演奏時に自動的に演奏を継続する,Automatically keep playing instrument while performing
 pref_pickFish,,釣り時に自動的に釣果を拾う,Automatically pick fish when fishing
-pref_autoEat,,グローバルマップで空腹時に自動的に食事をとる,"Automatically eat when hungry on the global map "
+pref_autoEat,,グローバルマップで空腹時に自動的に食事をとる,Automatically eat when hungry on the global map 
 tactics,,作戦,Strategy
 tactics_ally,,仲間の作戦,Ally Strategy
 tactics_pref,,個人設定,Preference
@@ -2573,21 +2573,21 @@ higherGround,,<size=14> (高所)</size>,<size=14> (Higher Ground)</size>
 lowerGround,,<size=14> (低所)</size>,<size=14> (Lower Ground)</size>
 fertilized,,(肥沃),(Fertilized)
 defertilized,,(成長抑制),(Defertilized)
-recipe_learnt,craft,(習得済みx#1)," (Learned x#1)"
+recipe_learnt,craft,(習得済みx#1), (Learned x#1)
 _recipe_lv,craft,レシピLv: #1,Recipe Lv #1
 _max_quality,craft,最大品質: #1,Max Quality #1
 tipToggleHotbar,help,ボタンを押してホットバーのページを切り替え,Press this button to switch hotbar page
 tipBackpack,help,所持品,Inventory
 tipAbility,help,アビリティ,Ability
 sender_header,,差出人：#1,Sender: #1
-sender_unknown,,不明,"Unknown "
+sender_unknown,,不明,Unknown 
 sender_post,,#1郵便局,#1 Post Office
 startMode,embark,プロローグ,Prologue
 shipping_info,,#2を#1オレンで出荷した。,Shipped #2 for #1 oren#(s).
 questLimit,quest,進行中の依頼 #1/#2,Quests Taken #1/#2
 parcel_mysiliaGift,,ミシリアからの返礼品,Token from Mysilia
 parcel_salary,,給与,Salary
-questSupplyOwned,quest,(所持),"(In possession) "
+questSupplyOwned,quest,(所持),(In possession) 
 priority_hint,,優先度(高いほど優先),Priority (Higher=More Priority)
 efficiency,,仕事効率,Efficiency
 foodHuman,food,【人肉】,【Human Flesh】
@@ -2597,7 +2597,7 @@ hotActionSleep,hotbar,バックパックのベッドを使う,Use bed in invento
 updateEQ,hotbar,装備セットを更新,Update Equipment Set
 missingEQ,hotbar,(見つからない装備品),(Missing Equipment)
 EQSet,hotbar,装備セット,Equipment Set
-WindowLayout,hotbar,UIレイアウト,"UI Layout "
+WindowLayout,hotbar,UIレイアウト,UI Layout 
 updateLayout,hotbar,UIレイアウトを更新,Update UI Layout
 hotActionWindowLayout,hotbar,現在のUIレイアウトを記憶,Save Current UI Layout
 memo_blank,widget,* ここにメモを残せる,* Leave your notes here
@@ -2636,14 +2636,14 @@ gameWait_duration,config,ウエイト時間,Wait Time
 waitOnMelee,config,近接攻撃時にウエイト,Wait On Melee Attack
 waitOnRange,config,射撃時にウエイト,Wait On Ranged Attack
 waitOnDebuff,config,デバフ時にウエイト,Wait On Debuff
-bossLevel,widgetDate,"  <color=#FFCC88>#1の討伐</color>","  <color=#FFCC88>Slay #1</color>"
-defenseWave,widgetDate,"  <color=#FFFF88>敵陣第#1波 危険度#3</color> (#2体殺害)","  <color=#FFFF88>Enemy Wave #1 Lv.#3</color> (#2 kill#(s2))"
-defenseRetreat,widgetDate," <color=#88FF88>撤退可能！</color>"," <color=#88FF88>Retreat Possible!</color>"
-defenseRetreating,widgetDate," <color=#AAFFFF>撤退中！</color>"," <color=#FFFF88>Retreating!</color>"
-defenseAlly,widgetDate," <color=#AACCFF>援軍要請可能</color>"," <color=#AAAAFF>Reinforcement Available</color>"
-eventWedding,widgetDate,"  <color=#A5FFEF>参列者: #2　#1</color>","  <color=#A5FFEF>Attendees: #2　#1</color>"
-eventMusic,widgetDate,"  <color=#A5FFEF>得点: #2 / #3　#1</color>","  <color=#A5FFEF>Score: #2 / #3　#1</color>"
-eventHarvest,widgetDate,"  <color=#A5FFEF>納入した作物: #2 / #3　#1</color>","  <color=#A5FFEF>Delivered: #2 / #3　#1</color>"
+bossLevel,widgetDate,  <color=#FFCC88>#1の討伐</color>,  <color=#FFCC88>Slay #1</color>
+defenseWave,widgetDate,  <color=#FFFF88>敵陣第#1波 危険度#3</color> (#2体殺害),  <color=#FFFF88>Enemy Wave #1 Lv.#3</color> (#2 kill#(s2))
+defenseRetreat,widgetDate, <color=#88FF88>撤退可能！</color>, <color=#88FF88>Retreat Possible!</color>
+defenseRetreating,widgetDate, <color=#AAFFFF>撤退中！</color>, <color=#FFFF88>Retreating!</color>
+defenseAlly,widgetDate, <color=#AACCFF>援軍要請可能</color>, <color=#AAAAFF>Reinforcement Available</color>
+eventWedding,widgetDate,  <color=#A5FFEF>参列者: #2　#1</color>,  <color=#A5FFEF>Attendees: #2　#1</color>
+eventMusic,widgetDate,  <color=#A5FFEF>得点: #2 / #3　#1</color>,  <color=#A5FFEF>Score: #2 / #3　#1</color>
+eventHarvest,widgetDate,  <color=#A5FFEF>納入した作物: #2 / #3　#1</color>,  <color=#A5FFEF>Delivered: #2 / #3　#1</color>
 end_soon,widgetDate,*終了間近*,*Ending Soon*
 shrine_armor,,祠《堅牢》,shrine 《Armor》
 shrine_replenish,,祠《休息》,shrine 《Replenish》
@@ -2703,9 +2703,9 @@ landfeat,,土地の特徴,Land Trait
 feat_network,,#1(ネットワーク),#1(Network)
 contentLv,,危険度,Danger
 landfeat_locked,,(未解放),(Not Unlocked)
-forSale,," *売り出し中* (#1)"," *For Sale* (#1)"
-forSale2,," *中のものを販売* "," *For Sale Inside* "
-soldOut,," *売り切れ中(#1)* "," *#1 Sold Out* "
+forSale,, *売り出し中* (#1), *For Sale* (#1)
+forSale2,, *中のものを販売* , *For Sale Inside* 
+soldOut,, *売り切れ中(#1)* , *#1 Sold Out* 
 tourism_value,,観光価値,Tourism Value
 heirloom_list,,家宝一覧(最大 #1),Heirlooms (Max #1)
 activeFor,,(#1日間実施中),(Active for #1 day#(s))
@@ -2768,7 +2768,7 @@ petawaken2,,「絆の覚醒」の条件を満たしている。,"The conditions 
 nextRestock,,#1 <size=14>(次回入荷 #2後)</size>,#1 <size=14>(#2 till next restock)</size>
 important_on,,大事なものに指定する,Mark as important
 important_off,,大事なものの指定を外す,Unmark as important
-ticketNotIntended,," *交換非推薦品"," *Not Intended For Exchange"
+ticketNotIntended,, *交換非推薦品, *Not Intended For Exchange
 exmine_item,,(#1キーで詳細を表示),(Press #1 to examine)
 toggleSnowTexture,,積雪切り替え,Toggle Snow
 traitOther,,(その他#1個の特性),(#1 other traits)
@@ -2786,16 +2786,16 @@ hint_TraitToolWaterCan2,,それは水を撒くことができる。,It can water
 hint_TraitBroom,,それは地面を掃除することができる,It can clean the ground.
 hint_TraitToolWaterPot,,それは水を汲むことができる。,It can fetch water.
 hint_TraitToolWaterPot2,,それは水場を生成することができる,It can create a water source.
-conquered,," *制覇* "," *Conquered* "
-qualityLimit,," (最大 #1)"," (Max #1)"
+conquered,, *制覇* , *Conquered* 
+qualityLimit,, (最大 #1), (Max #1)
 noResult,,一致する情報が見つかりません,No matching information was found.
 maxResult,,（50件以上の検索結果は省略されます）,(Results exceeding 50 items are omitted.)
 version,,バージョン,Version
 date_game,,ゲーム時間,Game Date
 date_real,,現実時間,Real Date
-demo,," (体験版)"," (Demo)"
-hasBounty,," <color=#AAFFAA>(賞金首)</color> "," (Wanted!) "
-milkBaby,," <color=#AAFFAA>(幼児)</color> "," (Baby) "
+demo,, (体験版), (Demo)
+hasBounty,, <color=#AAFFAA>(賞金首)</color> , (Wanted!) 
+milkBaby,, <color=#AAFFAA>(幼児)</color> , (Baby) 
 feat_reset,,成長をリセット,Reset Growth
 dna_Inferior,,劣性,inferior
 dna_Superior,,優性,superior
@@ -2812,7 +2812,7 @@ order_heal,,命を大事に！,Heal yourself!
 order_ally,,命令,Order
 removeAllCloth,,全て脱がす,Undress
 trackCraft_title,widget,#1のレシピ (#2),Recipe of #1 (#2)
-trackCraft_met,widget,"〇 ","〇 "
+trackCraft_met,widget,〇 ,〇 
 distFilter,,単語でフィルター,Word Filter
 distFilter2,,<color=teal>★</color> 単語でフィルター (#1),<color=teal>★</color> Word Filter (#1)
 distFilter3,,"指定した単語が含まれたアイテムが振り分け対象になる。
@@ -2944,8 +2944,8 @@ affinity_exp_bonus,,"あなたとの関係は「#1」。
 <size=12>(#2% フィート経験値)</size>","Grown ""#1"" with you.
 <size=12>(#2% Feat Exp)</size>"
 daystogether_bonus,,<size=12>(#1% 全成長)</size>,<size=12>(#1% All Growth)</size>
-raid_till,," 襲撃Lv.#1"," Raid Level: #1"
-raid_ongoing,," *襲撃中*"," *Raid*"
+raid_till,, 襲撃Lv.#1, Raid Level: #1
+raid_ongoing,, *襲撃中*, *Raid*
 azaz,talk,ル＝ヴァ…シェ＝ヌル…アザルゥ＝ル…,LU-VHA... SHE-NUR... AZHARU-LU...
 contype_Stats,,状態,Condition
 contype_Neutral,,状態,Condition
@@ -2958,7 +2958,7 @@ contype_Stance,,スタンス,Stance
 contype_Sentense,,宣告,Sentence
 net_marriage,net,#1は#2で#3に永遠の愛を誓った。,#1 vowed eternal love to #3 in #2.
 history_marriage,,婚歴,Marriage History
-item_marriage,,"#1 (#2年#3月#5日 #4) ","#1 (#3/#5, #2 in #4)"
+item_marriage,,#1 (#2年#3月#5日 #4) ,"#1 (#3/#5, #2 in #4)"
 already_wed,,挙式済み,Already Wed
 party,,パーティー,Party
 disband,,解散,Disband

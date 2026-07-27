@@ -5,7 +5,7 @@ elin_valley,asseria,ラーナの森,Larna Forest,Zone,1,100,,0,,"start,test2",Pl
 cave_elona,ntyris,丘の洞窟,Hill Cave,Zone_StartSiteCave,1,100,,0,,cave_elona,Cave,Cave/cave1,,,0,0,default,"3,-22,374",,,,,
 kapul,ntyris,ポート・カプール,Port Kapul,Zone_Kapul,1,100,palmia,250000000,,kapul,Plain,,,light,0,243,default,"-16,-16,336",food/5,ポート・カプールが見える。港は船で賑わっている。,You see Port Kapul. The port is crowded with merchants.,,
 beach,ntyris,静かな砂浜,Quiet Beach,Zone_Beach,1,100,,5000,,beach,Plain,,,light,0,0,default,"-16,-21,313",,,,,
-elin_snow,asseria,大雪原,The Great Glacier,Zone,1,100,,0,,,Plain,,,,1,0,default,"77,-3,338",,,,メイルーンからさらに東に位置し、雪と氷以外何も存在しない極寒の地。,"A place once full of life. It was one of the Gardens of Elin.  "
+elin_snow,asseria,大雪原,The Great Glacier,Zone,1,100,,0,,,Plain,,,,1,0,default,"77,-3,338",,,,メイルーンからさらに東に位置し、雪と氷以外何も存在しない極寒の地。,A place once full of life. It was one of the Gardens of Elin.  
 elin_plain,asseria,カラナ平野,Karana Plains,Zone,1,100,,0,,,Plain,,,,10000,0,default,,,,,,
 elin_plain2,asseria,プリーザントビュー,Pleasantview,Zone,1,100,,0,,,Plain,,,,100,0,default,,,,,,
 elin_plain3,asseria,忘れられた庭,Lost Garden,Zone,1,100,,0,,,Plain,,,,0,0,default,"20,-23,336",,,,,

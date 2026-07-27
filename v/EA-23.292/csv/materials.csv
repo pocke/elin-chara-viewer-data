@@ -61,7 +61,7 @@ id,alias,name_JP,name,category,tag,thing,goods,minerals,decal,decay,grass,defFlo
 59,mahogany,マホガニー,mahogany,wood,,log,,,17,0,0,1,1,0,6,wood,wood,25,,2,1000,100,100,10,2,3,3,6,100,,rare/20,,
 60,rosewood,ローズウッド,rosewood,wood,,log,,,17,0,0,1,1,0,6,wood,wood,30,,3,1000,100,100,10,2,3,3,6,100,,,,
 61,ice,氷,ice,rock,ice,rock,,,19,0,0,38,35,0,6,glass,glass,15,,0,0,120,80,5,0,0,0,0,110,fire,,,
-62,straw,藁,straw,grass,straw,grass,,,7,0,0,36,34,0,6,straw,carpet,2,leather,0,1000,40,70,5,-1,-1,8,1,100,,"resCold/1,resFire/-2",farmwork,農作業用の
+62,straw,藁,straw,grass,straw,grass,,,7,0,0,36,34,0,6,straw,carpet,2,leather,0,1000,40,70,5,-1,-1,8,1,100,,"resCold,resFire/-2",farmwork,農作業用の
 63,cedar,杉,cedar,wood,,log,,,17,0,0,1,1,0,6,wood,wood,20,,0,1000,100,100,10,2,3,3,6,100,,,,
 64,soil_mystic,神秘的な土,mystic soil,soil,"soil,farm",chunk,,,9,0,65,35,1,2,3,mud,dirt,2,,0,1000,100,100,1,0,0,0,0,100,,,,
 65,grass_mystic,神秘的な草,mystic grass,grass,farm,grass,,,7,0,0,35,1,1,3,grass,dirt,2,,1,1000,100,100,3,0,0,0,0,100,,,,
@@ -93,24 +93,24 @@ id,alias,name_JP,name,category,tag,thing,goods,minerals,decal,decay,grass,defFlo
 91,hemp,麻,hemp,fiber,,fiber,,,15,0,0,1,1,0,6,leather,carpet,2,leather,0,1000,60,90,6,1,1,7,14,100,,rare/-10,tough,強靭なる
 92,willow,柳,willow,wood,,log,,,17,0,0,1,1,0,6,wood,wood,20,,3,1000,100,100,12,2,3,3,6,100,,cute/20,,
 93,cherryblossom,桜,cherryblossom,wood,coral,log,,,17,0,0,1,1,0,6,wood,wood,20,,4,1000,100,100,20,2,3,3,6,100,,"cute/10,comfort/20",,
-94,process,加工物,processed food,organic,food,fragment,,,2,0,0,1,1,0,6,leather,,1,,0,1000,100,100,10,0,0,0,0,100,,nutrition/1,,
+94,process,加工物,processed food,organic,food,fragment,,,2,0,0,1,1,0,6,leather,,1,,0,1000,100,100,10,0,0,0,0,100,,nutrition,,
 95,carbone,炭,carbon,wood,carbone,log,,,17,0,0,1,1,0,6,wood,wood,20,,1,1000,100,100,6,2,3,3,6,100,fire,,,
 96,poplar,ポプラ,poplar,wood,,log,,,7,0,0,1,1,0,6,wood,wood,20,,1,1000,100,100,10,2,3,3,6,100,,,,
 97,sand_sea,海砂,sea sand,soil,"soil,sand,farm",chunk,,,11,0,0,33,33,3,6,mud,sand,3,,0,1000,50,80,1,-5,-5,-5,-5,100,fire,,,
 98,bamboo,竹,bamboo,wood,bamboo,log,,,17,0,0,1,1,0,6,wood,wood,35,,3,1000,100,100,16,2,3,3,6,100,,comfort/10,,
 99,amethyst,アメジスト,amethyst,crystal,,fragment,,,13,0,0,1,1,0,6,glass,glass,72,metal,3,1000,90,250,38,14,26,10,18,200,fire,"CHA/3,resMind/3",bewitching,妖艶なる
-100,feywood,フェイウッド,feywood,wood,coral,log,,,17,0,0,1,1,0,6,wood,wood,60,,4,1000,80,100,28,12,5,16,5,140,,"comfort/10,rare/30,encSpell/5,resMagic/1",,
+100,feywood,フェイウッド,feywood,wood,coral,log,,,17,0,0,1,1,0,6,wood,wood,60,,4,1000,80,100,28,12,5,16,5,140,,"comfort/10,rare/30,encSpell/5,resMagic",,
 101,coralwood,コーラルウッド,coralwood,wood,coral,log,,,17,0,0,1,1,0,6,wood,wood,52,,3,1000,125,100,10,4,11,7,15,150,,"cute/20,breathing/10,slowCorruption/20,resSound/2,air/50",,
-102,rosequartz,ローズクオーツ,rose quartz,crystal,coral,fragment,,,13,0,0,1,1,0,6,glass,glass,65,metal,3,300,90,260,35,22,12,20,13,150,fire,"CHA/4,loving/1",lovely,愛らしい
-103,cream,生クリーム,fresh cream,water,food,dye,,,4,0,0,43,53,0,6,jelly,water,3,,0,1000,100,100,1,0,0,0,0,100,fire,nutrition/1,,
+102,rosequartz,ローズクオーツ,rose quartz,crystal,coral,fragment,,,13,0,0,1,1,0,6,glass,glass,65,metal,3,300,90,260,35,22,12,20,13,150,fire,"CHA/4,loving",lovely,愛らしい
+103,cream,生クリーム,fresh cream,water,food,dye,,,4,0,0,43,53,0,6,jelly,water,3,,0,1000,100,100,1,0,0,0,0,100,fire,nutrition,,
 104,amber,琥珀,amber,gem,,ore_gem,,,13,0,0,1,1,0,6,ore,stone,22,,0,250,80,150,14,10,8,9,8,110,,,,
 105,magma,マグマ,magma,water,,dye,,,4,0,0,43,53,0,6,jelly,water,8,,0,1000,100,100,1,0,0,0,0,100,fire,,,
-106,blood,血,blood,water,,dye,,,4,0,0,43,53,0,6,jelly,water,4,,0,1000,100,100,1,0,0,0,0,100,fire,nutrition/1,,
-107,obsidian_void,真なる黒曜,true obsidian,ore,,ore,,,11,0,0,1,1,0,6,rock,stone,220,"metal,leather",6,0,160,160,16,16,10,13,14,140,fire,"resChaos/3,bane_god/20","lawbreaking ",摂理を断つ
+106,blood,血,blood,water,,dye,,,4,0,0,43,53,0,6,jelly,water,4,,0,1000,100,100,1,0,0,0,0,100,fire,nutrition,,
+107,obsidian_void,真なる黒曜,true obsidian,ore,,ore,,,11,0,0,1,1,0,6,rock,stone,220,"metal,leather",6,0,160,160,16,16,10,13,14,140,fire,"resChaos/3,bane_god/20",lawbreaking ,摂理を断つ
 108,gold_elder,エルダーゴールド,elder gold,gem,,ore_gem,,,13,0,0,1,1,0,6,ore,stone,192,"metal,leather",6,0,260,400,34,13,18,14,22,140,"fire,acid","STR/3,rare/30",dusk,黄昏の
 109,orichalcum,オリハルコン,orichalcum,ore,,ore,,,11,0,0,1,1,0,6,ore,stone,136,metal,5,0,400,420,42,11,38,8,42,240,fire,END/3,unbreakable,砕けることなき
 110,steel_deep,深淵鋼,deep steel,ore,coral,ore,,,11,0,0,1,1,0,6,ore,stone,154,metal,5,0,270,200,21,12,13,8,18,140,"fire,acid",,abyssal,深淵を映す
-111,netherite,ネザライト,netherite,ore,coral,ore,,,11,0,0,1,1,0,6,ore,stone,129,metal,5,0,270,200,21,12,13,8,18,140,"fire,acid",,"infernal ",煉獄で鍛えられし
+111,netherite,ネザライト,netherite,ore,coral,ore,,,11,0,0,1,1,0,6,ore,stone,129,metal,5,0,270,200,21,12,13,8,18,140,"fire,acid",,infernal ,煉獄で鍛えられし
 112,eternity,永砂,eternal sand,crystal,,fragment,,,11,0,0,1,1,0,6,glass,glass,300,"metal,leather",7,0,80,650,48,8,45,35,8,250,,"SPD/5,corruption/10",infinite,無限の
 113,iron_unfading,うつろわざる鉄,unfading iron,ore,,ore,,,11,0,0,1,1,0,6,ore,metal,350,"metal,leather",7,0,260,150,14,8,8,3,14,135,fire,resFire/2,unfading,うつろわざる
 114,cloud,雲,cloud,fiber,,fiber,,,15,0,0,1,1,0,6,leather,carpet,2,leather,2,1,20,240,26,0,0,0,0,100,,,puffy,ふわふわの
