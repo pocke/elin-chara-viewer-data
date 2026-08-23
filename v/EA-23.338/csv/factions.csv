@@ -1,0 +1,13 @@
+id,name_JP,name,type,faith,domain,relation,textType_JP,textType,textAvatar,detail_JP,detail
+home,ホーム,Home,Faction,,,10000,,,,,
+wilds,野生,Wilderness,Faction,,,50,,,,,
+guild_fighter,戦士ギルド,Fighters Guild,GuildFighter,,,50,,,,,
+guild_thief,盗賊ギルド,Thieves Guild,GuildThief,,,50,,,,,
+guild_mage,魔術師ギルド,Mages Guild,GuildMage,,,50,,,,,
+guild_merchant,商人ギルド,Merchants Guild,GuildMerchant,,,50,,,,,
+yerl,イエル,Yerl,Faction,,,50,,,,,
+eulderna,エウダーナ,Eulderna,Faction,,,50,,,,,
+vindale,ヴィンデール,Vindale,Faction,,,50,,,,,
+council,ティリス議会,The Council,Faction,,,50,,,,,
+palmia,パルミア,Palmia,Faction,,,50,,,,,
+mysilia,ミシリア,Mysilia,Faction,,,50,,,,,
