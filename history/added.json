@@ -1,0 +1,1642 @@
+{
+  "schemaVersion": 1,
+  "versions": {
+    "EA-23.100": [
+      {
+        "key": "flower_chaos",
+        "ja": "カオスフラワー",
+        "en": "chaos flower"
+      },
+      {
+        "key": "geist",
+        "ja": "ポルターガイスト",
+        "en": "poltergeist"
+      },
+      {
+        "key": "impure_eye",
+        "ja": "不浄なる瞳",
+        "en": "impure eyes"
+      },
+      {
+        "key": "rogue",
+        "ja": "ならずもの ",
+        "en": "rogue"
+      }
+    ],
+    "EA-23.101": [
+      {
+        "key": "citizen_exile",
+        "ja": "追放者 ",
+        "en": "exile"
+      },
+      {
+        "key": "hand_drown",
+        "ja": "溺れる手",
+        "en": "hand of the drown"
+      },
+      {
+        "key": "hand_killer",
+        "ja": "殺人鬼の手",
+        "en": "hand of the murderer"
+      },
+      {
+        "key": "hand_magic",
+        "ja": "奇術師の手",
+        "en": "hand of the magician"
+      },
+      {
+        "key": "ungaga_pap",
+        "ja": "ミノタウロスの大王 《ウンゴゴ》",
+        "en": "minotaur king 《Ungogo》"
+      }
+    ],
+    "EA-23.102": [
+      {
+        "key": "dachshund",
+        "ja": "ダックスフンド",
+        "en": "dachshund"
+      },
+      {
+        "key": "fox_wild",
+        "ja": "野狐",
+        "en": "wild fox"
+      },
+      {
+        "key": "raccoon",
+        "ja": "アライグマ",
+        "en": "raccoon"
+      },
+      {
+        "key": "shamo",
+        "ja": "軍鶏",
+        "en": "fighting cock"
+      }
+    ],
+    "EA-23.103": [
+      {
+        "key": "hermitcrab_king",
+        "ja": "ヤドカーン",
+        "en": "king hermit crab"
+      },
+      {
+        "key": "mimic",
+        "ja": "ミミック",
+        "en": "mimic"
+      }
+    ],
+    "EA-23.104": [
+      {
+        "key": "mitra",
+        "ja": "ミトラ",
+        "en": "mitra"
+      },
+      {
+        "key": "varuna",
+        "ja": "ヴァルナ",
+        "en": "varuna"
+      }
+    ],
+    "EA-23.105": [
+      {
+        "key": "frog_fly",
+        "ja": "飛び蛙",
+        "en": "flying frog"
+      }
+    ],
+    "EA-23.109": [
+      {
+        "key": "fish_man",
+        "ja": "キモい魚",
+        "en": "weird fish"
+      }
+    ],
+    "EA-23.112": [
+      {
+        "key": "gomachan",
+        "ja": "アザラシ",
+        "en": "Seal"
+      },
+      {
+        "key": "turtle",
+        "ja": "亀",
+        "en": "turtle"
+      }
+    ],
+    "EA-23.113": [
+      {
+        "key": "sea_anemone",
+        "ja": "海のアネモネ",
+        "en": "sea anemone"
+      }
+    ],
+    "EA-23.114": [
+      {
+        "key": "baby",
+        "ja": "赤ちゃん ",
+        "en": "baby"
+      },
+      {
+        "key": "dragon_leafy---eleCold",
+        "ja": "リーフィーシードラゴン (冷気)",
+        "en": "leafy sea dragon (Cold)"
+      },
+      {
+        "key": "dragon_leafy---eleLightning",
+        "ja": "リーフィーシードラゴン (電撃)",
+        "en": "leafy sea dragon (Lightning)"
+      },
+      {
+        "key": "dragon_leafy---eleNerve",
+        "ja": "リーフィーシードラゴン (神経)",
+        "en": "leafy sea dragon (Nerve)"
+      },
+      {
+        "key": "quickling",
+        "ja": "クイックリング",
+        "en": "quickling"
+      }
+    ],
+    "EA-23.115": [
+      {
+        "key": "quickling_archer",
+        "ja": "クイックリングの弓使い",
+        "en": "quickling archer"
+      },
+      {
+        "key": "tacchan---eleCold",
+        "ja": "タッキー (冷気)",
+        "en": "seahorse (Cold)"
+      },
+      {
+        "key": "tacchan---eleFire",
+        "ja": "タッキー (火炎)",
+        "en": "seahorse (Fire)"
+      },
+      {
+        "key": "tacchan---eleLightning",
+        "ja": "タッキー (電撃)",
+        "en": "seahorse (Lightning)"
+      },
+      {
+        "key": "tacchan---eleMind",
+        "ja": "タッキー (幻惑)",
+        "en": "seahorse (Mind)"
+      },
+      {
+        "key": "tacchan---eleNerve",
+        "ja": "タッキー (神経)",
+        "en": "seahorse (Nerve)"
+      }
+    ],
+    "EA-23.116": [
+      {
+        "key": "balloonfish",
+        "ja": "ハリセンボン",
+        "en": "balloonfish"
+      },
+      {
+        "key": "jellyfish",
+        "ja": "クラゲ",
+        "en": "jellyfish"
+      },
+      {
+        "key": "snail_sea",
+        "ja": "海かたつむり",
+        "en": "sea snail"
+      }
+    ],
+    "EA-23.117": [
+      {
+        "key": "ika",
+        "ja": "クラーケンの赤子",
+        "en": "baby kraken"
+      },
+      {
+        "key": "tako",
+        "ja": "オクトパス",
+        "en": "octopus"
+      }
+    ],
+    "EA-23.118": [
+      {
+        "key": "shark",
+        "ja": "鮫",
+        "en": "shark"
+      }
+    ],
+    "EA-23.119": [
+      {
+        "key": "fish_angel",
+        "ja": "エンゼルフィッシュ",
+        "en": "angelfish"
+      },
+      {
+        "key": "fish_army",
+        "ja": "小魚",
+        "en": "small fish"
+      },
+      {
+        "key": "fish_coral",
+        "ja": "コーラルフィッシュ",
+        "en": "coralfish"
+      },
+      {
+        "key": "fish_kuma",
+        "ja": "クマノミ",
+        "en": "crownfish"
+      },
+      {
+        "key": "fish_piranha",
+        "ja": "ピラニア",
+        "en": "piranha"
+      },
+      {
+        "key": "fish_seabass",
+        "ja": "シーバス",
+        "en": "sea bass"
+      },
+      {
+        "key": "fish_xida",
+        "ja": "シダズーン",
+        "en": "xidazoon"
+      }
+    ],
+    "EA-23.121": [
+      {
+        "key": "mantis_shrimp",
+        "ja": "古代シャコ",
+        "en": "ancient mantis shrimp"
+      }
+    ],
+    "EA-23.122-patch-2": [
+      {
+        "key": "sealion_legend",
+        "ja": "一角獣",
+        "en": "sea lioncorn"
+      },
+      {
+        "key": "shark_sister",
+        "ja": "妹鮫",
+        "en": "younger sister shark"
+      }
+    ],
+    "EA-23.123": [
+      {
+        "key": "sea_worm",
+        "ja": "ウミミミズ",
+        "en": "sea worm"
+      }
+    ],
+    "EA-23.124": [
+      {
+        "key": "putty_water",
+        "ja": "水プチ",
+        "en": "water putit"
+      }
+    ],
+    "EA-23.125-patch-2": [
+      {
+        "key": "sister_shark",
+        "ja": "妹シャーク ",
+        "en": "younger shark sister"
+      }
+    ],
+    "EA-23.127": [
+      {
+        "key": "kraken",
+        "ja": "クラーケン",
+        "en": "kraken"
+      }
+    ],
+    "EA-23.129-patch-2": [
+      {
+        "key": "denkiunagi",
+        "ja": "電気ナマズ",
+        "en": "electrophorus"
+      }
+    ],
+    "EA-23.130": [
+      {
+        "key": "sahagin",
+        "ja": "サハギン",
+        "en": "sahagin"
+      },
+      {
+        "key": "shub_kid",
+        "ja": "シュブ＝ニグラスの落とし子",
+        "en": "offspring of Shub-Niggurath"
+      }
+    ],
+    "EA-23.131": [
+      {
+        "key": "elder_exile",
+        "ja": "追放者の長 『ビチェリン』",
+        "en": "elder exile 『Bicerin』"
+      },
+      {
+        "key": "sahagin_burglar",
+        "ja": "サハギン・バーグラー",
+        "en": "sahagin burglar"
+      },
+      {
+        "key": "yog",
+        "ja": "ミャクミャク",
+        "en": "myaku myaku"
+      }
+    ],
+    "EA-23.132": [
+      {
+        "key": "sahagin_sorcerer",
+        "ja": "サハギン・ソーサラー",
+        "en": "sahagin sorcerer"
+      }
+    ],
+    "EA-23.133": [
+      {
+        "key": "lurie_boss",
+        "ja": "飢えし暴君 『大食いトドゴン』",
+        "en": "Famished Tyrant 『Hungry Sea Ligon』"
+      }
+    ],
+    "EA-23.134": [
+      {
+        "key": "penguin",
+        "ja": "ペンギン",
+        "en": "penguin"
+      }
+    ],
+    "EA-23.135": [
+      {
+        "key": "golem_fish",
+        "ja": "岩石魚",
+        "en": "rock fish"
+      }
+    ],
+    "EA-23.135-patch-1": [
+      {
+        "key": "penguin_emperor",
+        "ja": "コウテイペンギン",
+        "en": "emperor penguin"
+      }
+    ],
+    "EA-23.136": [
+      {
+        "key": "scorpion_sea",
+        "ja": "ウミサソリ",
+        "en": "sea scorpion"
+      },
+      {
+        "key": "sister_penguin",
+        "ja": "妹ペンギン ",
+        "en": "younger penguin sister"
+      }
+    ],
+    "EA-23.144": [
+      {
+        "key": "cthaat",
+        "ja": "クタアト",
+        "en": "Cthaat"
+      },
+      {
+        "key": "tsunami",
+        "ja": "海嘯",
+        "en": "tidal wave"
+      }
+    ],
+    "EA-23.145": [
+      {
+        "key": "dagon",
+        "ja": "ダゴン",
+        "en": "Dagon"
+      },
+      {
+        "key": "triceratops",
+        "ja": "トリケラトプス",
+        "en": "triceratops"
+      }
+    ],
+    "EA-23.148": [
+      {
+        "key": "cat_sabre",
+        "ja": "サーベルタイガー",
+        "en": "saber tooth tiger"
+      }
+    ],
+    "EA-23.149": [
+      {
+        "key": "exile_girl",
+        "ja": "純白の法 『レイア』",
+        "en": "white law 『Leia』"
+      },
+      {
+        "key": "fairy_nanasu",
+        "ja": "小さな冒険家 『ナナス』",
+        "en": "little adventurer 『Nanasu』"
+      },
+      {
+        "key": "fairy_poina",
+        "ja": "毒手の 『ポイナ』",
+        "en": "venomous hand 『Poina』"
+      },
+      {
+        "key": "fairy_raina",
+        "ja": "天穿の 『ライナ』",
+        "en": "sky piercer 『Raina』"
+      }
+    ],
+    "EA-23.153": [
+      {
+        "key": "dragon_sea---eleCold",
+        "ja": "アイスサーペント",
+        "en": "ice serpent"
+      },
+      {
+        "key": "dragon_sea---eleDarkness",
+        "ja": "ダークサーペント",
+        "en": "dark serpent"
+      },
+      {
+        "key": "dragon_sea---eleFire",
+        "ja": "ファイアサーペント",
+        "en": "fire serpent"
+      },
+      {
+        "key": "dragon_sea---eleLightning",
+        "ja": "ライトニングサーペント",
+        "en": "lightning serpent"
+      }
+    ],
+    "EA-23.155": [
+      {
+        "key": "adv_yukiimo",
+        "ja": "「妹雪豹」",
+        "en": "「Younger snow leopard sister」"
+      }
+    ],
+    "EA-23.166": [
+      {
+        "key": "undine",
+        "ja": "ウンディーネ",
+        "en": "undine"
+      }
+    ],
+    "EA-23.167": [
+      {
+        "key": "jellyfish_deep",
+        "ja": "深海クラゲ",
+        "en": "deep jellyfish"
+      }
+    ],
+    "EA-23.168": [
+      {
+        "key": "squirrel_killer",
+        "ja": "殺人リス",
+        "en": "killer squirrel"
+      }
+    ],
+    "EA-23.169": [
+      {
+        "key": "ygolonac",
+        "ja": "イゴーロナク",
+        "en": "Y'golonac"
+      }
+    ],
+    "EA-23.171": [
+      {
+        "key": "bat_dragon",
+        "ja": "ドラゴンバット",
+        "en": "dragon bat"
+      },
+      {
+        "key": "bat_vampire",
+        "ja": "吸血コウモリ",
+        "en": "vampire bat"
+      }
+    ],
+    "EA-23.172": [
+      {
+        "key": "imolonac",
+        "ja": "イモーロナク",
+        "en": "Y'molonac"
+      },
+      {
+        "key": "mantis_killer",
+        "ja": "キラーマンティス",
+        "en": "killer mantis"
+      }
+    ],
+    "EA-23.174": [
+      {
+        "key": "caterpillar",
+        "ja": "イモムシ",
+        "en": "caterpillar"
+      }
+    ],
+    "EA-23.175": [
+      {
+        "key": "spider_tarantula",
+        "ja": "タランチュラ",
+        "en": "tarantula"
+      }
+    ],
+    "EA-23.176": [
+      {
+        "key": "mush_zombie",
+        "ja": "お化けきのこ",
+        "en": "monster mushroom"
+      }
+    ],
+    "EA-23.177": [
+      {
+        "key": "pursuer",
+        "ja": "《追跡者》",
+        "en": "《pursuer》"
+      },
+      {
+        "key": "skeleton_spartoi",
+        "ja": "竜牙兵",
+        "en": "dragon tooth warrior"
+      }
+    ],
+    "EA-23.178": [
+      {
+        "key": "lizardman_boxer",
+        "ja": "リザードマンの拳闘士",
+        "en": "lizardman boxer"
+      }
+    ],
+    "EA-23.179": [
+      {
+        "key": "fish_star",
+        "ja": "ヒトデ",
+        "en": "starfish"
+      }
+    ],
+    "EA-23.186": [
+      {
+        "key": "spider_paralyzer",
+        "ja": "パラライザー",
+        "en": "paralyzer"
+      },
+      {
+        "key": "spider_queen",
+        "ja": "闇の大蜘蛛",
+        "en": "dark spider queen"
+      },
+      {
+        "key": "spider_vampire",
+        "ja": "吸血蜘蛛",
+        "en": "vampire spider"
+      }
+    ],
+    "EA-23.190": [
+      {
+        "key": "doga",
+        "ja": "工場長 『ドーガ』",
+        "en": "Factory Chief 『Doga』"
+      },
+      {
+        "key": "tyche",
+        "ja": "気ままな傭兵 『ティケ』",
+        "en": "easygoing merc 『Tyche』"
+      },
+      {
+        "key": "vishnu",
+        "ja": "VTX-09 『VISHNU』",
+        "en": "VTX-09 『VISHNU』"
+      }
+    ],
+    "EA-23.191": [
+      {
+        "key": "larnneire",
+        "ja": "風を聴く者 『ラーネイレ』",
+        "en": "listener of wind 『Larnneire』"
+      },
+      {
+        "key": "lomias",
+        "ja": "異形の森の使者 『ロミアス』",
+        "en": "messenger from Vindale 『Lomias』"
+      }
+    ],
+    "EA-23.196": [
+      {
+        "key": "centaur_archer",
+        "ja": "ケンタウロスの弓使い",
+        "en": "centaur archer"
+      }
+    ],
+    "EA-23.201": [
+      {
+        "key": "mech_golem_a",
+        "ja": "魔甲兵 『ヒッグス』",
+        "en": "Magitek Trooper 『Higgs』"
+      },
+      {
+        "key": "mech_golem_b",
+        "ja": "魔甲兵 『ウィッジ』",
+        "en": "Magitek Trooper 『Widge』"
+      },
+      {
+        "key": "putty_mech",
+        "ja": "失敗作",
+        "en": "failure"
+      }
+    ],
+    "EA-23.202": [
+      {
+        "key": "minotaur_cook",
+        "ja": "カレー処《竜と香辛料》の亭主 『バンビィ』",
+        "en": "Lord of Curry House 《Dragons & Spices》 『Bambi』"
+      }
+    ],
+    "EA-23.203": [
+      {
+        "key": "mech_basher",
+        "ja": "バスティオン",
+        "en": "bastion"
+      }
+    ],
+    "EA-23.205": [
+      {
+        "key": "mech_scarab",
+        "ja": "スカラベ",
+        "en": "scarab"
+      }
+    ],
+    "EA-23.206": [
+      {
+        "key": "bit2---eleAcid",
+        "ja": "アシッドビット",
+        "en": "acid bit"
+      },
+      {
+        "key": "bit2---eleChaos",
+        "ja": "カオスビット",
+        "en": "chaos bit"
+      },
+      {
+        "key": "bit2---eleCold",
+        "ja": "ブルービット",
+        "en": "blue bit"
+      },
+      {
+        "key": "bit2---eleCut",
+        "ja": "ブラッドビット",
+        "en": "blood bit"
+      },
+      {
+        "key": "bit2---eleDarkness",
+        "ja": "ブラックビット",
+        "en": "black bit"
+      },
+      {
+        "key": "bit2---eleEther",
+        "ja": "エーテルビット",
+        "en": "ether bit"
+      },
+      {
+        "key": "bit2---eleFire",
+        "ja": "レッドビット",
+        "en": "red bit"
+      },
+      {
+        "key": "bit2---eleHoly",
+        "ja": "ホワイトビット",
+        "en": "white bit"
+      },
+      {
+        "key": "bit2---eleImpact",
+        "ja": "インパクトビット",
+        "en": "impact bit"
+      },
+      {
+        "key": "bit2---eleLightning",
+        "ja": "イエロービット",
+        "en": "yellow bit"
+      },
+      {
+        "key": "bit2---eleMagic",
+        "ja": "マジックビット",
+        "en": "magic bit"
+      },
+      {
+        "key": "bit2---eleMind",
+        "ja": "マッドビット",
+        "en": "mad bit"
+      },
+      {
+        "key": "bit2---eleNerve",
+        "ja": "ナーヴビット",
+        "en": "nerve bit"
+      },
+      {
+        "key": "bit2---eleNether",
+        "ja": "ヘルビット",
+        "en": "hell bit"
+      },
+      {
+        "key": "bit2---elePoison",
+        "ja": "グリーンビット",
+        "en": "green bit"
+      },
+      {
+        "key": "bit2---eleSound",
+        "ja": "サウンドビット",
+        "en": "sound bit"
+      }
+    ],
+    "EA-23.209": [
+      {
+        "key": "vesda",
+        "ja": "火炎竜 『ヴェスダ』",
+        "en": "Fire Dragon 『Vesda』"
+      }
+    ],
+    "EA-23.210": [
+      {
+        "key": "turret",
+        "ja": "オートタレット",
+        "en": "auto turret"
+      }
+    ],
+    "EA-23.211": [
+      {
+        "key": "mech_angel",
+        "ja": "A.I.R",
+        "en": "A.I.R"
+      },
+      {
+        "key": "trooper",
+        "ja": "トルーパー",
+        "en": "trooper"
+      }
+    ],
+    "EA-23.214": [
+      {
+        "key": "mech_death",
+        "ja": "マーダーボール",
+        "en": "murderball"
+      }
+    ],
+    "EA-23.216": [
+      {
+        "key": "putty_mech_b",
+        "ja": "ベス失敗作",
+        "en": "beth failure"
+      },
+      {
+        "key": "rocketman",
+        "ja": "デーヴ",
+        "en": "Dave"
+      }
+    ],
+    "EA-23.223": [
+      {
+        "key": "erishe",
+        "ja": "エレアの少女 『エリシェ』",
+        "en": "Elean little girl 『erishe』"
+      }
+    ],
+    "EA-23.224": [
+      {
+        "key": "dog_ves",
+        "ja": "「ヴェセル」と名付けられた仔犬",
+        "en": "puppy named \"Vesel\""
+      },
+      {
+        "key": "keeper_garden",
+        "ja": "『庭の主』",
+        "en": "『Keeper of the Garden』"
+      },
+      {
+        "key": "swordkeeper2",
+        "ja": "裏切りの公子 『イノス＝トゥルス2』",
+        "en": "Prince of Betrayal 『Innos Tur'as 2 』"
+      }
+    ],
+    "EA-23.225": [
+      {
+        "key": "namamani",
+        "ja": "機械好きの 『マニ』",
+        "en": "machinist 『Mani』"
+      },
+      {
+        "key": "namamani2",
+        "ja": "記憶を失った 『マニ』",
+        "en": "memoryless 『Mani』"
+      }
+    ],
+    "EA-23.231": [
+      {
+        "key": "vampire",
+        "ja": "吸血鬼",
+        "en": "vampire"
+      }
+    ],
+    "EA-23.236": [
+      {
+        "key": "bat_trans",
+        "ja": "コウモリ",
+        "en": "bat"
+      }
+    ],
+    "EA-23.239": [
+      {
+        "key": "robot",
+        "ja": "2B",
+        "en": "2B"
+      }
+    ],
+    "EA-23.240": [
+      {
+        "key": "shark_mech",
+        "ja": "機械鮫",
+        "en": "machine shark"
+      }
+    ],
+    "EA-23.242": [
+      {
+        "key": "cocoon",
+        "ja": "コクーン",
+        "en": "cocoon"
+      }
+    ],
+    "EA-23.250": [
+      {
+        "key": "horome",
+        "ja": "月影の 『ホロメ』",
+        "en": "Goddess of Moonshadow 『Horome』"
+      }
+    ],
+    "EA-23.250-patch-1": [
+      {
+        "key": "eyth",
+        "ja": "無の 『エイス』",
+        "en": "God of Infidel 『Eyth』"
+      }
+    ],
+    "EA-23.254": [
+      {
+        "key": "bike_cub",
+        "ja": "カブ",
+        "en": "cub"
+      },
+      {
+        "key": "bike_kane",
+        "ja": "xX_K4N3D4_Xx",
+        "en": "xX_K4N3D4_Xx"
+      },
+      {
+        "key": "bike_kane_custom",
+        "ja": "xX_KAN3D4_R34P3R_Xx",
+        "en": "xX_KAN3D4_R34P3R_Xx"
+      },
+      {
+        "key": "unicorn",
+        "ja": "ユニコーン",
+        "en": "unicorn"
+      },
+      {
+        "key": "unicorn_kp",
+        "ja": "カルビ",
+        "en": "kelpie"
+      },
+      {
+        "key": "unicorn_nm",
+        "ja": "ナイトメア",
+        "en": "nightmare"
+      }
+    ],
+    "EA-23.256": [
+      {
+        "key": "lich_demi",
+        "ja": "デミリッチ",
+        "en": "demi lich"
+      },
+      {
+        "key": "lich_master",
+        "ja": "マスターリッチ",
+        "en": "master lich"
+      }
+    ],
+    "EA-23.257": [
+      {
+        "key": "imotoroid",
+        "ja": "妹 ",
+        "en": "younger sister"
+      },
+      {
+        "key": "imotoroid_origin",
+        "ja": "妹 ",
+        "en": "younger sister"
+      }
+    ],
+    "EA-23.258": [
+      {
+        "key": "bike_leet",
+        "ja": "《xX_K4N3D4_Xx》",
+        "en": "《xX_K4N3D4_Xx》"
+      },
+      {
+        "key": "miko_elite",
+        "ja": "巫女 ",
+        "en": "Miko"
+      }
+    ],
+    "EA-23.261": [
+      {
+        "key": "messenger_death",
+        "ja": "死神の使い",
+        "en": "messenger of death"
+      },
+      {
+        "key": "reaper",
+        "ja": "《リーパー》",
+        "en": "《reaper》"
+      }
+    ],
+    "EA-23.262": [
+      {
+        "key": "mamani",
+        "ja": "機械の 『マニ』",
+        "en": "God of Machine 『Mani』"
+      }
+    ],
+    "EA-23.265": [
+      {
+        "key": "drone",
+        "ja": "ドローン",
+        "en": "drone"
+      },
+      {
+        "key": "yatsu",
+        "ja": "昔から左下にいたヤツ",
+        "en": "The one that’s always been in the bottom left"
+      }
+    ],
+    "EA-23.270": [
+      {
+        "key": "mimu",
+        "ja": "星屑ディーヴァ 『ミムルル九番』",
+        "en": "Stardust Diva 『Mimululu No.9』"
+      }
+    ],
+    "EA-23.271": [
+      {
+        "key": "kumatan",
+        "ja": "くまたん",
+        "en": "kumatan"
+      }
+    ],
+    "EA-23.272": [
+      {
+        "key": "priest",
+        "ja": "プリースト ",
+        "en": "priest"
+      },
+      {
+        "key": "putty_forest",
+        "ja": "森プチ",
+        "en": "forest putit"
+      }
+    ],
+    "EA-23.273": [
+      {
+        "key": "rat_mouse",
+        "ja": "マウス",
+        "en": "mouse"
+      }
+    ],
+    "EA-23.275": [
+      {
+        "key": "priest2",
+        "ja": "プリースト ",
+        "en": "priest"
+      }
+    ],
+    "EA-23.285": [
+      {
+        "key": "mad_rich",
+        "ja": "発狂した金持ち ",
+        "en": "mad millionaire"
+      }
+    ],
+    "EA-23.286": [
+      {
+        "key": "murderer",
+        "ja": "殺人鬼 ",
+        "en": "murderer"
+      }
+    ],
+    "EA-23.288": [
+      {
+        "key": "machine_speller",
+        "ja": "逆位観測体",
+        "en": "reverse position observer"
+      }
+    ],
+    "EA-23.289": [
+      {
+        "key": "froglin",
+        "ja": "カエルの ",
+        "en": "frog"
+      },
+      {
+        "key": "merchant_travel",
+        "ja": "行商人 ",
+        "en": "wandering merchant"
+      },
+      {
+        "key": "ratkin",
+        "ja": "ラトキン ",
+        "en": "ratkin"
+      }
+    ],
+    "EA-23.290": [
+      {
+        "key": "merchant_travel2",
+        "ja": "行商人 ",
+        "en": "wandering merchant"
+      }
+    ],
+    "EA-23.291": [
+      {
+        "key": "wolfguy",
+        "ja": "人狼",
+        "en": "werewolf"
+      }
+    ],
+    "EA-23.293": [
+      {
+        "key": "doppelganger",
+        "ja": "ドッペルゲンガー",
+        "en": "doppelganger"
+      }
+    ],
+    "EA-23.296": [
+      {
+        "key": "hitman",
+        "ja": "殺し屋 ",
+        "en": "hitman"
+      },
+      {
+        "key": "thief",
+        "ja": "見習い盗賊 ",
+        "en": "apprentice thief"
+      }
+    ],
+    "EA-23.297": [
+      {
+        "key": "necromancer",
+        "ja": "死霊術師",
+        "en": "necromancer"
+      },
+      {
+        "key": "unseenhand",
+        "ja": "《見えざる手》",
+        "en": "《Unseen Hand》"
+      }
+    ],
+    "EA-23.298": [
+      {
+        "key": "alien2",
+        "ja": "エイリアン犬",
+        "en": "alien dog"
+      }
+    ],
+    "EA-23.299": [
+      {
+        "key": "snatch",
+        "ja": "《黄金の羽玉》",
+        "en": "《winged golden ball》"
+      }
+    ],
+    "EA-23.300": [
+      {
+        "key": "alien_queen",
+        "ja": "『女王エイリアン』",
+        "en": "『Alien Queen』"
+      },
+      {
+        "key": "cocoon_alien",
+        "ja": "卵",
+        "en": "egg"
+      },
+      {
+        "key": "dwarf",
+        "ja": "丘の民 ",
+        "en": "hillfolk"
+      }
+    ],
+    "EA-23.301": [
+      {
+        "key": "nyaruruga",
+        "ja": "這い寄る混沌",
+        "en": "crawling chaos"
+      }
+    ],
+    "EA-23.304": [
+      {
+        "key": "robobo",
+        "ja": "ゼイレンの巨兵",
+        "en": "titan of Xeren"
+      }
+    ],
+    "EA-23.306": [
+      {
+        "key": "big_daddy2",
+        "ja": "『ビッグダディ』",
+        "en": "『Big Daddy』"
+      }
+    ],
+    "EA-23.310": [
+      {
+        "key": "alien3",
+        "ja": "エイリアン",
+        "en": "alien"
+      }
+    ],
+    "EA-23.312": [
+      {
+        "key": "bubble_pudding",
+        "ja": "プリン",
+        "en": "pudding"
+      },
+      {
+        "key": "cat_big",
+        "ja": "大猫",
+        "en": "big cat"
+      },
+      {
+        "key": "gremlin",
+        "ja": "グレムリン",
+        "en": "gremlin"
+      }
+    ],
+    "EA-23.315": [
+      {
+        "key": "moa",
+        "ja": "モア",
+        "en": "moa"
+      }
+    ],
+    "EA-23.317": [
+      {
+        "key": "marshmallow_monster",
+        "ja": "マショマロモンスター",
+        "en": "marshmallow monster"
+      }
+    ],
+    "EA-23.319": [
+      {
+        "key": "marshmallow_king",
+        "ja": "《マショマロモンスター》",
+        "en": "《marshmallow monster》"
+      }
+    ],
+    "EA-23.326": [
+      {
+        "key": "titan_iron",
+        "ja": "鉄巨兵",
+        "en": "iron colossus"
+      }
+    ],
+    "EA-23.327": [
+      {
+        "key": "behemoth",
+        "ja": "ベヒーモス",
+        "en": "behemoth"
+      },
+      {
+        "key": "mamani2",
+        "ja": "機械の 『マニ』",
+        "en": "God of Machine 『Mani』"
+      }
+    ],
+    "EA-23.331": [
+      {
+        "key": "buffalo",
+        "ja": "バッファロー",
+        "en": "buffalo"
+      },
+      {
+        "key": "cow_milk",
+        "ja": "乳牛",
+        "en": "dairy cow"
+      },
+      {
+        "key": "mush_quantum",
+        "ja": "量子きのこ",
+        "en": "quantum mushroom"
+      }
+    ],
+    "EA-23.49": [
+      {
+        "key": "chef",
+        "ja": "パティシエ ",
+        "en": "patissier"
+      },
+      {
+        "key": "miner",
+        "ja": "鉱夫 ",
+        "en": "miner"
+      }
+    ],
+    "EA-23.50": [
+      {
+        "key": "big_sister_alt",
+        "ja": "『ビッグシスター』",
+        "en": "『big sister』"
+      },
+      {
+        "key": "dancer",
+        "ja": "ダンサー ",
+        "en": "dancer"
+      },
+      {
+        "key": "griffin",
+        "ja": "孤高のミミズク 『グリフィン』",
+        "en": "majestic owl  『Griffin』"
+      }
+    ],
+    "EA-23.51": [
+      {
+        "key": "yeek_archer",
+        "ja": "イークの射手",
+        "en": "yeek archer"
+      },
+      {
+        "key": "yeek_warrior",
+        "ja": "イークの戦士",
+        "en": "yeek warrior"
+      }
+    ],
+    "EA-23.52": [
+      {
+        "key": "yeek_kamikaze",
+        "ja": "カミカゼイーク",
+        "en": "kamikaze yeek"
+      },
+      {
+        "key": "yeek_master",
+        "ja": "マスターイーク",
+        "en": "master yeek"
+      }
+    ],
+    "EA-23.53": [
+      {
+        "key": "test_chicken",
+        "ja": "テストチキン",
+        "en": "test chicken"
+      }
+    ],
+    "EA-23.56": [
+      {
+        "key": "golem_gold",
+        "ja": "ゴールドゴーレム",
+        "en": "gold golem"
+      },
+      {
+        "key": "golem_steel",
+        "ja": "スティールゴーレム",
+        "en": "steel golem"
+      },
+      {
+        "key": "golem_stone",
+        "ja": "ストーンゴーレム",
+        "en": "stone golem"
+      },
+      {
+        "key": "golem_wood",
+        "ja": "ウッドゴーレム",
+        "en": "wood golem"
+      },
+      {
+        "key": "skeleton_berserker",
+        "ja": "骸骨狂戦士",
+        "en": "skeleton berserker"
+      }
+    ],
+    "EA-23.58": [
+      {
+        "key": "cobra_king",
+        "ja": "キングコブラ",
+        "en": "king cobra"
+      },
+      {
+        "key": "mummy_greater",
+        "ja": "グレイターマミー",
+        "en": "greater mummy"
+      },
+      {
+        "key": "mummy_lesser",
+        "ja": "レッサーマミー",
+        "en": "lesser mummy"
+      },
+      {
+        "key": "scorpion_king",
+        "ja": "ダイオウサソリ",
+        "en": "King scorpion"
+      }
+    ],
+    "EA-23.59": [
+      {
+        "key": "goblin_warrior",
+        "ja": "ゴブリンの戦士",
+        "en": "goblin warrior"
+      },
+      {
+        "key": "goblin_wizard",
+        "ja": "ゴブリンの魔法使い",
+        "en": "goblin wizard"
+      },
+      {
+        "key": "hedgehog_ether",
+        "ja": "輝くハリねずみ",
+        "en": "Shining hedgehog"
+      }
+    ],
+    "EA-23.60": [
+      {
+        "key": "moyer",
+        "ja": "キャラバンのマスコット 『モイアー』",
+        "en": "caravan's mascot 『Moyer』"
+      },
+      {
+        "key": "nymph",
+        "ja": "ニンフ",
+        "en": "nymph"
+      },
+      {
+        "key": "orc_warrior",
+        "ja": "オークの戦士",
+        "en": "orc warrior"
+      }
+    ],
+    "EA-23.62": [
+      {
+        "key": "parttimer_jure",
+        "ja": "着ぐるみのバイト",
+        "en": "part time mascot"
+      }
+    ],
+    "EA-23.64": [
+      {
+        "key": "santa",
+        "ja": "『サンタクロース』",
+        "en": "『Santa Claus』"
+      }
+    ],
+    "EA-23.66": [
+      {
+        "key": "orc_goda",
+        "ja": "オークの副隊長 《ゴダ》",
+        "en": "Vice Captain of Orc 《Goda》"
+      }
+    ],
+    "EA-23.74": [
+      {
+        "key": "baptist_blue",
+        "ja": "青の洗礼者",
+        "en": "blue baptist"
+      },
+      {
+        "key": "deathgaze",
+        "ja": "デスゲイズ",
+        "en": "death gaze"
+      },
+      {
+        "key": "stalker_shadow",
+        "ja": "闇の老師",
+        "en": "shadow stalker"
+      }
+    ],
+    "EA-23.74-fix-1": [
+      {
+        "key": "dragon---eleCold",
+        "ja": "ブルードラゴン",
+        "en": "blue dragon"
+      },
+      {
+        "key": "dragon---eleFire",
+        "ja": "レッドドラゴン",
+        "en": "red dragon"
+      },
+      {
+        "key": "dragon---eleLightning",
+        "ja": "イエロードラゴン",
+        "en": "yellow dragon"
+      }
+    ],
+    "EA-23.76": [
+      {
+        "key": "bear_brown",
+        "ja": "ブラウンベア",
+        "en": "brown bear"
+      },
+      {
+        "key": "dog_hound",
+        "ja": "猟犬",
+        "en": "huting dog"
+      },
+      {
+        "key": "sealion_super",
+        "ja": "超大食いトド",
+        "en": "super hungry sea lion"
+      }
+    ],
+    "EA-23.77": [
+      {
+        "key": "bahamut",
+        "ja": "黒銀の翼 《バハムート》",
+        "en": "Wings of Terror 《バハムート》"
+      },
+      {
+        "key": "blade_alpha",
+        "ja": "ブレイド",
+        "en": "blade"
+      },
+      {
+        "key": "blade_beta",
+        "ja": "ブレイドβ",
+        "en": "blade beta"
+      }
+    ],
+    "EA-23.78": [
+      {
+        "key": "bit---eleImpact",
+        "ja": "爆発するファンネル",
+        "en": "Impact bit"
+      }
+    ],
+    "EA-23.80": [
+      {
+        "key": "beholder",
+        "ja": "ビホルダー",
+        "en": "beholder"
+      },
+      {
+        "key": "evileye",
+        "ja": "《エビルアイ》",
+        "en": "《evil eye》"
+      },
+      {
+        "key": "living_armor",
+        "ja": "リビングアーマー",
+        "en": "living armor"
+      }
+    ],
+    "EA-23.82-patch-4": [
+      {
+        "key": "dragon---eleDarkness",
+        "ja": "ブラックドラゴン",
+        "en": "black dragon"
+      },
+      {
+        "key": "dragon2---eleChaos",
+        "ja": "カオスドラゴン",
+        "en": "chaos dragon"
+      },
+      {
+        "key": "dragon2---eleNether",
+        "ja": "ヘルドラゴン",
+        "en": "hell dragon"
+      }
+    ],
+    "EA-23.83": [
+      {
+        "key": "raphael",
+        "ja": "女たらしの 『ラファエロ』",
+        "en": "womanizer 『Raphael』"
+      }
+    ],
+    "EA-23.87": [
+      {
+        "key": "master_arena",
+        "ja": "アリーナマスター ",
+        "en": "arena master"
+      },
+      {
+        "key": "soldier_fallen",
+        "ja": "敗残兵",
+        "en": "fallen soldier"
+      }
+    ],
+    "EA-23.88": [
+      {
+        "key": "bubble_blue",
+        "ja": "ブルーバブル",
+        "en": "blue bubble"
+      },
+      {
+        "key": "isca",
+        "ja": "堕天使 《イスカ》",
+        "en": "fallen angel 《Isca》"
+      },
+      {
+        "key": "slime_plain",
+        "ja": "スライム",
+        "en": "slime"
+      }
+    ],
+    "EA-23.89": [
+      {
+        "key": "dungeon_cleaner",
+        "ja": "《ダンジョンクリーナー》",
+        "en": "《Dungeon Cleaner》"
+      }
+    ],
+    "EA-23.90": [
+      {
+        "key": "minotaur_boxer",
+        "ja": "ミノタウロスの闘志",
+        "en": "minotaur boxer"
+      },
+      {
+        "key": "minotaur_fighter",
+        "ja": "ミノタウロスの戦士",
+        "en": "minotaur warrior"
+      },
+      {
+        "key": "minotaur_mage",
+        "ja": "ミノタウロスの術師",
+        "en": "minotaur mage"
+      }
+    ],
+    "EA-23.90-patch-1": [
+      {
+        "key": "bell_gold",
+        "ja": "ゴールドベル",
+        "en": "gold bell"
+      },
+      {
+        "key": "imp_chaos",
+        "ja": "カオスインプ",
+        "en": "chaos imp"
+      },
+      {
+        "key": "imp_nether",
+        "ja": "冥界の使い",
+        "en": "nether imp"
+      }
+    ],
+    "EA-23.93": [
+      {
+        "key": "cyclops",
+        "ja": "サイクロプス",
+        "en": "cyclops"
+      },
+      {
+        "key": "ungaga",
+        "ja": "ミノタウロスの王子 《ウンガガ》",
+        "en": "minotaur prince 《Ungaga》"
+      }
+    ],
+    "EA-23.95": [
+      {
+        "key": "mush2",
+        "ja": "きのこ",
+        "en": "mushroom"
+      },
+      {
+        "key": "spider_black",
+        "ja": "ブラックウィドウ",
+        "en": "black widow"
+      }
+    ],
+    "EA-23.97": [
+      {
+        "key": "handmaiden",
+        "ja": "ルロスの侍女",
+        "en": "handmaiden of Lolth"
+      },
+      {
+        "key": "yochlol",
+        "ja": "ルロスの侍女 《ヨクロール》",
+        "en": "handmaiden of Lolth 《yochlol》"
+      }
+    ],
+    "EA-23.98": [
+      {
+        "key": "armor_death",
+        "ja": "デスアーマー",
+        "en": "death armor"
+      },
+      {
+        "key": "armor_gold",
+        "ja": "ゴールデンアーマー",
+        "en": "golden armor"
+      },
+      {
+        "key": "ent_cold",
+        "ja": "氷結樹",
+        "en": "ice ent"
+      },
+      {
+        "key": "ent_fire",
+        "ja": "火炎樹",
+        "en": "fire ent"
+      }
+    ]
+  }
+}
