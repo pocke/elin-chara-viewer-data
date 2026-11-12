@@ -1,0 +1,7 @@
+id,element,targetElement,subFactor,targetSubFactor,baseDC,critRange,fumbleRange,dice,lvMod
+lockpick,lockpicking,_void,0.5,0,5,1,1,20,0
+dogmeat,taming,_void,0,0,15,1,1,20,0
+reading,reading,reading,0,0,10,1,1,20,0
+spotting,spotting,_void,0,0,15,1,1,20,0
+hit,DEX,DEX,0,0,1,0,0,20,0
+affinity,CHA,CHA,0,0,10,1,1,20,0
